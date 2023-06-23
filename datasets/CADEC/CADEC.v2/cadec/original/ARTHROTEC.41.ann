@@ -1,0 +1,24 @@
+T1	ADR 807 813	nausea
+T2	ADR 0 9	Dizziness
+T3	ADR 11 19	sickness
+#1	AnnotatorNotes T3	This would most likely represent nausea
+T4	ADR 21 32	stomach gas
+#2	AnnotatorNotes T4	Possibly pain/nausea/ bloating
+T5	ADR 145 157	hunger pangs
+#3	AnnotatorNotes T5	Possibly abdominal pains
+T6	Disease 311 323	fibromyalgia
+T7	Symptom 403 418	severe hip pain
+T8	ADR 660 673	feel dreadful
+#4	AnnotatorNotes T8	Possibly nausea/ fatigue
+T9	ADR 731 751	fear of falling over
+T10	ADR 760 764	sick
+T11	ADR 769 781	light headed
+T12	ADR 879 897	permanent hangover
+T13	ADR 916 922	hunger
+#5	AnnotatorNotes T13	Hunger pains from the context which would be similar to abdominal pain
+T14	Symptom 1033 1048	pain in my hips
+T15	Drug 293 303	co-codamol
+T16	Drug 443 453	co codamol
+T17	Drug 566 586	cortozone injections
+T18	ADR 34 80	feel like a bubble of air is stuck in my chest
+T20	ADR 833 848	feel all clammy

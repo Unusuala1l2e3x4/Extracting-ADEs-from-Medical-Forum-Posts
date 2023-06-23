@@ -1,0 +1,9 @@
+TT1	76948002 | Severe pain |+ 300954003 | Pain in calf | 0 19;20 25	Severe pain in both calfs
+TT2	76948002 | Severe pain |+ 300954003 | Pain in calf |+ 78514002 | Pain in thigh| 0 19;30 36	Severe pain in both thighs
+TT3	284151004 | Unable to move leg | 47 56;57 69	unable to lift my legs
+TT5	CONCEPT_LESS 47 56;97 111	unable to get in the car
+TT10	284977008 | Difficulty dressing | 47 56;73 88	unable to put on my pants
+TT6	3877011000036101 | Lipitor | 147 154	Lipitor
+TT7	247347003 | Discomfort | 210 231	discomfort in my legs
+TT8	68962001 | Myalgia | 467 474	myalgia
+TT9	3877011000036101 | Lipitor | 480 487	Lipitor

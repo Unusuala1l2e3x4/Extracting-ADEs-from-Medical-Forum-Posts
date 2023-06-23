@@ -1,0 +1,12 @@
+T1	ADR 22 30	agitated
+#1	AnnotatorNotes T1	Insomnia / Agitation
+T2	ADR 42 76	hideously increased muscle tension
+T3	ADR 78 92	short tempered
+#2	AnnotatorNotes T3	Agitation
+T4	Symptom 127 134;135 139	pain in hand
+T5	ADR 155 164	agitation
+#3	AnnotatorNotes T5	Agitation
+T6	ADR 186 203	spasms in my back
+T8	ADR 32 40	insomnia
+T9	ADR 94 103	impatient
+T17	Symptom 127 134;142 145	pain in arm

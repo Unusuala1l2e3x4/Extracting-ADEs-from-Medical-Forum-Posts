@@ -1,0 +1,9 @@
+T1	Drug 27 34	lipitor
+T2	ADR 136 148	loose stools
+T3	ADR 128 131	gas
+#1	AnnotatorNotes T3	nonspecific, eructation, flatus, bloating
+T4	ADR 173 182	heel pain
+T6	ADR 188 200	loose stools
+T7	ADR 205 208	gas
+T5	ADR 295 307	loose stools
+T8	ADR 321 324	gas

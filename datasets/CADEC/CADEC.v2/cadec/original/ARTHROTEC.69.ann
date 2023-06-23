@@ -1,0 +1,4 @@
+T1	ADR 11 19	diarrhea
+T2	ADR 5 8	gas
+#1	AnnotatorNotes T2	flatulence
+T3	Symptom 196 200	pain

@@ -1,0 +1,10 @@
+T1	ADR 0 11	severe pain
+T2	ADR 16 66	severe limitation in movement in upper arm muscles
+T3	ADR 68 83	memory deficits
+T4	ADR 88 104	mental fogginess
+T5	ADR 106 124	worsening cataract
+T6	ADR 126 162	parkinson's-type tremor in left hand
+T7	Drug 194 201	mevacor
+T8	ADR 207 218	muscle pain
+T9	ADR 289 295	tremor
+T10	Finding 578 602	worsening of gum disease

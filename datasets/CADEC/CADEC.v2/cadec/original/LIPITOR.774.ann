@@ -1,0 +1,9 @@
+T1	ADR 0 12	HORRIBLE GAS
+T2	ADR 17 29	CONSTIPATION
+T3	Drug 113 120	Lipitor
+T4	Drug 187 194	Lipitor
+T5	Drug 423 430	Lipitor
+T6	Drug 511 518	LIPITOR
+T7	ADR 612 615	gas
+T8	Finding 139 168	high C-reactive protein level
+#1	AnnotatorNotes T8	This is not a disease but it is the reason the patient is taking the drug.

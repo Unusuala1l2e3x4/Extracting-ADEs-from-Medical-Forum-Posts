@@ -1,0 +1,11 @@
+T1	ADR 0 3;12 20	Leg cramping
+T2	ADR 8 11;12 20	toe cramping
+T3	ADR 22 30	leg pain
+T4	ADR 32 64	fasciculations (muscle twitches)
+T5	ADR 66 80	muscle atrophy
+T6	ADR 82 97	memory problems
+T7	ADR 99 120	peripheral neuropathy
+T8	Drug 134 141	Lipitor
+T9	Drug 408 414	CoQ-10
+T10	Finding 461 476	muscle problems
+T11	Drug 644 651	Lipitor

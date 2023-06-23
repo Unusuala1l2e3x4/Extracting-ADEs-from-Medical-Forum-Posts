@@ -1,0 +1,7 @@
+T1	ADR 243 252	dizziness
+T2	Symptom 79 83	pain
+T3	Symptom 105 126	stiffness in my hands
+T4	Symptom 145 182	very little mobility in my right hand
+T5	ADR 211 223	extreme pain
+T6	ADR 224 238	heavy bleeding
+#1	AnnotatorNotes T6	Menorrhagia

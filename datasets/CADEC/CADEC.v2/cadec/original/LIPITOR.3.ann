@@ -1,0 +1,17 @@
+T1	Drug 17 24	Lipitor
+T10	ADR 101 116;150 154	extreme pain in neck
+T2	ADR 101 116;117 131	extreme pain in both shoulders
+T3	ADR 206 220	Pain was worse
+T11	ADR 355 403	unable to reach the top of my head with my hands
+T4	ADR 405 409	Pain
+T12	ADR 414 433	restricted movement
+T13	ADR 549 575	discomfort in my left hand
+T5	ADR 619 623	pain
+T14	ADR 639 658	fingers are swollen
+T15	ADR 663 685	movement is restricted
+T16	ADR 707 730	hands are warm to touch
+T17	ADR 780 838	movement is restricted and it is impossible to make a fist
+T6	Drug 848 862	ibruprofen gel
+T7	Drug 922 932	Ibruprofen
+T8	Drug 1157 1164	Lipitor
+T9	ADR 1272 1284	extreme pain

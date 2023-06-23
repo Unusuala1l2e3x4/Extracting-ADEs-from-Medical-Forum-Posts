@@ -1,0 +1,12 @@
+TT1	 76948002 | Severe pain |+ 10601006 | Pain in lower limb | 0 17	Horrible leg pain
+TT2	301676004 | Unable to get off a bed | 42 77	can't get out of bed in the morning
+TT3	49218002 | Hip pain | 84 92	hip pain
+TT5	282937004 | Unable to bend down | 193 198;215 224	Can't bend over
+TT4	165247006 | Unable to climb stairs | 193 198;199 213	Can't walk up stairs
+TT6	228158008 | Walking disability | 303 318	can hardly walk
+TT7	10601006 | Pain in lower limb | 356 364	leg pain
+TT8	49218002 | Hip pain | 377 385	hip pain
+TT9	21885011000036105 | ibuprofen | 397 403	motrin
+TT10	CONCEPT_LESS 409 420	asper-cream
+TT11	3877011000036101 | Lipitor | 448 455	Lipitor
+TT12	22298006 | Myocardial infarction | 465 477	heart attack

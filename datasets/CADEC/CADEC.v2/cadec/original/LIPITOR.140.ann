@@ -1,0 +1,6 @@
+T1	ADR 55 87	difficulty with digestive system
+#1	AnnotatorNotes T1	nonspecific GI disturbance
+T2	ADR 97 108	muscle pain
+#2	AnnotatorNotes T2	myalgia
+T3	ADR 113 123	joint pain
+T4	Drug 125 132	Lipitor

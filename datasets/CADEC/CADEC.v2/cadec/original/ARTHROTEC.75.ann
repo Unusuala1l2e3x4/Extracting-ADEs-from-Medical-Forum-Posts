@@ -1,0 +1,11 @@
+T2	ADR 0 51	Vaginal bleeding when it was not time for my period
+T3	ADR 53 62	headaches
+T4	ADR 64 73	neck pain
+T5	ADR 87 98	weight gain
+#1	AnnotatorNotes T5	Weight gain
+T6	ADR 74 82	bloating
+#2	AnnotatorNotes T6	bloating
+T7	Symptom 122 143	pain in my lower back
+T1	Drug 263 269	Bextra
+T8	Drug 273 282	Neurontin
+T9	Drug 313 318	advil

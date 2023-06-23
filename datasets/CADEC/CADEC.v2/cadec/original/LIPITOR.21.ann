@@ -1,0 +1,7 @@
+T1	Drug 4 11	lipitor
+T2	Drug 101 108	lipitor
+T3	Finding 123 151	restless legs syndrome (rls)
+#1	AnnotatorNotes T3	From the sentence on its own it can't be determined that RLS is an ADR.
+T4	Finding 196 199	rls
+T5	Drug 216 223	lipitor
+T6	Drug 248 255	lipitor

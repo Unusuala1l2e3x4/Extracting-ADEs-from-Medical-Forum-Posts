@@ -1,0 +1,19 @@
+T1	ADR 163 172	neck pain
+T2	ADR 292 302	very tired
+T3	ADR 304 308;321 360	Pain in both quads (above knee, back of leg)
+T4	ADR 312 320;321 360	cramping in both quads (above knee, back of leg)
+T5	ADR 368 396	not motivated to do anything
+T6	ADR 509 532	Felt generally terrible
+T7	ADR 534 551	flu like symptoms
+T8	ADR 553 568	lower back ache
+T9	ADR 570 579	irritable
+T10	ADR 581 594	no motivation
+T12	ADR 600 607;618 622	pain in neck
+T13	ADR 600 607;628 643	pain in both upper legs
+T11	ADR 600 607;608 616	pain in knuckles
+T14	ADR 653 696	worse headache than usual (I have migraine)
+T15	Drug 759 766	Lipitor
+T16	Drug 902 909	Lipitor
+T17	Finding 946 961	prostate cancer
+T18	ADR 1189 1197;1204 1208	legs are sore
+T19	Finding 1416 1427	muscle pain

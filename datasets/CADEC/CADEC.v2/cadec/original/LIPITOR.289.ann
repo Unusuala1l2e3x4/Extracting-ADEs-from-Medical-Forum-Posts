@@ -1,0 +1,9 @@
+T1	ADR 18 31	muscle spasms
+#1	AnnotatorNotes T1	muscle spasm
+T2	ADR 89 95	Nausea
+T3	ADR 97 105	vomiting
+T4	ADR 107 117	chest pain
+T5	ADR 118 132	blood in urine
+#2	AnnotatorNotes T5	haematuria
+T6	Drug 358 365	lipitor
+T7	ADR 340 344	pain

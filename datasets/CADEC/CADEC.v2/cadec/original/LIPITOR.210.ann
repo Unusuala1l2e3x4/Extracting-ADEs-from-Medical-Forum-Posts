@@ -1,0 +1,8 @@
+T1	Drug 109 116	Lipitor
+T2	ADR 231 252	weaknesses in my legs
+#1	AnnotatorNotes T2	leg weakness
+T3	Drug 353 360	Lipitor
+T4	ADR 365 369	pain
+T5	Drug 392 399	Crestor
+T6	Drug 959 966	Lipitor
+T7	ADR 1008 1019	fall asleep

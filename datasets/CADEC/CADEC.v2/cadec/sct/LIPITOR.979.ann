@@ -1,0 +1,21 @@
+TT1	248491001 | Swollen knee | 0 7;18 23	Swollen knees
+TT3	298870001 | Elbow joint swelling | 0 7;28 34	Swollen elbows
+TT4	249917001 | Elbow stiff | 12 17;28 34	stiff elbows
+TT2	249913002 | Knee stiff | 12 17;18 23	stiff knees
+TT5	271596009 | Mental distress | 36 51	mental distress
+TT6	3877011000036101 | Lipitor | 161 168	Lipitor
+TT7	249913002 | Knee stiff | 184 189;227 232	knees stiff
+TT9	30989003 | Knee pain | 184 189;237 241	knees sore
+TT8	249917001 | Elbow stiff | 194 200;227 232	elbows stiff
+TT10	74323005 | Pain in elbow | 194 200;237 241	elbows sore
+TT11	4308002 | Repetitive strain injury | 318 344	Repetitive stress syndrome
+TT12	3723001 | Arthritis | 384 393	arthritis
+TT13	CONCEPT_LESS 441 469	felt like an old (older) man
+TT14	3877011000036101 | Lipitor | 597 604	lipitor
+TT15	84445001 | Joint stiffness | 827 839	stiff joints
+TT16	271587009 | Stiffness | 876 885	stiffness
+TT17	271587009 | Stiffness | 912 921	stiffness
+TT18	3877011000036101 | Lipitor | 1212 1219	lipitor
+TT19	271771009 | Joint swelling | 1243 1257	swollen joints
+TT20	68962001 | Myalgia | 1302 1314	Sore muscles
+TT21	84445001 | Joint stiffness | + 271771009|Joint swelling| 1320 1340	stiff swollen joints

@@ -1,0 +1,9 @@
+T1	Drug 15 22	Lipitor
+T7	ADR 226 233;243 248	pain in hands
+T8	ADR 226 233;257 261	pain in back
+T9	ADR 226 233;268 278	pain in upper legs
+T2	ADR 226 233;234 241	pain in my arms
+T3	Drug 586 593	Lipitor
+T10	Drug 689 704	Prednisone 10mg
+T5	Drug 767 776	Predisone
+T6	Drug 986 993	Lipitor

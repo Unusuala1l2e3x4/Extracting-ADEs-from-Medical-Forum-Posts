@@ -1,0 +1,5 @@
+T1	ADR 0 6;17 21	Muscle pain
+T2	ADR 11 16;17 21	joint pain
+T3	Drug 207 214	Lipitor
+T4	Drug 219 225	Tricor
+T5	Finding 326 337	bone cancer

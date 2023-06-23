@@ -1,0 +1,16 @@
+T2	ADR 0 22;34 41	Chronic pain in all my muscles
+T1	ADR 0 22;23 29	Chronic pain in all my joints
+T3	Drug 82 91	Pravachol
+T4	Drug 127 134	Lipitor
+T5	ADR 195 200;212 216	joint pain
+T6	ADR 205 211;212 216	muscle pain
+T7	Finding 245 254	arthritis
+T8	Finding 258 268	neuropathy
+T9	Finding 281 289	diabetic
+T11	ADR 295 301;318 322	thighs sore
+T10	Drug 344 351	Lipitor
+T12	Finding 393 406	heart disease
+T13	ADR 487 491	pain
+T14	Drug 626 633	Lipitor
+T15	Finding 683 685	MS
+T16	Finding 689 701	fibromyalgia

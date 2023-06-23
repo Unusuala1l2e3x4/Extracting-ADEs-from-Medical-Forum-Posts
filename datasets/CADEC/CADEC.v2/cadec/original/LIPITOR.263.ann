@@ -1,0 +1,5 @@
+T1	ADR 0 15	Aches and pains
+T2	ADR 72 81	depressed
+#1	AnnotatorNotes T2	depression
+T3	ADR 38 62	diminished mental acuity
+#2	AnnotatorNotes T3	confusion

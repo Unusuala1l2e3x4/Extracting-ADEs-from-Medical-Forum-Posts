@@ -1,0 +1,7 @@
+T1	ADR 9 14	dizzy
+T2	ADR 16 21	silly
+T3	ADR 23 29	sleepy
+T4	ADR 53 57	high
+T5	ADR 125 134	sleep aid
+#1	AnnotatorNotes T5	Positive side effect.
+T6	Symptom 153 157	pain

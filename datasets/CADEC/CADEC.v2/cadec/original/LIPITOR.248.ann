@@ -1,0 +1,7 @@
+T1	ADR 0 12	muscle aches
+#1	AnnotatorNotes T1	myalgia
+T2	ADR 17 25	weakness
+#2	AnnotatorNotes T2	weakness
+T3	ADR 93 110	high sugar attack
+#3	AnnotatorNotes T3	hyperglycemia
+T4	Drug 128 135	insalin

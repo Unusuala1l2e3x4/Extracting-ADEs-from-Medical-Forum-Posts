@@ -1,0 +1,16 @@
+T7	ADR 0 20	Persistent triedness
+T8	ADR 21 42	loss of concentration
+T9	ADR 43 71	uncharacteristical moodiness
+T10	ADR 72 94	short term memory loss
+T11	ADR 95 111	light headedness
+T12	ADR 136 158	unwarranted depression
+T13	ADR 167 197	occasional thoughts of suicide
+T14	ADR 198 207;245 256	tightness in the neck
+T16	ADR 221 244;245 256	stimuly type of feeling in the neck
+T15	ADR 284 302	husky vocal chords
+T1	ADR 475 505	persisten feeling of tiredness
+T2	ADR 544 560	light headedness
+T3	ADR 571 583	foggy vision
+T4	ADR 585 607	short term memory loss
+T5	ADR 634 663	not being able to concentrate
+T6	Drug 806 819	Lipitor 40 mg

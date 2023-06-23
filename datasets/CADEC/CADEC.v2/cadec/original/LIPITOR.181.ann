@@ -1,0 +1,11 @@
+T1	Drug 17 23	Liptor
+T2	ADR 84 92	fatigued
+T3	ADR 94 103	headaches
+T4	ADR 137 147	leg cramps
+#1	AnnotatorNotes T4	muscle spasm
+T8	ADR 152 167	very dark urine
+T5	ADR 231 252	compromising my liver
+T6	Drug 332 350	phytomega vitamins
+T7	ADR 469 479	leg cramps
+T9	ADR 496 505	hair loss
+T10	Drug 511 518	Mevacor

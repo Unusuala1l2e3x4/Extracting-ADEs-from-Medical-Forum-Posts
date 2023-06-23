@@ -1,0 +1,16 @@
+T1	ADR 0 10	jointaches
+T2	ADR 11 24	pains in legs
+T3	ADR 25 39	musclesoreness
+T4	ADR 41 45;46 51	feet pains
+T5	ADR 46 51;52 56	pains hips
+T6	ADR 46 51;57 61	pains neck
+T7	ADR 62 70	backpain
+T8	ADR 71 78;100 104	fingers hurt
+T9	ADR 79 83;100 104	toes hurt
+T10	ADR 84 88;100 104	head hurt
+T11	ADR 89 94;100 104	chest hurt
+T12	ADR 95 99;100 104	ribs hurt
+T13	ADR 106 112	rashes
+T14	ADR 113 119	itches
+T15	Drug 134 141	lipitor
+T16	Finding 159 173	type2 diabetes

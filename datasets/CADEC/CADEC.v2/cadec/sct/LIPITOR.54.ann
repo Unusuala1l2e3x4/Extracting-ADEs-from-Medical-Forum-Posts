@@ -1,0 +1,17 @@
+TT1	76948002 | Severe pain |+ 45326000 |Shoulder pain | 0 31	Severe muscle pain in shoulders
+TT3	250084002 | Cramp in calf | 61 72;87 93	cramping in calves
+TT4	449917004 | Cramp in lower limb | 61 72;98 108	cramping in hamstrings
+TT2	55300003 | Muscle cramp | 61 72;73 85	cramping in back muscles
+TT5	76948002 | Severe pain | + 68962001 | Myalgia | 110 128	Severe muscle pain
+TT6	26544005 | Muscle weakness | 175 190	losing strength
+TT7	276294005 | Isolated memory skills | 192 214	Difficulty with memory
+TT8	45326000 | Shoulder pain | 264 277	shoulder pain
+TT9	128139000 | Inflammatory disorder | 323 335	inflammation
+TT10	4106009 | Rotator cuff syndrome | 355 372	torn rotator cuff
+TT11	22253000 | Pain | 452 456	pain
+TT12	203095000 | Spasm of back muscles | 520 537	severe back spasm
+TT13	55300003 | Muscle cramp | 538 543	cramp
+TT14	45326000 | Shoulder pain | 632 645	shoulder pain
+TT15	CONCEPT_LESS 697 705	blockage
+TT16	4031011000036106 | Crestor | 752 759	Crestor
+TT17	3904011000036106 | Zocor | 763 768	Zocar

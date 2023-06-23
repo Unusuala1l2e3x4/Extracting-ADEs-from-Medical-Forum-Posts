@@ -1,0 +1,13 @@
+TT1	267036007 | Dyspnoea | 0 19	Shortness of breath
+TT2	84229001 | Fatigue | 21 28	fatigue
+TT3	68962001 | Myalgia | 30 45	muscle soreness
+TT4	298753001 | Numbness of upper limb | 47 63	numbness in arms
+TT5	25064002 | Headache | 65 83	constant headaches
+TT6	CONCEPT_LESS 85 99	impending doom
+TT7	247592009 | Poor short-term memory | 101 123	short-term memory loss
+TT8	95891005 | Influenza-like illness | 125 142	flu-like symptoms
+TT9	CONCEPT_LESS 405 415	Lovastatin
+TT10	267036007 | Dyspnoea | 488 507	shortness of breath
+TT11	68962001 | Myalgia | 513 528	muscle soreness
+TT12	25064002 | Headache | 533 542	headaches
+TT13	102480002 | Generalised acute body pains | 566 596	feel like I got hit by a truck

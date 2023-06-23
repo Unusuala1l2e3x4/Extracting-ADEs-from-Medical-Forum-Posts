@@ -1,0 +1,13 @@
+T1	ADR 0 10	Congestion
+T2	ADR 12 17	cough
+T3	ADR 19 33	elbows burning
+T4	ADR 35 50	right heel pain
+T5	ADR 52 73	loss of concentration
+T6	ADR 175 202	congestion with clear phlem
+T7	Finding 246 255	allergies
+T8	ADR 315 342	elbows would burn like fire
+T9	ADR 432 462	trouble focusing while reading
+T10	ADR 504 529	right heel became painful
+T11	ADR 765 775	congestion
+T12	Drug 860 867	Lipitor
+T13	ADR 989 999	congestion

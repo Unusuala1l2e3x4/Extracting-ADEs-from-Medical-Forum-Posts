@@ -1,0 +1,6 @@
+T1	ADR 0 9	dry mouth
+#1	AnnotatorNotes T1	xerostomia
+T3	Drug 23 31	cymbalta
+T2	Drug 52 60	voltaren
+T4	Symptom 148 152	pain
+T5	Symptom 247 251	pain

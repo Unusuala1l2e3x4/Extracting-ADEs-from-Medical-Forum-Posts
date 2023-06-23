@@ -1,0 +1,10 @@
+TT1	267031002 | Tiredness symptom | 0 9	tiredness
+TT2	419723007 | Mentally dull | 11 22	foggy brain
+TT4	10601006 | Pain in lower limb | 24 28;34 38	sore legs
+TT3	47933007 | Foot pain | 24 28;29 33	sore feet
+TT5	45326000 | Shoulder pain | 40 68	left shoulder upper arm pain
+TT6	81680005 | Neck pain | 81 90	neck pain
+TT7	CONCEPT_LESS 92 110	nose extremely dry
+TT8	277223000 | Swollen nasal mucosa | 111 133	swollen nasal passages
+TT9	445197008 | White discolouration of skin | 135 155	skin - white patches
+TT10	267052005 | Flatulence/wind | 157 162	windy

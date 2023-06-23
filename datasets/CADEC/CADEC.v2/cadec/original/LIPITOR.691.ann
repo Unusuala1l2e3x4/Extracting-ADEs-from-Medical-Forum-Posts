@@ -1,0 +1,8 @@
+T1	ADR 0 18	extreme joint pain
+T2	ADR 39 49	stiff neck
+T3	ADR 119 125;92 96	wrists pain
+T4	ADR 130 134;92 96	hips pain
+T5	ADR 143 158	general malaise
+T6	ADR 163 173	depression
+T7	ADR 372 376	pain
+T8	Drug 433 440	Lipitor

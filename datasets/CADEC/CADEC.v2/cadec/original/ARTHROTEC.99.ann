@@ -1,0 +1,7 @@
+T1	ADR 131 140	diarrhoea
+T2	ADR 71 81	queasiness
+T3	Symptom 294 298	pain
+T4	Drug 331 340	Arthrotec
+T5	Drug 404 413	Arthrotec
+T6	ADR 176 185	gas pains
+T7	Symptom 385 399	pain is severe

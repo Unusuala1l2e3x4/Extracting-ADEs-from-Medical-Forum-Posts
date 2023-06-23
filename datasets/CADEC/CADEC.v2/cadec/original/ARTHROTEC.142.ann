@@ -1,0 +1,6 @@
+T1	ADR 5 23	stomach irritation
+T2	Symptom 558 562	pain
+T4	ADR 45 59	pressure is up
+#1	AnnotatorNotes T4	hypertension
+T5	Disease 83 103	pulled my lower back
+T6	Drug 400 412	Arthrotec 75

@@ -1,0 +1,22 @@
+TT1	68962001 | Myalgia | 0 11	Muscle pain
+TT3	76948002 | Severe pain | + 30989003 | Knee pain | 13 37;52 57	Severe joint pain in the knees
+TT2	76948002 | Severe pain | + 267949000 | Shoulder joint pain | 13 37;38 47	Severe joint pain in the shoulders
+TT4	53057004 | Hand pain | 59 63;77 82;83 88	Pain in my hands
+TT6	10601006 | Pain in lower limb | 59 63;77 82;93 103	Pain in my lower legs
+TT7	449918009 | Cramp in lower leg | 68 76;77 82;93 103	cramping in my lower legs
+TT5	250082003 | Hand cramps | 68 76;77 82;83 88	cramping in my hands
+TT9	309539008 | Numbness of toe | 105 126;143 147	Numbness in all of my toes
+TT8	309536001 | Numbness of finger | 105 126;127 138	Numbness in all of my finger tips
+TT10	423052008 | Frequent night waking | 149 182	Wake up on and off all night long
+TT11	309521004 | Numbness of hand | 190 210	numbness in my hands
+TT12	45326000 | Shoulder pain | 215 232	pain in shoulders
+TT13	3877011000036101 | Lipitor | 278 285	lipitor
+TT14	68962001 | Myalgia | 307 318	muscle pain
+TT15	CONCEPT_LESS 379 413	shoulders are still very messed up
+TT16	 426206001 | Constant pain | + 45326000 | Shoulder pain | 420 442	constint shoulder pain
+TT17	309536001 | Numbness of finger | 487 493;503 511	finger numbness
+TT18	309521004 | Numbness of hand | 498 502;503 511	hand numbness
+TT19	22253000 | Pain | 573 578	pains
+TT20	3877011000036101 | Lipitor | 622 629	lipitor
+TT21	3877011000036101 | Lipitor | 701 708	lipitor
+TT22	3877011000036101 | Lipitor | 806 813	lipitor

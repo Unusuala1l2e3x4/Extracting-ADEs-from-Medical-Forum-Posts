@@ -1,0 +1,11 @@
+TT1	10035067 7 15;24 26;27 31	in arms Tingling
+TT3	10052409 7 15;24 26;36 40	Tingling in legs
+TT12	10035067 7 15;24 26;45 57	Tingling in back of neck
+TT5	10033386 16 23;24 26;36 40	burning in legs
+TT6	10033386 16 23;24 26;45 57	burning in back of neck
+TT2	10033386 16 23;24 26;27 31	burning in arms
+TT4	CONCEPT_LESS 45 57	back of neck
+TT7	10024492 64 79	lightheadedness
+TT8	10001949 86 97	memory loss
+TT9	10008479 104 114	chest pain
+TT10	10040617 116 168	pain in shoulder-feels like arm pulled out of socket

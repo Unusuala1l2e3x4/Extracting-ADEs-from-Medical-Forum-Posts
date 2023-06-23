@@ -1,0 +1,19 @@
+T1	ADR 0 7;8 14	Pain in joints
+T2	ADR 0 7;19 26	Pain in muscles
+T3	ADR 0 7;38 43	Pain in knees
+T4	ADR 0 7;45 51	Pain in ankles
+T5	ADR 0 7;52 56	Pain in feet
+T6	ADR 0 7;63 72	Pain in shoulders
+T7	ADR 0 7;77 83	Pain in elbows
+T8	ADR 0 7;57 62	Pain in wrist
+T9	ADR 85 124	Unable to even climb 1 flight of stairs
+T10	ADR 126 137	Weight gain
+T11	ADR 163 167	pain
+T12	ADR 170 179	Headaches
+T13	ADR 181 188	fatigue
+T14	ADR 190 199	confusion
+T15	ADR 204 215	memory loss
+T16	ADR 217 235	Uncontrollable gas
+T17	ADR 240 248	diarrhea
+T18	ADR 262 283	burning in my stomach
+T19	Finding 351 355	pain

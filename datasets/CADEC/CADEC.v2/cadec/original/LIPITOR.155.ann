@@ -1,0 +1,11 @@
+T1	ADR 0 12	stomach pain
+T2	ADR 13 25	dizzy spells
+T3	ADR 26 34	hairloss
+#1	AnnotatorNotes T3	alopecia
+T4	ADR 35 42	fatigue
+T5	ADR 43 51	dry eyes
+T6	ADR 53 63	joint pain
+T7	Drug 87 94	Lipitor
+T8	Drug 157 164	Lipitor
+T9	ADR 171 185	stomach cramps
+T10	ADR 203 208	tired

@@ -1,0 +1,11 @@
+T1	Drug 16 23	Lipitor
+T2	ADR 39 53;59 63	severe pain in hips
+T3	ADR 39 53;66 70	severe pain in legs
+T4	ADR 91 103	so much pain
+T5	ADR 197 206;224 226;227 236	stiffness in both legs
+T6	ADR 197 206;224 226;238 242	stiffness in hips
+T8	ADR 208 216;224 226;227 236	weakness in both legs
+T9	ADR 208 216;224 226;238 242	weakness in hips
+T10	ADR 219 223;224 226;238 242	pain in hips
+T7	ADR 219 223;224 226;227 236	pain in both legs
+T11	ADR 272 276	limp

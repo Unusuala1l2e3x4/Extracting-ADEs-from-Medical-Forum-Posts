@@ -1,0 +1,11 @@
+T1	Drug 7 16	Provachol
+T2	Drug 36 43	Lipitor
+T3	Drug 98 105	Lipitor
+T4	ADR 113 136	constant low level pain
+T5	ADR 166 177	Strong pain
+T6	ADR 221 245	spikes of pain so severe
+T7	Drug 374 381	Lipitor
+T8	ADR 387 391	pain
+T9	ADR 440 444	pain
+T10	ADR 481 485	pain
+T11	Finding 569 591	chronic pain condition

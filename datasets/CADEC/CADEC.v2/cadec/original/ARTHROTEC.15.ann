@@ -1,0 +1,7 @@
+T1	ADR 13 20	diahrea
+T2	ADR 103 117	ankle swelling
+T3	ADR 122 139	lower tendon pain
+T4	Symptom 385 389	pain
+T5	Symptom 320 324	pain
+T9	Symptom 336 344	mobility
+#4	AnnotatorNotes T9	Indicates the patient had mobility problems.

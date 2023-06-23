@@ -1,0 +1,20 @@
+T1	ADR 113 128	muscle soreness
+T14	Disease 133 151	tore a calf muscle
+T2	Drug 201 208	Lipitor
+T15	Disease 286 302	coronary disease
+T13	Drug 328 335	Lipitor
+T3	ADR 371 377	nausea
+T4	ADR 382 390	sweating
+T16	Disease 449 465	coronary disease
+T5	ADR 528 535	fatigue
+T6	ADR 537 555	increased belching
+T7	ADR 557 575	stomach discomfort
+T12	ADR 580 593	leg heaviness
+T8	ADR 595 598;599 601	low bp
+T9	ADR 595 598;606 611	low pulse
+T19	Finding 622 625	flu
+T20	Finding 634 639	fever
+T10	Drug 769 776	Lipitor
+T17	Drug 833 839	Toprol
+T18	Symptom 856 872	low bp and pulse
+T11	Drug 898 905	Lipitor

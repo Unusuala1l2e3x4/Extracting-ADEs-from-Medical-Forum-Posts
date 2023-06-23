@@ -1,0 +1,11 @@
+T1	ADR 0 37	Stabbing pain between shoulder blades
+T2	ADR 39 58	I am 52 and feel 82
+T3	ADR 60 69	no energy
+T4	ADR 71 92	muscle tone depletion
+T5	ADR 94 112	strength depletion
+T6	ADR 114 155	numbness in upper legs from knee to thigh
+T7	ADR 157 161;175 187	pain in left foot
+T8	ADR 166 174;175 187	numbness in left foot
+T9	ADR 189 232	left foot larger than right now by one size
+T10	ADR 234 246	pain in feet
+T11	Drug 656 663	Crestor

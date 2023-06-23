@@ -1,0 +1,19 @@
+TT1	81680005 | Neck pain | 163 172	neck pain
+TT2	224960004 | Tired | 292 302	very tired
+TT3	78514002 | Thigh pain | 304 308;321 360	Pain in both quads (above knee, back of leg)
+TT4	449917004 | Cramp in lower limb | 312 320;321 360	cramping in both quads (above knee, back of leg)
+TT5	277521002 | Loss of motivation | 368 396	not motivated to do anything
+TT6	213257006 | Generally unwell | 509 532	Felt generally terrible
+TT7	95891005 | Influenza-like illness | 534 551	flu like symptoms
+TT8	279039007 | Low back pain | 553 568	lower back ache
+TT9	55929007 | Feeling irritable | 570 579	irritable
+TT10	277521002 | Loss of motivation | 581 594	no motivation
+TT12	81680005 | Neck pain | 600 607;618 622	pain in neck
+TT13	78514002 | Thigh pain | 600 607;628 643	pain in both upper legs
+TT11	202484005 | Proximal interphalangeal joint of finger pain | 600 607;608 616	pain in knuckles
+TT14	37796009 | Migraine | 653 696	worse headache than usual (I have migraine)
+TT15	3877011000036101 | Lipitor | 759 766	Lipitor
+TT16	3877011000036101 | Lipitor | 902 909	Lipitor
+TT17	399068003 | Malignant tumour of prostate | 946 961	prostate cancer
+TT18	10601006 | Pain in lower limb | 1189 1197;1204 1208	legs are sore
+TT19	68962001 | Myalgia | 1416 1427	muscle pain

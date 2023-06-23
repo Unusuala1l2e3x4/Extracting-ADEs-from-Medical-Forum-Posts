@@ -1,0 +1,15 @@
+T1	ADR 12 24	constipation
+T2	ADR 29 39	flatulence
+T3	Drug 88 95	Lipitor
+T4	ADR 109 120	hemorrhoids
+T5	ADR 173 185	constipation
+T6	Drug 232 239	Lipitor
+T7	ADR 243 248;278 287	urine corrosive
+T8	ADR 330 334	rash
+T9	ADR 400 415;422 426	muscle problems legs
+T10	ADR 520 540	tremendous neck pain
+T11	ADR 574 590	severe headaches
+T12	Drug 612 619	Lipitor
+T13	ADR 623 627	rash
+T14	ADR 636 647	hemorrhoids
+T15	ADR 662 681	weakness in my legs

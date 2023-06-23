@@ -1,0 +1,13 @@
+T1	ADR 13 34	muscle and joint pain
+T2	ADR 36 44;48 52	swelling feet
+T9	ADR 36 44;57 62	swelling hands
+T3	ADR 64 72	numbness
+T4	ADR 77 85	tingling
+T5	ADR 105 114	headaches
+T6	ADR 116 123	fatigue
+T7	ADR 125 139	blurred vision
+T10	ADR 178 182	pain
+T11	ADR 239 252	blurred vison
+T8	Drug 286 293	Lipitor
+T13	ADR 377 382;391 416	can't do anything with my hands
+T12	ADR 377 382;383 387	can't walk

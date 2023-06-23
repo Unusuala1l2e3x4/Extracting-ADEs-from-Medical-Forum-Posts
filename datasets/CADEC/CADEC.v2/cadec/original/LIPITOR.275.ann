@@ -1,0 +1,5 @@
+T1	ADR 11 19	gas/wind
+#1	AnnotatorNotes T1	nonspecific, eructation, flatus, bloating
+T2	Drug 543 550	Lipitor
+T3	Drug 555 560	Zocor
+T7	ADR 52 61	tiredness

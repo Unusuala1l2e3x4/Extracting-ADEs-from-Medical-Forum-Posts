@@ -1,0 +1,7 @@
+T1	ADR 0 10	DEPRESSION
+T2	ADR 12 20	INSOMNIA
+T3	ADR 22 29	anxiety
+T4	ADR 31 40	tiredness
+T5	ADR 42 61	decreased eye sight
+T6	Drug 201 208	lipitor
+T7	Drug 258 265	Lipitor

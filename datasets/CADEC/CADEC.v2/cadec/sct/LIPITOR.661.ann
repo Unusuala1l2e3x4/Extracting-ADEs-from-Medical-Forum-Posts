@@ -1,0 +1,11 @@
+TT1	162076009 | Excessive upper gastrointestinal gas | 153 169	general weakness
+TT2	426206001 | Constant pain |+ 10601006 | Pain in lower limb | 171 188	constant leg pain
+TT4	247373008 | Ankle pain | 207 226;236 242	terrible pain in my ankles
+TT3	47933007 | Foot pain | 207 226;227 231	terrible pain in my feet
+TT5	47933007 | Foot pain | 248 271	bottoms of my feet hurt
+TT7	282299006 | Unable to balance | 349 364	loss of balance
+TT6	62507009 | Pins and needles | 652 665	Tingling toes
+TT8	309538000 | Numbness of foot | 669 678	numb toes
+TT10	10601006 | Pain in lower limb | 683 687;699 703	sore legs
+TT9	247373008 | Ankle pain | 683 687;688 694	sore ankles
+TT11	CONCEPT_LESS 780 788	Mevacore

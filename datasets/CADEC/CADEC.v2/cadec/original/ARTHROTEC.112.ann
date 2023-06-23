@@ -1,0 +1,11 @@
+T1	ADR 21 42	horrible stomach pain
+T2	ADR 44 56	constipation
+#1	AnnotatorNotes T2	constipation
+T3	ADR 58 73;98 123	uterine, cramps (menopausal for 20 years)
+T4	ADR 149 165	couldn't urinate
+#2	AnnotatorNotes T4	urinary retention
+T5	ADR 183 202	severe stomach pain
+T6	ADR 204 220	constant burping
+#3	AnnotatorNotes T6	Gassy
+T7	ADR 78 97;98 123	pain in the ovaries (menopausal for 20 years)
+T8	ADR 124 147	pressure in the stomach

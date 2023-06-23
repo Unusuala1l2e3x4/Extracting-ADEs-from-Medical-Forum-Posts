@@ -1,0 +1,26 @@
+T1	ADR 0 35	severe edema with swelling of limbs
+T2	ADR 37 52	vision problems
+T3	ADR 54 62	weakness
+T4	ADR 64 75	muscle pain
+T5	ADR 77 103	rhabdomyolysis/muscle loss
+#1	AnnotatorNotes T5	I think this is a single annotation, but I might be wrong!
+T6	ADR 105 116	rapid pulse
+T7	ADR 118 123	cough
+T8	ADR 125 156	poor coordination while walking
+T9	ADR 158 167	dizziness
+T10	ADR 169 188	difficulty sleeping
+T11	ADR 190 226	increased sensitivity to other drugs
+T12	ADR 228 236	sweating
+T13	ADR 238 244	nausea
+T14	ADR 246 264	frequent headaches
+T15	ADR 266 314	numbness/tingling?aching/ heavy feeling in limps
+T16	ADR 316 358	difficulty walking due to swelling in legs
+T17	ADR 363 389	problems with coordination
+T18	ADR 391 409	fatigue, increased
+T19	Drug 483 490	Lipitor
+T20	Drug 552 559	Lipitor
+T21	Drug 588 597	Pravachol
+T22	Drug 660 667	Lipitor
+T23	Drug 698 707	Pravachol
+T24	Drug 890 897	Lipitor
+T25	Drug 906 915	Pravachol

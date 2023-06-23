@@ -1,0 +1,13 @@
+T3	ADR 0 7;18 22	Swollen feet
+T4	ADR 0 7;27 33	Swollen ankles
+T2	ADR 10 17;27 33	burning ankles
+T1	ADR 10 17;18 22	burning feet
+T5	ADR 39 88	ball of the foot would feel as if it was inflamed
+T7	ADR 90 118;144 152	Constant pins and needles in the toes
+T6	ADR 90 118;119 139	Constant pins and needles in the ball of the foot
+T8	ADR 180 226	very painful pins and needles over entire foot
+T9	ADR 284 292	swelling
+T10	Drug 306 313	Lipitor
+T11	ADR 336 344	swelling
+T12	Finding 354 358;369 400	foot skin flaked off like dermatitis
+T13	Finding 363 368;369 400	ankle skin flaked off like dermatitis

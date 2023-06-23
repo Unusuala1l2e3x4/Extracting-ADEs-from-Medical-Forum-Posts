@@ -1,0 +1,18 @@
+T1	ADR 44 50	ANZITY
+#1	AnnotatorNotes T1	anxiety
+T2	ADR 51 68	SUGAR LEVEL DROPS
+#2	AnnotatorNotes T2	hypoglycemia
+T3	ADR 71 84	STOMACH ULCER
+#3	AnnotatorNotes T3	stomach ulcer
+T4	ADR 85 95	JOINT PAIN
+T5	ADR 97 111	MEMORY TROUBLE
+#4	AnnotatorNotes T5	amnesia
+T6	Drug 131 138	LIPITOR
+T7	ADR 394 408	STOMACH ULCERS
+#5	AnnotatorNotes T7	stomach ulcer
+T8	ADR 373 389	DEJESTIVE SYSTEM
+#6	AnnotatorNotes T8	gastrointestinal side effects
+T9	Drug 236 241	SATIN
+T10	ADR 32 43	METAL MOODS
+T11	ADR 25 31	KIDNEY
+T12	ADR 157 172	KIDNEY TROUBLES

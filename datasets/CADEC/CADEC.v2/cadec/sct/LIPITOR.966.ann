@@ -1,0 +1,11 @@
+TT1	10601006 | Pain in lower limb | 0 9	leg pains
+TT2	387603000 | Impairment of balance | 10 21	balance off
+TT3	279039007 | Low back pain | 22 31;33 38	back pain Lower
+TT4	279038004 | Thoracic back pain | 22 31;43 48	back pain upper
+TT5	62507009 | Pins and needles | 50 73	finger pins and needles
+TT6	248236005 | Mentally vague | 74 85	brain vague
+TT7	271681002 | Stomach ache | 87 99	stomach pain
+TT8	80313002 | Palpitations | 101 113	palpitations
+TT9	420038007 | Feeling unhappy | 118 147	feeling desperately miserable
+TT10	10601006 | Pain in lower limb | 226 229;239 243	leg pain
+TT11	161891005 | Backache | 234 238;239 243	back pain

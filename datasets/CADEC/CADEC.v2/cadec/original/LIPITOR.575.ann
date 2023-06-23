@@ -1,0 +1,12 @@
+T1	ADR 0 20	Stroke like symptoms
+T4	ADR 22 30;44 46;47 64	Numbness on left side of face
+T5	ADR 22 30;44 46;69 77	Numbness on left arm
+T3	ADR 35 43;44 46;69 77	tingling on left arm
+T2	ADR 35 43;44 46;47 64	tingling on left side of face
+T6	ADR 84 107	effected my equilibrium
+T7	Disease 149 161	heart attack
+T8	Drug 184 191	Lipitor
+T9	ADR 240 260	stroke like symptoms
+T10	Drug 299 306	Lipitor
+T11	Drug 338 345	Lipitor
+T12	ADR 384 404	stroke like symptoms

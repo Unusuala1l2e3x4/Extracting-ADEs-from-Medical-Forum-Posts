@@ -1,0 +1,9 @@
+T1	Drug 24 31	Lipitor
+T2	ADR 58 81	severe pains in my arms
+T3	Drug 117 124	Lipitor
+T4	ADR 244 252	myopathy
+T5	Drug 264 270	Cozaar
+T6	Finding 275 282	high BP
+T7	Drug 287 297	Bisoprolol
+T8	Finding 302 313	heart rythm
+T9	ADR 315 324	Tiredness

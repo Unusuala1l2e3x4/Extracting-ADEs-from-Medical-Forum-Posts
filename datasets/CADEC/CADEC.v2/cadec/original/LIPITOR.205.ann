@@ -1,0 +1,37 @@
+T1	ADR 0 8	Alopecia
+T2	ADR 10 16	nausea
+T3	ADR 18 26	vomiting
+T4	ADR 28 52	severe back and hip pain
+T5	ADR 54 64	depression
+#1	AnnotatorNotes T5	depression
+T6	ADR 94 104	exhaustion
+T7	ADR 109 123	muscle fatigue
+T8	ADR 125 138	sleeplessness
+#2	AnnotatorNotes T8	insomnia
+T9	ADR 140 156	facial paralysis
+T10	Drug 196 203	Lipitor
+T11	ADR 257 265	alopecia
+#3	AnnotatorNotes T11	alopecia
+T12	ADR 327 333	Nausea
+T13	ADR 338 346	vomiting
+T14	ADR 482 498	facial paralysis
+T15	ADR 534 551	hip and back pain
+T16	ADR 573 583	depression
+#4	AnnotatorNotes T16	depression
+T18	ADR 609 617	paranoia
+#6	AnnotatorNotes T18	paranoioa
+T19	ADR 636 646	exhaustion
+T20	Drug 736 743	Lipitor
+T21	ADR 773 779	nausea
+T22	Drug 802 809	Lipitor
+T23	Drug 880 887	Lipitor
+T24	ADR 850 859	hair loss
+#7	AnnotatorNotes T24	alopecia
+T25	ADR 920 929	hair loss
+#8	AnnotatorNotes T25	alopecia
+T26	ADR 66 79	dark thoughts
+T27	Finding 311 317	stress
+T28	Disease 512 525	Bell's Palsey
+T17	ADR 585 604	thoughts of suicide
+T29	ADR 1060 1076	facial paralysis
+T30	ADR 1108 1125	back and hip pain

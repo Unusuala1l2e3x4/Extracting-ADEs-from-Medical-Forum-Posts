@@ -1,0 +1,20 @@
+TT1	68962001 | Myalgia | 113 128	muscle soreness
+TT14	262966007 | Rupture of muscle | 133 151	tore a calf muscle
+TT2	3877011000036101 | Lipitor | 201 208	Lipitor
+TT15	56265001 | Heart disease | 286 302	coronary disease
+TT13	3877011000036101 | Lipitor | 328 335	Lipitor
+TT3	422587007 | Nausea | 371 377	nausea
+TT4	415690000 | Sweating | 382 390	sweating
+TT16	56265001 | Heart disease | 449 465	coronary disease
+TT5	84229001 | Fatigue | 528 535	fatigue
+TT6	59976005 | Increased belching | 537 555	increased belching
+TT7	271681002 | Stomach ache | 557 575	stomach discomfort
+TT12	161873000 | Heavy legs | 580 593	leg heaviness
+TT8	271870002 | Low blood pressure reading | 595 598;599 601	low bp
+TT9	271870002 | Low blood pressure reading |+ 42177007 | Pulse slow |  595 598;606 611	low pulse
+TT19	6142004 | Influenza | 622 625	flu
+TT20	386661006 | Fever | 634 639	fever
+TT10	3877011000036101 | Lipitor | 769 776	Lipitor
+TT17	32970011000036103 | Toprol-XL | 833 839	Toprol
+TT18	271870002 | Low blood pressure reading |+ 42177007 | Pulse slow |  856 872	low bp and pulse
+TT11	3877011000036101 | Lipitor | 898 905	Lipitor

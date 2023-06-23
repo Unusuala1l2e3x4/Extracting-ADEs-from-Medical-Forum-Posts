@@ -1,0 +1,17 @@
+T1	ADR 0 8	weakness
+T2	ADR 10 17	fatigue
+T3	ADR 19 32	muscle spasms
+T4	ADR 34 43	stiffness
+T5	ADR 63 73	tendonitis
+T6	ADR 91 108	flu-like symptoms
+#1	AnnotatorNotes T6	malaise
+T7	Drug 150 157	Lipitor
+T8	ADR 261 267	weaker
+T9	ADR 269 274	stiff
+T10	ADR 280 293	low in energy
+T11	ADR 358 371	muscle spasms
+T12	ADR 385 394	tendonits
+T13	Drug 505 512	Lipitor
+T14	ADR 337 353	flu like syptoms
+#2	AnnotatorNotes T14	nonspecific, malaise?
+T15	Disease 204 222	kidney malfunction

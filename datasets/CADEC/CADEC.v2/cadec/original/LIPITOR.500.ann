@@ -1,0 +1,19 @@
+T1	ADR 0 10	Leg cramps
+T2	ADR 15 19	pain
+T3	ADR 32 53	Peripheral Neuropathy
+T4	ADR 60 107	lost most of my feeling in feet, legs and hands
+T5	ADR 109 129	Tingeling in fingers
+T6	ADR 134 149	feet is painful
+T8	ADR 151 163;173 185	Difficult to keep balance
+T7	ADR 151 163;164 168	Difficult to walk
+T9	ADR 187 205	Difficult to sleep
+T10	ADR 213 220	burning
+T11	ADR 225 229	pain
+T12	ADR 334 344	leg cramps
+T13	ADR 367 396	difficulty picking my feet up
+T14	ADR 398 405	itching
+T15	ADR 407 415	tingling
+T16	Disease 461 471	Neuropathy
+T17	Disease 477 491	Athlete's foot
+T18	Drug 543 550	Lipitor
+T19	Drug 639 646	Lipitor

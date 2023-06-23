@@ -1,0 +1,5 @@
+T3	Drug 133 141	celebrex
+#2	AnnotatorNotes T3	previous drug
+T4	Symptom 245 255	joint pain
+T5	Drug 5 15	celebrex 8
+T2	Drug 82 94	arthrotec 75

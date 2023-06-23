@@ -1,0 +1,14 @@
+T1	Drug 15 22	Lipitor
+T2	ADR 54 77	significant weight gain
+T3	ADR 154 161	fatigue
+T4	ADR 163 179	sleepless nights
+T5	ADR 190 202	constipation
+T6	ADR 207 214	diarria
+T7	ADR 230 241;253 263	muscle pain in the leg
+T8	ADR 230 241;264 273	muscle pain calf area
+T9	ADR 230 241;282 292	muscle pain lower back
+T10	ADR 321 325	pain
+T11	ADR 380 384	pain
+T12	ADR 497 501	pain
+T13	ADR 502 513	weight gain
+T14	ADR 514 521	fatigue

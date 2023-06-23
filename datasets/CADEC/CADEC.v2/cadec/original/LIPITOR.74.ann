@@ -1,0 +1,12 @@
+T1	Drug 13 20	Crestor
+T2	ADR 32 43	muscle pain
+T3	ADR 48 63	lack of control
+T4	Drug 112 119	Lipitor
+T6	ADR 152 159;169 173	Pain in back
+T5	ADR 152 159;160 164	Pain in neck
+T7	ADR 182 197	severe tingling
+T8	ADR 202 209	burning
+T9	ADR 233 253	itchy crawly feeling
+T10	Finding 324 336	nerve damage
+T11	Finding 340 354	liver problems
+T12	Drug 410 417	Lipitor

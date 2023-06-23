@@ -1,0 +1,16 @@
+TT1	281245003 | Musculoskeletal chest pain | 2 20	Chest muscle pains
+TT2	62507009 | Pins and needles | 24 40	Pins and needles
+TT3	309536001 | Numbness of finger | 61 80	Numbness in fingers
+TT16	284262007 | Difficulty gripping | 82 105	reduced hand grip power
+TT4	44077006 | Numbness | 109 117	Numbness
+TT5	22253000 | Pain | 118 122	pain
+TT6	44077006 | Numbness | 134 142	Numbness
+TT7	25064002 | Headache | 143 151	headache
+TT8	95359001 | Mucosal numbness | 167 184	Numbness in mouth
+TT9	25064002 | Headache | 188 196	Headache
+TT10	70323002 | Eye strain | 222 227;233 243	sight gets tired
+TT11	29857009 | Chest pain | 321 331	chest ache
+TT17	77424011000036100 | ubidecarenone | 819 824	CoQ10
+TT18	77424011000036100 | ubidecarenone | 983 988	CoQ10
+TT12	21930011000036101 | ezetimibe | 1194 1203	ezetimibe
+TT14	CONCEPT_LESS 1490 1500	lovastatin

@@ -1,0 +1,6 @@
+T1	ADR 0 11	muscle pain
+T2	ADR 13 22;28 36	stiffness in hands
+T3	ADR 23 27;28 36	pain in hands
+T4	ADR 127 155	trouble with walking/balance
+T5	ADR 156 160;175 179	neck pain
+T6	ADR 166 174;175 179	shoulder pain

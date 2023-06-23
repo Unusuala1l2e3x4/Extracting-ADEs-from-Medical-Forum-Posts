@@ -1,0 +1,16 @@
+T1	ADR 0 13	Upset stomach
+T2	ADR 15 21	nausea
+T3	ADR 23 31	vomiting
+T4	ADR 33 47	abdominal pain
+T5	ADR 49 61	constipation
+#1	AnnotatorNotes T5	Constipation
+T6	ADR 65 77	loose bowels
+T7	ADR 79 100	excessive hot flashes
+#2	AnnotatorNotes T7	Symptoms of menstration
+T8	ADR 105 117	night sweats
+#3	AnnotatorNotes T8	Symptoms of menstration
+T9	ADR 119 133	blurred vision
+T10	ADR 149 165	chest discomfort
+T11	Symptom 289 299	elbow pain
+T12	ADR 135 147	irritability
+#4	AnnotatorNotes T12	Possibly anxiety related symptom

@@ -1,0 +1,12 @@
+TT1	57676002 | Arthralgia | 0 5;17 21	Joint Pain
+TT12	84445001 | Joint stiffness | 0 5;24 33	Joint Stiffness
+TT3	16046003 | Muscle rigidity | 10 16;24 33	Muscle Stiffness
+TT2	68962001 | Myalgia | 10 16;17 21	Muscle Pain
+TT4	22253000 | Pain | 100 104	pain
+TT5	271587009 | Stiffness | 109 118	stiffness
+TT6	3723001 | Arthritis | 143 152	arthritis
+TT7	10601006 | Pain in lower limb | 254 269	pain in my legs
+TT8	3848011000036104 | Pravachol | 396 405	Pravachol
+TT9	419723007 | Mentally dull | 432 440	in a fog
+TT10	CONCEPT_LESS 445 466	thought I had the flu
+TT11	3877011000036101 | Lipitor | 597 604	Lipitor

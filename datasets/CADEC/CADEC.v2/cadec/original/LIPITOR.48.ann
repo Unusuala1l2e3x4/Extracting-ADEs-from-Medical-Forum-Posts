@@ -1,0 +1,15 @@
+T1	ADR 19 27	HIGH CPK
+T2	ADR 32 48;58 73	Liver blood test mildly elevated
+T3	ADR 153 159;170 174	muscle pain
+T4	ADR 164 169;170 174	joint pain
+T6	ADR 176 197;203 212	Burning sensations in shoulders
+T7	ADR 176 197;217 228	Burning sensations in upper chest
+T5	ADR 176 197;198 202	Burning sensations in neck
+T8	ADR 230 242	Palpatations
+T9	ADR 245 253	Insomnia
+T10	ADR 369 380	Weight gain
+T11	ADR 461 478	weak all the time
+T12	ADR 487 505	difficulty walking
+T13	Drug 586 591	Zocor
+T14	ADR 872 876	pain
+T15	Disease 893 904	over weight

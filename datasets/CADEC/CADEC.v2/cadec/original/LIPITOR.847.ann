@@ -1,0 +1,13 @@
+T1	ADR 0 33	severe edema of lower extremities
+T2	ADR 91 106	vision problems
+T3	ADR 108 123	muscle weakness
+T4	ADR 186 199	shoulder pain
+T5	ADR 249 270	numbness on left side
+T6	ADR 272 283	rapid pulse
+T7	ADR 285 301	productive cough
+T8	ADR 303 361	poor coordination while walking (kept bumping into things)
+T9	ADR 363 476	light-headedness (hurt to hold my head up or turn my head from side to side and that made driving real difficult)
+T10	ADR 482 493	weight gain
+T11	ADR 585 590	edema
+T12	Drug 649 656	Lipitor
+T13	ADR 672 677	edema

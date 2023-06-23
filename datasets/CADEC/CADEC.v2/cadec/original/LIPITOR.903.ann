@@ -1,0 +1,12 @@
+T1	ADR 0 15	muscle weakness
+T3	ADR 17 23;37 45	tendon ruptures
+T2	ADR 17 23;24 32	tendon weakness
+T4	ADR 47 58	memory loss
+T5	Drug 77 84	Lipitor
+T7	Finding 104 122;139 152	elevated levels of triglycerides
+T6	Finding 104 122;123 134	elevated levels of cholesterol
+T8	Drug 196 203	omega 3
+T9	Drug 205 213	fish oil
+T10	ADR 322 351;365 411	tore my right Achilles tendon just simply taking off from a sprinters stance
+T11	ADR 420 448;461 489	tore my left Achilles tendon by simply jumping in the air
+T12	Finding 650 672	tendon damage/ruptures

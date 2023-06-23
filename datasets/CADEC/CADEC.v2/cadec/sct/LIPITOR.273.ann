@@ -1,0 +1,26 @@
+TT1	68962001 | Myalgia | 8 14;25 29	pain muscle
+TT2	57676002 | Arthralgia | 19 24;25 29	joint pain
+TT3	13791008 | Asthenia | 31 46	extreme fatigue
+TT16	16046003 | Muscle rigidity | 48 64	muscle stiffness
+TT5	62507009 | Pins and needles | 66 77;78 82	tingling in feet
+TT4	62507009 | Pins and needles | 66 77;84 89	tingling in hands
+TT17	429783005 | Paraesthesia of lower extremity | 66 77;103 107	legs tingling in
+TT18	274676007 | Tingling of skin | 66 77;112 116	arms tingling in
+TT19	282145008 | Unable to walk | 126 143	inability to walk
+TT20	426120002 | Pain provoked by rest | 182 230	contact pain where weight presses against things
+TT7	68962001 | Myalgia | 345 351;362 367	muscle pains
+TT6	57676002 | Arthralgia | 356 361;362 367	joint pains
+TT8	3877011000036101 | Lipitor | 384 391	Lipitor
+TT9	22253000 | Pain | 437 441	pain
+TT10	3877011000036101 | Lipitor | 680 687	Lipitor
+TT11	3877011000036101 | Lipitor | 835 842	Lipitor
+TT21	228158008 | Walking disability | 877 890	couldn't walk
+TT22	284140004 | Unable to move arm | 892 913	couldn't lift my arms
+TT23	81680005 | Neck pain | 924 928;940 944	neck pain
+TT12	68962001 | Myalgia | 933 939;940 944	muscle pain
+TT13	21545007 | Tenalgia | 955 962;963 975;976 986	pain in every tendon in my body
+TT24	11654001 | Achilles tendonitis | 955 962;1005 1020	Achilles tendon pain in
+TT25	25064002 | Headache | 955 962;963 975;1031 1054	on the back of the head pain in every tendon
+TT14	3877011000036101 | Lipitor | 1172 1179	Lipitor
+TT15	3877011000036101 | Lipitor | 1212 1219	Lipitor
+TT26	77424011000036100 | ubidecarenone | 1254 1265	coenzymeQ10

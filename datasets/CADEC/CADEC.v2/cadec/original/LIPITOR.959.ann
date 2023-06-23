@@ -1,0 +1,8 @@
+T1	ADR 0 9	neck pain
+T2	ADR 10 21	back spasms
+T3	ADR 22 36	foggy thinking
+T4	ADR 37 45	insomnia
+T5	Drug 316 324	red rice
+T6	Drug 334 341	omega 3
+T7	Finding 384 390	plaque
+T8	Finding 427 444	high plaque count

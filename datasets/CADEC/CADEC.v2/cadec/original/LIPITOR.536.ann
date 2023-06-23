@@ -1,0 +1,20 @@
+T1	ADR 0 18	slurring in speech
+T2	ADR 20 35	lower back pain
+T3	ADR 37 44	bloated
+T4	ADR 46 57	constipated
+T5	ADR 62 77	severe hip pain
+T6	ADR 92 103	Memory loss
+T7	ADR 108 115	fatigue
+T8	ADR 120 135	muscle weakness
+T9	ADR 140 150	depression
+T10	ADR 156 171	sleepless nites
+T11	ADR 173 183	Sight loss
+T12	ADR 188 204	very off balance
+T13	ADR 288 296	hip pain
+T14	Drug 348 355	Lipitor
+T15	Drug 556 563	Lipitor
+T16	ADR 584 599	lower back pain
+T17	ADR 633 651	impossible to move
+T18	Drug 688 695	Lipitor
+T19	Symptom 758 762	pain
+T20	Drug 792 799	Lipitor

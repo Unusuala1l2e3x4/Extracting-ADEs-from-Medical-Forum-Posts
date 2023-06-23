@@ -1,0 +1,8 @@
+T1	ADR 0 6;16 18;19 23	Aching in legs
+T3	ADR 0 6;16 18;24 28	Aching in back
+T4	ADR 0 6;16 18;33 42	Aching in shoulders
+T6	ADR 16 18;24 28;7 15	in back weakness
+T7	ADR 16 18;33 42;7 15	in shoulders weakness
+T5	ADR 16 18;19 23;7 15	in legs weakness
+T8	Drug 72 79	lipitor
+T9	Finding 145 161	high cholesterol

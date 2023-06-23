@@ -1,0 +1,8 @@
+T1	ADR 0 16	severe headaches
+T2	ADR 18 30	stomach pain
+T3	ADR 32 43	loose stool
+T4	ADR 112 132	muscle spasms in leg
+T5	ADR 176 194	spasms in left arm
+T6	Symptom 228 241	athritic pain
+T7	Symptom 261 270	knee pain
+T9	Symptom 284 293	knee pain

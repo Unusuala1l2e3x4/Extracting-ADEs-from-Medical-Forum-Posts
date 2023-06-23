@@ -1,0 +1,9 @@
+T1	ADR 0 11	muscle pain
+T2	ADR 13 23	joint pain
+T3	ADR 25 33	weakness
+T4	ADR 43 53	exhaustion
+T5	ADR 55 70	gum ulcerations
+T6	ADR 72 81	hair loss
+T8	ADR 171 178;188 192	pain in legs
+T7	ADR 171 178;179 183	pain in arms
+T9	ADR 203 212	stiffness

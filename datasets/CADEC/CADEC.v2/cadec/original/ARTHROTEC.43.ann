@@ -1,0 +1,7 @@
+T1	ADR 7 22	severe cramping
+T2	ADR 24 32	diarrhea
+T3	ADR 34 64	increased menstrual blood flow
+#1	AnnotatorNotes T3	Menorrhagia
+T4	Drug 90 99	Arthrotec
+T5	ADR 124 144	urinary incontinence
+#2	AnnotatorNotes T5	Urinary Incontinence

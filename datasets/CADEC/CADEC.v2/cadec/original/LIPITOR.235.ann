@@ -1,0 +1,11 @@
+T1	ADR 7 18	muscle pain
+#1	AnnotatorNotes T1	myalgia
+T2	ADR 23 43	movement restriction
+#2	AnnotatorNotes T2	decrease range of motion
+T3	ADR 50 56	tremor
+#3	AnnotatorNotes T3	tremor
+T4	ADR 58 73	memory deficits
+#4	AnnotatorNotes T4	amnesia
+T6	ADR 75 93	worsening cataract
+#5	AnnotatorNotes T6	exacerbation of cataracts
+T8	ADR 95 109	gum infections

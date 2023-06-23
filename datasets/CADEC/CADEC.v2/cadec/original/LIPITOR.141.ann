@@ -1,0 +1,10 @@
+T3	Drug 354 361	Lipitor
+T4	ADR 414 418	pain
+T5	ADR 423 435	cannot sleep
+#1	AnnotatorNotes T5	insomnia
+T6	Drug 545 552	Lipitor
+T2	ADR 21 28;50 54	pain in neck
+T1	ADR 21 28;37 45	pain in shoulder
+T7	ADR 56 83	Unable to raise my left arm
+T8	ADR 158 172	unable to move
+T9	Disease 292 307	frozen shoulder

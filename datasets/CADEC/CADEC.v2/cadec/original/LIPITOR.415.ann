@@ -1,0 +1,11 @@
+T1	ADR 12 34	severe muscle weakness
+T2	ADR 35 49	lost 30 pounds
+T3	ADR 81 92	little pain
+T4	ADR 97 126	couldn't lift my arms or legs
+T5	ADR 132 139;145 157	muscles deteriorated
+T6	Disease 192 204	polymyositis
+T7	Drug 222 229	Lipitor
+T8	Drug 272 279	lipitor
+T9	ADR 413 464	will never get back the full use of my arms or legs
+T10	Disease 556 568	Polymyositis
+T11	Drug 574 581	Lipitor

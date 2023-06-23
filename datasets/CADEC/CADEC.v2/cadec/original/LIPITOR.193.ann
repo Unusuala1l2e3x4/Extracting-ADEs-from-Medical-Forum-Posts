@@ -1,0 +1,13 @@
+T1	Drug 7 14	LIPITOR
+T2	ADR 28 47	Developed sore legs
+T3	ADR 49 58	sore back
+T4	ADR 68 77	tiredness
+T5	ADR 112 136	difficult to concentrate
+#1	AnnotatorNotes T5	difficulty concentrating
+T6	ADR 172 181	toothache
+T8	Disease 455 475	massive heart attack
+#2	AnnotatorNotes T8	ischaemic heart disease
+T9	ADR 253 262	toothache
+#3	AnnotatorNotes T9	toothache
+T10	ADR 82 99	my head was foggy
+T11	ADR 410 440	symptoms of Parkison's disease

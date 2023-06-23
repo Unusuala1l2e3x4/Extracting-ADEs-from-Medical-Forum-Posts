@@ -1,0 +1,8 @@
+T1	Disease 67 79	Colin cancer
+T2	Drug 134 141	Lipitor
+T3	ADR 152 173	liver enzymes to rise
+T4	ADR 175 181;192 201	muscle stiffness
+T5	ADR 186 191;192 201	joint stiffness
+T6	ADR 213 222	sore ribs
+T7	Drug 240 247	Lipitor
+T8	ADR 274 290	muscle stiffness

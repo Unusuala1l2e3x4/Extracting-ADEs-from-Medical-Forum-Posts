@@ -1,0 +1,32 @@
+T1	ADR 0 35	Terrible short term memory problems
+T25	ADR 37 55	lack of motivation
+T2	ADR 57 83	weak and wobbly unbalanced
+T32	ADR 93 118	walked like a 90 year old
+T26	ADR 121 148	not sure footed as I walked
+T3	ADR 150 170	overall weak feeling
+T27	ADR 198 228	muscle function irregularities
+T4	ADR 230 281	tightness in throat with occasional choking problem
+T15	ADR 283 331	lightheaded foggy brain (like being in a stupor)
+T23	ADR 333 350	loss of endurance
+T16	ADR 352 371	heavy legs and arms
+T24	ADR 373 390	eye muscle spasms
+T5	ADR 392 401	dizziness
+T14	ADR 403 410	vertigo
+T7	ADR 413 436	lousy sleeping at night
+T8	ADR 438 460	terrible concentration
+T9	ADR 462 480	bad dreams nightly
+T10	ADR 482 501	foot and leg cramps
+T11	ADR 530 546	always exhausted
+T12	ADR 548 562	hip joint pain
+T13	ADR 564 578	muscular aches
+T6	ADR 580 599	swallowing problems
+T28	ADR 601 638	hard to get out of bed in the morning
+T17	ADR 640 671	constant muscle tension in legs
+T29	ADR 673 686	inflexibility
+T21	ADR 689 696	sadness
+T30	ADR 698 709	mood swings
+T22	ADR 711 733;744 748	loss of muscle mass in arms
+T31	ADR 711 733;734 739	loss of muscle mass in chest
+T18	Drug 770 777	Lipitor
+T19	Drug 991 998	Lipitor
+T20	Drug 1104 1111	Lipitor

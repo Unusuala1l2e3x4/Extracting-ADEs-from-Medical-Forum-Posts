@@ -1,0 +1,14 @@
+T8	ADR 0 8;18 29	Shoulder muscle pain
+T7	ADR 13 17;18 29	neck muscle pain
+T2	ADR 31 44	tender joints
+T3	ADR 46 56	wrist pain
+T4	ADR 58 67	fogginess
+T5	ADR 69 79	depression
+T6	ADR 119 127	insomnia
+T1	Drug 136 143	Lipitor
+T9	ADR 328 339	muscle pain
+T10	ADR 364 375	memory loss
+T11	ADR 422 438	trouble sleeping
+T12	Disease 470 478	insomnia
+T13	Drug 671 678	Crestor
+T14	Drug 748 757	Pravichol

@@ -1,0 +1,15 @@
+T1	Drug 15 24	Arthrotec
+T2	Symptom 105 114	back pain
+T3	ADR 173 189	vaginal bleeding
+T4	ADR 229 259	clotting, and horrible periods
+T5	Drug 478 487	Arthrotec
+T6	ADR 688 704	bleeding problem
+T7	ADR 832 851	bleeding constantly
+T9	Symptom 787 791	pain
+T11	Drug 331 344	birth control
+T12	ADR 355 380	bleeding has not subsided
+T13	ADR 616 644	heavy/extra vaginal bleeding
+#3	AnnotatorNotes T11	Not sure if this can be mapped to SCT or AMT.
+T8	Drug 1029 1038	Arthrotec
+T10	ADR 1072 1080	bleeding
+T14	Symptom 1111 1122	extra pains

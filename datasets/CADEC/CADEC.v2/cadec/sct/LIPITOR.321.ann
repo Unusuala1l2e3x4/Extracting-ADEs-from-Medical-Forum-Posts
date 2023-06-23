@@ -1,0 +1,7 @@
+TT2	76948002|Severe pain| + 49218002 | Hip pain |+ 10601006|Pain in lower limb| + 47933007|Foot pain| 74 88;95 99	severe pain in hips
+TT6	76948002 | Severe pain |+ 10601006 | Pain in lower limb | 74 88;101 105	severe pain in legs
+TT7	76948002 | Severe pain |+ 47933007 | Foot pain | 74 88;111 115	severe pain in feet
+TT1	76948002 | Severe pain |+ 161891005 | Backache | 74 88;89 93	severe pain in back
+TT3	282145008 | Unable to walk | + 161903000|unable to stand| 117 140	Unable to walk or stand
+TT4	3877011000036101 | Lipitor | 218 225	Lipitor
+TT5	3877011000036101 | Lipitor | 304 311	Lipitor

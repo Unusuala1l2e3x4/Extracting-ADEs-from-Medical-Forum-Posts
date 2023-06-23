@@ -1,0 +1,11 @@
+T1	ADR 0 8	Bloating
+#1	AnnotatorNotes T1	bloating
+T2	ADR 28 40	added weight
+#2	AnnotatorNotes T2	weight gain
+T3	ADR 42 57	weakened muscle
+#3	AnnotatorNotes T3	weakness
+T4	Drug 105 112	Lipitor
+T5	ADR 11 26	GI difficulties
+#4	AnnotatorNotes T5	nonspecific GI disturbance
+T6	ADR 302 321	memory difficulties
+T7	ADR 326 351	muscle-joint degeneration

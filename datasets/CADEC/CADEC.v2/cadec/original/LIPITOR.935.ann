@@ -1,0 +1,15 @@
+T1	ADR 185 188	ALS
+T2	ADR 286 309	stiffness in whole body
+T3	ADR 311 326	loss of balance
+T4	ADR 328 355	no power to standup himself
+T5	ADR 357 371	loss of weight
+T6	ADR 373 394;395 416	acute weakness in the muscles of whole body
+T7	ADR 395 416;427 443	muscles of whole body dilution in size
+T8	ADR 445 459	constipitation
+T9	ADR 461 486	no control over urination
+T10	ADR 546 565	loss of vocal sound
+T11	ADR 567 585	choking the throat
+T12	ADR 587 618	looseness in the body structure
+T13	ADR 655 699	lungs detoriation like less intake of oxigen
+T14	Drug 767 774	lipitor
+T15	ADR 846 849	ALS

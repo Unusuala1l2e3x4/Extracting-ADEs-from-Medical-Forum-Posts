@@ -1,0 +1,8 @@
+T1	ADR 80 102	liver readings went up
+T2	ADR 107 118	constipated
+T3	ADR 123 130	bloated
+T4	ADR 136 152	loss of appetite
+T5	Drug 163 170	Lipitor
+T6	ADR 240 247	Bloated
+T7	ADR 259 268	headaches
+T8	Disease 279 287	headache

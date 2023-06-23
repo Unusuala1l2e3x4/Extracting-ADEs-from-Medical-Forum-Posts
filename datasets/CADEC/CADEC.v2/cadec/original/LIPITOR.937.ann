@@ -1,0 +1,10 @@
+T1	ADR 0 15	Trouble walking
+T2	ADR 17 37	hard to pick up feet
+T3	ADR 42 65	balance is off at times
+T4	ADR 67 101	Pain in muscles of both upper arms
+T5	ADR 103 118	Arms feel HEAVY
+T7	ADR 123 132;146 159	hands are somewhat numb
+T6	ADR 123 132;133 141	hands are tingling
+T8	ADR 166 194	trouble holding on to things
+T9	Drug 212 219	Lipitor
+T10	Drug 282 289	Lipitor

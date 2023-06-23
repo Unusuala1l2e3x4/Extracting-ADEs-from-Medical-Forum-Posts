@@ -1,0 +1,16 @@
+TT1	288228002 | Myalgia/myositis - forearm | 0 14;15 23	Muscle Pain in left arm
+TT2	279038004 | Thoracic back pain | 0 14;28 38	Muscle Pain in upper back
+TT3	278040002 | Loss of hair | 40 44;67 71	Hair loss
+TT9	CONCEPT_LESS 40 44;54 62	Hair breakage
+TT4	68962001 | Myalgia | 96 107	muscle pain
+TT5	77424011000036100 | ubidecarenone | 132 137	CoQ10
+TT6	79395009 | Dry hair | 158 162;163 170	hair dryness
+TT7	CONCEPT_LESS 158 162;172 180	hair breakage
+TT8	278040002 | Loss of hair | 158 162;185 189	hair loss
+TT11	278040002 | Loss of hair | 252 261	hair loss
+TT12	3877011000036101 | Lipitor | 303 310	Lipitor
+TT13	3877011000036101 | Lipitor | 394 401	Lipitor
+TT14	4138011000036106 | Lipidil | 405 418	Lipidil Micro
+TT15	77424011000036100 | ubidecarenone | 518 523	CoQ10
+TT16	4138011000036106 | Lipidil | 617 624	Lipidil
+TT17	4138011000036106 | Lipidil | 674 681	Lipidil

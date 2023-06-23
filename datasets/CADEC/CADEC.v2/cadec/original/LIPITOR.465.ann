@@ -1,0 +1,15 @@
+T1	Drug 17 24	Lipitor
+T2	Disease 34 53	cholesterol climbed
+T3	ADR 335 345	wrist pain
+T4	ADR 437 441	pain
+T5	ADR 494 500	cramps
+T6	ADR 538 542	pain
+T8	ADR 601 608;658 663	muscles cramp
+T7	ADR 601 608;609 648	muscles in my lower abdomen started to contract
+T9	ADR 732 738	cramps
+T10	ADR 760 772;781 784	tiredness in leg
+T11	ADR 792 809	could hardly walk
+T12	ADR 905 917	swollen foot
+T13	ADR 931 946	painful to walk
+T14	Drug 989 996	Lipitor
+T15	Disease 1140 1143	ALS

@@ -1,0 +1,18 @@
+T1	ADR 0 14	Kidney failure
+T2	ADR 16 37	difficulty swallowing
+T4	ADR 39 57;67 71	persistent pain in knee
+T3	ADR 39 57;58 62	persistent pain in calf
+T5	ADR 73 95	short term memory loss
+T6	ADR 97 118	peripheral neuropathy
+T7	ADR 120 132	constipation
+T8	ADR 134 151	sleep disturbance
+T9	ADR 153 164	mood change
+T10	ADR 166 170	rage
+T11	Drug 187 194	Lipitor
+T12	ADR 289 303	kidney failure
+T13	Drug 320 325	zetia
+T14	ADR 462 470	leg pain
+T15	ADR 485 499	kidney failure
+T16	Finding 670 683	heart attacks
+T17	ADR 788 796	Leg pain
+T18	ADR 863 877	kidney failure

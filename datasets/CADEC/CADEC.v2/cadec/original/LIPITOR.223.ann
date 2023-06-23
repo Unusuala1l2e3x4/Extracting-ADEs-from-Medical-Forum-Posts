@@ -1,0 +1,10 @@
+T1	Drug 5 12	Lipitor
+T2	ADR 89 99	joint pain
+T9	ADR 101 124	couldn't move shoulders
+T3	ADR 126 135	hips hurt
+T4	ADR 274 284	joint pain
+T5	ADR 286 299	loss of sleep
+T10	ADR 301 309;318 322	shoulder pain
+T6	ADR 314 317;318 322	hip pain
+T8	ADR 327 350	loss of range of motion
+T7	ADR 365 370	pains

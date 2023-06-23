@@ -1,0 +1,9 @@
+T1	Disease 55 66	parkinson's
+T2	Drug 79 86	Lipitor
+T3	Drug 125 130	coq10
+T4	Drug 159 176	magnesium orotate
+T5	ADR 191 205	memory problem
+T6	ADR 223 229	tremor
+T7	Disease 286 297	parkinson's
+T8	Drug 326 333	Lipitor
+T9	Disease 550 579	Amyotrophic lateral sclerosis

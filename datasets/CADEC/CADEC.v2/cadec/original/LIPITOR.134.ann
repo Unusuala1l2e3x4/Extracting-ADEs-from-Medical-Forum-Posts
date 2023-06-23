@@ -1,0 +1,19 @@
+T1	ADR 2 20	Chest muscle pains
+T2	ADR 24 40	Pins and needles
+T3	ADR 61 80	Numbness in fingers
+#1	AnnotatorNotes T3	anaesthesia
+T4	ADR 109 117	Numbness
+#2	AnnotatorNotes T4	anaesthesia
+T5	ADR 118 122	pain
+T6	ADR 134 142	Numbness
+#3	AnnotatorNotes T6	anaesthesia
+T7	ADR 143 151	headache
+T9	ADR 188 196	Headache
+T11	ADR 321 331	chest ache
+T14	Drug 1490 1500	lovastatin
+T16	ADR 82 105	reduced hand grip power
+T8	ADR 167 184	Numbness in mouth
+T17	Drug 819 824	CoQ10
+T10	ADR 222 227;233 243	sight gets tired
+T18	Drug 983 988	CoQ10
+T12	Drug 1194 1203	ezetimibe

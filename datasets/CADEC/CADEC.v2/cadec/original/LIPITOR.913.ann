@@ -1,0 +1,6 @@
+T1	ADR 0 11	Muscle pain
+T2	ADR 13 24;41 45	severe neck pain
+T3	ADR 26 34;41 45	shoulder pain
+T4	ADR 36 40;41 45	back pain
+T5	ADR 47 55	leg pain
+T6	Drug 127 134	Lipitor

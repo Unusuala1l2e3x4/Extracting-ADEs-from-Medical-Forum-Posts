@@ -1,0 +1,6 @@
+T2	Disease 0 13	Spleen Cancer
+T3	Disease 18 21	ALS
+T4	Disease 183 186	ALS
+#2	AnnotatorNotes T3	amyotrophic lateral sclerosis
+T5	ADR 105 138	lost all ability to control hands
+T1	ADR 143 158	muscle weakness

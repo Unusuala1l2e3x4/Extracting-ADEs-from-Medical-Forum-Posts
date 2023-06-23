@@ -1,0 +1,7 @@
+T1	ADR 0 15	pain in my legs
+T2	ADR 16 38	loss of sense of smell
+T3	ADR 39 56	increase appetite
+T4	ADR 57 66	headaches
+T5	ADR 67 83	extreme fatigued
+T7	ADR 84 98;108 112	tingling in my legs
+T6	ADR 84 98;99 103	tingling in my arms

@@ -1,0 +1,9 @@
+TT1	162076009 | Excessive upper gastrointestinal gas | 6 15	gastritis
+TT2	162059005 | Upset stomach | 17 37	severe stomach upset
+TT3	CONCEPT_LESS 59 77	false full feeling
+TT4	64379006 | Decrease in appetite | 79 97	very poor appetite
+TT5	386692008 | Menorrhagia | 99 121	increased menstruation
+TT10	266601003 | Excessive and frequent menstruation | 123 166	2-3 periods a month instead of once a month
+TT6	431416001 | Menstrual cramp | 168 184;193 197;209 225	menstrual cramps with vaginal bleeding
+TT7	431416001 | Menstrual cramp | 168 184;201 208;209 225	menstrual cramps without vaginal bleeding
+TT9	289903006 | Menopause present | 316 332	menopausal phase

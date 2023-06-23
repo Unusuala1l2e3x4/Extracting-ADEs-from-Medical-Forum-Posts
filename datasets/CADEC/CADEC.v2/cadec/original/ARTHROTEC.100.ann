@@ -1,0 +1,6 @@
+T1	ADR 48 64	vaginal bleeding
+T2	ADR 93 105	stomach pain
+T3	ADR 107 119	canker sores
+#1	AnnotatorNotes T3	sores in the mouth as a result of the medication
+T4	ADR 133 141	headache
+T5	Symptom 194 198	pain

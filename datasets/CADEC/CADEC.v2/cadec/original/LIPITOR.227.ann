@@ -1,0 +1,13 @@
+T1	Drug 17 24	LIPITOR
+T2	Drug 54 60	Baycol
+T3	ADR 119 124;136 140	joint pain
+T4	ADR 129 135;136 140	muscle pain
+T10	ADR 213 217	pain
+T5	ADR 228 237	depressed
+T11	ADR 243 247	pain
+T13	ADR 275 292;305 317	limits my ability climb stairs
+T14	ADR 275 292;322 335	limits my ability lift anything
+T12	ADR 275 292;293 300	limits my ability to walk
+T15	ADR 390 402	thigh cramps
+T7	ADR 452 460	weakness
+T9	Disease 535 560	cholesterol was very high

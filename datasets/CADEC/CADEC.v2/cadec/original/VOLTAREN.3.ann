@@ -1,0 +1,6 @@
+T1	ADR 8 21	upset stomach
+#1	AnnotatorNotes T1	nonspecific 
+T2	ADR 23 44	couldn't eat or drink
+#2	AnnotatorNotes T2	non specific, decreased appetite?, odynophagia? dysphagia?
+T3	Symptom 82 86	pain
+T4	ADR 166 182	upset my stomach

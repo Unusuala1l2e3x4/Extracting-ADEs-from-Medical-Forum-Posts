@@ -1,0 +1,18 @@
+T1	ADR 17 27	stiff neck
+#1	AnnotatorNotes T1	muscle stiffness
+T3	Drug 65 72	Lipitor
+T5	ADR 194 198	pain
+T6	ADR 235 244	neck pain
+T7	Drug 341 348	Lipitor
+T8	ADR 413 422	Neck pain
+T9	Drug 476 483	LIPITOR
+T10	ADR 501 516	LOWER BACK PAIN
+T11	ADR 818 822	pain
+T12	Drug 954 961	Lipitor
+T13	ADR 971 975	pain
+T14	Drug 977 984	LIPITOR
+T15	ADR 0 15	Lower back pain
+T2	ADR 104 119	lower back pain
+T4	ADR 275 288	muscle injury
+T16	ADR 374 387	muscle injury
+T17	ADR 712 721	back pain

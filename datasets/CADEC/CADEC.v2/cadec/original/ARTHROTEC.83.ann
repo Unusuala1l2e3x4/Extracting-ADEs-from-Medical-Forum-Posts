@@ -1,0 +1,7 @@
+T1	ADR 19 34	abdominal pains
+T2	ADR 36 48	severe welts
+T3	ADR 109 125	rapid heart beat
+#1	AnnotatorNotes T3	Tachycardia
+T4	ADR 130 139	headaches
+T5	ADR 89 107	swelling of throat
+#2	AnnotatorNotes T5	sore throat with difficulty swallowing

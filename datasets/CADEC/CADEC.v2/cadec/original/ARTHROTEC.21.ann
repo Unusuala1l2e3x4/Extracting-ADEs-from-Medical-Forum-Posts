@@ -1,0 +1,5 @@
+T1	ADR 88 94	cramps
+T2	ADR 99 121	heavy vaginal bleeding
+#1	AnnotatorNotes T2	But this could possibly be describing menorrhagia
+T3	ADR 126 132;175 182	period another
+T4	Symptom 17 21	pain

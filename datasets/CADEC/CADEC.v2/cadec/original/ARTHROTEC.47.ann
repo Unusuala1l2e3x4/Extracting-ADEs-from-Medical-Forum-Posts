@@ -1,0 +1,8 @@
+T1	ADR 32 46	hunger feeling
+T2	ADR 51 67	stomach cramping
+T3	ADR 111 143	muscle cramps in my calf muscles
+T4	ADR 207 213	cramps
+T5	Disease 308 317	arthritis
+T7	ADR 145 159	couldn't sleep
+T9	Symptom 522 536	Charlie Horses
+#3	AnnotatorNotes T9	A charley horse is a popular colloquial term in Canada and the United States of America for painful spasms or cramps in the leg muscles.

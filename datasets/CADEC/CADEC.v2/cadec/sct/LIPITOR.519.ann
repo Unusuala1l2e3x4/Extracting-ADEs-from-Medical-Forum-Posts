@@ -1,0 +1,11 @@
+TT1	22298006 | Myocardial infarction | 13 25	heart attack
+TT2	3877011000036101 | Lipitor | 59 66	Lipitor
+TT3	449917004 | Cramp in lower limb | + 102551008 | Cramp in foot | 83 102	leg and feet cramps
+TT4	424647005 | Cramp in limb | + 102551008 | Cramp in foot | 230 249	feet and leg cramps
+TT5	102551008 | Cramp in foot | 311 328	feet are cramping
+TT6	161891005 | Backache | 380 384;393 397	back pain
+TT7	49218002 | Hip pain | 389 392;393 397	hip pain
+TT8	224960004 | Tired | 413 418	tired
+TT9	35489007 | Depression | 423 432	depressed
+TT10	22253000 | Pain | 494 498	pain
+TT11	3877011000036101 | Lipitor | 538 545	Lipitor

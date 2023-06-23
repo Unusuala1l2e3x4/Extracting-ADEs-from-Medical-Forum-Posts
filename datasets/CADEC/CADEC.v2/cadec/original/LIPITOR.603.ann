@@ -1,0 +1,10 @@
+T1	Drug 0 7	Lipitor
+T3	ADR 116 127;141 145	extreme leg pain
+T2	ADR 116 127;128 136	extreme leg weakness
+T4	ADR 356 364	weakness
+T5	Drug 385 392	Lipitor
+T6	ADR 460 468	leg pain
+T7	ADR 559 569	stiff neck
+T8	ADR 571 579	diarrhea
+T9	ADR 581 591	clumsiness
+T10	ADR 596 605	dizziness

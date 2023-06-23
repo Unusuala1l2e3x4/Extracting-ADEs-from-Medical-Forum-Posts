@@ -1,0 +1,13 @@
+T1	ADR 0 21;22 31	muscle wasting in the shoulders
+T2	ADR 0 21;36 40	muscle wasting in the arms
+T3	ADR 41 67	nerve problems in shoulder
+T4	ADR 70 77	fatigue
+T5	ADR 82 108	very sensative to the cold
+T6	Drug 261 269	fish oil
+T7	Drug 270 280	coenzyme10
+T8	Drug 281 286	vit c
+T9	Drug 291 308	alpha lipoic acid
+T10	Drug 400 407	lipitor
+T11	Drug 409 417	ramipril
+T12	Drug 422 432	metoptolol
+T13	Finding 452 456	gout

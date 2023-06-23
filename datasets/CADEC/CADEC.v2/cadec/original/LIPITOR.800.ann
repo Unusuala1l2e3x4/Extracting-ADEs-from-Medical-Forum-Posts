@@ -1,0 +1,12 @@
+T1	ADR 0 5	Fuzzy
+T2	ADR 7 12	dizzy
+T3	ADR 14 38	light-headedness feeling
+T4	ADR 62 80	Low grade headache
+T5	ADR 95 108	Mild insomnia
+T6	ADR 110 128	Poor concentration
+T7	ADR 130 147	noise intolerance
+T8	Finding 162 171	headaches
+T9	Drug 315 322	Lipitor
+T10	Drug 469 476	Lipitor
+T11	Finding 482 491	headaches
+T12	Drug 630 637	Lipitor

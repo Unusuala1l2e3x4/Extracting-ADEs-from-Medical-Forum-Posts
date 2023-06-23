@@ -1,0 +1,22 @@
+T1	ADR 0 8	headache
+T2	ADR 10 19	chestpain
+T3	ADR 21 30	arrythmia
+T4	ADR 32 40	diarrhea
+T5	ADR 42 50	malaisse
+T6	ADR 52 65	forgetfulness
+T7	ADR 67 76	confusion
+T8	ADR 78 87	back pain
+T9	ADR 126 135	phlebitis
+T10	ADR 188 198	veins hurt
+T11	ADR 154 183	vein in my one leg is bulging
+T12	ADR 200 217	severe leg cramps
+T13	ADR 219 246	numbness in ankles and toes
+T14	Drug 418 425	norvasc
+T15	Drug 498 505	lipitor
+T16	Drug 586 591	vioxx
+T17	ADR 727 736	phlebitis
+T18	Drug 939 944	zetia
+T19	Drug 1014 1021	lipitor
+T20	Drug 1034 1039	zetia
+T21	ADR 1048 1063	chest tightness
+T22	ADR 1065 1073	headache

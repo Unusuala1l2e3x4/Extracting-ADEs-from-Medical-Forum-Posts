@@ -1,0 +1,8 @@
+T1	ADR 0 8	Lethargy
+T2	ADR 10 24	fuzzy thinking
+T3	ADR 26 39	blurry vision
+T4	ADR 46 58	muscle pains
+T5	Drug 238 243	Lopid
+T6	ADR 313 328	constantly weak
+T7	ADR 293 308	short of breath
+T8	ADR 262 279	damage your heart

@@ -1,0 +1,7 @@
+T1	ADR 0 8	Weakness
+T2	ADR 10 18	cramping
+T3	ADR 20 33	muscle spasms
+T4	ADR 35 49	Slurred speech
+T5	ADR 54 75	difficulty swallowing
+T6	Disease 111 114	ALS
+T7	Drug 124 131	lipitor

@@ -1,0 +1,12 @@
+T1	ADR 17 65	severe sudden onset headache in the back of head
+T2	Drug 168 177	clonidine
+T3	ADR 91 113	BP was extrememly high
+#1	AnnotatorNotes T3	Hypertension
+T4	ADR 119 133	pulse was high
+#2	AnnotatorNotes T4	Palpitations
+T5	ADR 226 233	high BP
+#3	AnnotatorNotes T5	Hypertension
+T6	ADR 295 324	pulse is still extremely high
+#4	AnnotatorNotes T6	Palpitations/ Tachycardia
+T7	ADR 548 559	tachycardia
+#5	AnnotatorNotes T7	Tachycardia

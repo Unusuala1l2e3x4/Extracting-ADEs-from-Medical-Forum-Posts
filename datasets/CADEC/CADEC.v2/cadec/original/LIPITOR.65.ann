@@ -1,0 +1,7 @@
+T1	ADR 0 6	nausea
+T2	ADR 8 16	no sleep
+T3	ADR 18 28	bad dreams
+T4	ADR 29 35;46 50	muscle pain
+T5	ADR 40 45;46 50	joint pain
+T6	ADR 52 61	tiredness
+T7	Drug 123 134	POLICOSANOL

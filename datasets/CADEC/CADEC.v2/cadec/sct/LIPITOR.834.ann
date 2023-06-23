@@ -1,0 +1,17 @@
+TT1	420990001 | Tunnel vision | 28 41	tunnel vision
+TT2	399153001 | Vertigo | 43 50	vertigo
+TT3	62507009 | Pins and needles | 52 60;75 80	tingling hands
+TT5	62507009 | Pins and needles | 52 60;82 86	tingling legs
+TT6	62507009 | Pins and needles | 52 60;88 92	tingling face
+TT4	309521004 | Numbness of hand | 65 73;75 80	numbness hands
+TT7	309537005 | Numbness of lower limb | 65 73;82 86	numbness legs
+TT8	309557009 | Numbness of face | 65 73;88 92	numbness face
+TT9	278286009 | Right hemiparesis | 95 141	complete weakness in the right side of my body
+TT10	26544005 | Muscle weakness | 152 168	loss of strength
+TT11	238810007 | Flushing | 189 245	complete body flushes (like a hot flash without the hot)
+TT12	CONCEPT_LESS 249 256;266 292	thought that I was having a stroke
+TT14	266257000 | Transient ischaemic attack | 403 406	TIA
+TT15	238810007 | Flushing | 526 538	body flushes
+TT16	3877011000036101 | Lipitor | 678 685	Lipitor
+TT17	3877011000036101 | Lipitor | 789 796	Lipitor
+TT18	128609009 | Intracranial aneurysm | 898 912	brain aneurysm

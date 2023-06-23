@@ -1,0 +1,18 @@
+TT1	84229001 | Fatigue | 32 40	fatigued
+TT2	22253000 | Pain | 76 80	pain
+TT3	214264003 | Lethargy | 109 118	lethargic
+TT4	246636008 | Blurred vision - hazy | 135 149	Blurred vision
+TT5	57676002 | Arthralgia | 210 220	joint pain
+TT7	CONCEPT_LESS 222 228	Bypass
+TT6	73211009 | Diabetes mellitus | 237 245	diabetic
+TT8	3877011000036101 | Lipitor | 258 265	lipitor
+TT9	73211009 | Diabetes mellitus | 437 445	diabetes
+TT10	3877011000036101 | Lipitor | 482 489	Lipitor
+TT18	277521002 | Loss of motivation | 508 526	lack of enthusiasm
+TT19	247592009 | Poor short-term memory | 528 550	short term memory loss
+TT12	68962001 | Myalgia | 552 563	muscle pain
+TT13	12584003 | Bone pain | + 57676002 | Arthralgia| 565 580	bone/joint pain
+TT11	237602007 | Metabolic syndrome X | 653 671	Metabolic syndrome
+TT15	3877011000036101 | Lipitor | 848 855	Lipitor
+TT14	445445006 | Raised low density lipoprotein cholesterol | 859 867	High LDL
+TT16	3877011000036101 | Lipitor | 1104 1111	Lipitor

@@ -1,0 +1,10 @@
+T2	ADR 0 7;13 23	Pain in lower back
+T3	ADR 0 7;25 30	Pain in knees
+T4	ADR 0 7;33 38	Pain in elbow
+T5	ADR 40 52;53 63	Stiffness in lower back
+T6	ADR 40 52;68 72	Stiffness in legs
+T7	ADR 105 126	Excercise intolerance
+T8	ADR 131 154	general muscle weakness
+T9	ADR 184 189	pains
+T10	Drug 213 220	lipitor
+T11	ADR 0 7;8 11	Pain in hip

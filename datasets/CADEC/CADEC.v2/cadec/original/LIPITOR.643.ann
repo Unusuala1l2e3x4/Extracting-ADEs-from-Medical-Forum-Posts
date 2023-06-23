@@ -1,0 +1,19 @@
+T1	ADR 0 17	blurring eyesight
+T2	ADR 19 28	hair loss
+T3	ADR 30 48	painful leg cramps
+T4	ADR 50 80	muscle weakness in my left arm
+T5	ADR 82 94	hard to walk
+T6	ADR 118 122;134 145	legs ache so bad
+T7	ADR 127 133;134 145	ankles ache so bad
+T8	ADR 157 203	unable to lose weight even when on strict diet
+T9	ADR 205 234	very, very tired all the time
+T10	ADR 236 263	pain in almost every muscle
+T11	ADR 265 282	digestive changes
+T12	ADR 284 292	bloating
+T13	ADR 294 297	gas
+T14	ADR 299 306	diarhea
+T15	Drug 410 415	Lopid
+T16	Drug 420 427	Lipitor
+T17	ADR 444 461	eyesight problems
+T18	ADR 520 527	fatigue
+T19	ADR 532 547	muscle weakness

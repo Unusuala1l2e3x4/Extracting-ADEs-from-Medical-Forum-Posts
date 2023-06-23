@@ -1,0 +1,16 @@
+T1	ADR 0 14;15 23	Muscle Pain in left arm
+T2	ADR 0 14;28 38	Muscle Pain in upper back
+T3	ADR 40 44;67 71	Hair loss
+T4	ADR 96 107	muscle pain
+T5	Drug 132 137	CoQ10
+T6	ADR 158 162;163 170	hair dryness
+T7	ADR 158 162;172 180	hair breakage
+T8	ADR 158 162;185 189	hair loss
+T9	ADR 40 44;54 62	Hair breakage
+T11	ADR 252 261	hair loss
+T12	Drug 303 310	Lipitor
+T13	Drug 394 401	Lipitor
+T14	Drug 405 418	Lipidil Micro
+T15	Drug 518 523	CoQ10
+T16	Drug 617 624	Lipidil
+T17	Drug 674 681	Lipidil

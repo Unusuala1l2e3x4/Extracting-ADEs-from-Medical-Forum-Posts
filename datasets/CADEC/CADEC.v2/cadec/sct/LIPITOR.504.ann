@@ -1,0 +1,16 @@
+TT1	76948002 | Severe pain |+ 161891005 | Backache | 0 17	Extreme back pain
+TT2	57182000 | Nerve injury | 19 31	nerve damage
+TT3	230145002 | Difficulty breathing | 33 51	breathing problems
+TT4	271587009 | Stiffness | 84 93	stiffness
+TT5	129565002 | Myopathy | 109 122	muscle damage
+TT6	3253007 | Discolouration of skin | 129 149	black and blue marks
+TT7	278040002 | Loss of hair | 157 166	hair loss
+TT8	404640003 | Dizziness | 168 177	dizzyness
+TT9	63102001 | Visual disturbance | 179 194	vision problems
+TT10	418648005 | Blackout | 205 214	blackouts
+TT11	301202006 | Nasal sinus problem | 216 230	sinus problems
+TT12	CONCEPT_LESS 231 242	temperature
+TT13	80313002 | Palpitations | 244 262	heart palputations
+TT14	11072008 | Nonspecific abdominal symptom | 264 282	abdominal problems
+TT15	131148009 | Bleeding | 284 292	bleeding
+TT16	162076009 | Excessive upper gastrointestinal gas | 294 297	gas

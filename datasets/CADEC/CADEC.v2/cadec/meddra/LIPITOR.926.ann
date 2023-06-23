@@ -1,0 +1,18 @@
+TT2	10028350 0 6;16 24	muscle weakness
+TT1	10028411 0 6;7 11	muscle pain
+TT3	10019211 26 35	headaches
+TT4	10061827 37 55	sleep disturbances
+TT5	10028641 142 171	problems with various muscles
+TT6	10028411 200 219;220 227	lots of pain in the muscles
+TT7	10070541 220 227;235 245	muscles very tight
+TT8	10042043 255 259;276 281	neck stiff
+TT9	10070541 290 330	muscles are like boards they're so tight
+TT11	10033421 340 361;375 400	pain has gone into my upper arm on my left side
+TT10	10040617 340 361;362 370	pain has gone into my shoulder
+TT12	CONCEPT_LESS 430 448	right arm is tight
+TT13	CONCEPT_LESS 457 487	can't sleep on either shoulder
+TT14	10070541 496 520	lower back is also tight
+TT15	10019211 538 556	terrible headaches
+TT16	10020852 566 584	tight neck muscles
+TT19	10037825 802 819	elevated creatine
+TT22	10013092 989 999	discomfort

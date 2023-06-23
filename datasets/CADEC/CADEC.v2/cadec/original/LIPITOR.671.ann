@@ -1,0 +1,15 @@
+T2	ADR 0 15;27 33	muscle aches in thighs
+T1	ADR 0 15;16 22	muscle aches in calves
+T3	ADR 35 51	weakness in legs
+T4	ADR 53 73	waking felt unsteady
+T8	ADR 74 95	biking most difficult
+T5	ADR 97 134	Leg muscles painful to light pressure
+T6	ADR 136 152;160 162;163 169	Muscle twitching on calves
+T7	ADR 136 152;160 162;174 188	Muscle twitching on bottom of feet
+T10	ADR 190 215;240 250	Deeper muscle twitches on arms sides
+T11	ADR 190 215;251 255	Deeper muscle twitches on butt
+T9	ADR 190 215;216 222	Deeper muscle twitches on thighs
+T12	ADR 330 345	muscle twitches
+T13	Finding 396 411	muscle twitches
+T14	Finding 415 431	cramping feeling
+T15	Finding 443 451	weakness

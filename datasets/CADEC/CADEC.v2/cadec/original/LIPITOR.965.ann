@@ -1,0 +1,20 @@
+T2	ADR 0 17;28 32	Joint pain in the hips
+T1	ADR 0 17;18 23	Joint pain in the knees
+T3	ADR 34 55	Pain in the shoulders
+T4	ADR 59 100	tingling sensation in the back of my neck
+T5	ADR 102 110	Tinnitus
+T6	ADR 112 124	Weak muscles
+T7	Drug 126 133	Lipitor
+T8	ADR 208 212;235 239	legs ache
+T9	ADR 215 224;235 239	shoulders ache
+T10	ADR 230 234;235 239	hips ache
+T11	ADR 250 260;264 275	acute pain in the legs
+T12	ADR 277 286	Stiffness
+T13	ADR 320 349	Getting out of bed is painful
+T14	ADR 547 567	tingling in the neck
+T16	ADR 589 592;606 610	leg pain
+T15	ADR 597 605;606 610	shoulder pain
+T17	Finding 677 688	don't smoke
+T18	Finding 723 747	drink wine in moderation
+T19	Finding 860 895	elevated levels of high cholesterol
+T20	ADR 920 933	muscle damage

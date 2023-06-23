@@ -1,0 +1,15 @@
+TT2	288230000 | Myalgia/myositis -pelvis/thigh | 0 15;27 33	muscle aches in thighs
+TT1	288231001 | Myalgia/myositis - lower leg | 0 15;16 22	muscle aches in calves
+TT3	309774006 | Weakness of limb | 35 51	weakness in legs
+TT4	22631008 | Unsteady when walking | 53 73	waking felt unsteady
+TT8	300650009 | Difficulty riding a bicycle | 74 95	biking most difficult
+TT5	425423002 | Pain provoked by movement | 97 134	Leg muscles painful to light pressure
+TT6	60238002 | Muscle twitch | 136 152;160 162;163 169	Muscle twitching on calves
+TT7	60238002 | Muscle twitch | 136 152;160 162;174 188	Muscle twitching on bottom of feet
+TT10	60238002 | Muscle twitch | 190 215;240 250	Deeper muscle twitches on arms sides
+TT11	60238002 | Muscle twitch | 190 215;251 255	Deeper muscle twitches on butt
+TT9	60238002 | Muscle twitch | 190 215;216 222	Deeper muscle twitches on thighs
+TT12	60238002 | Muscle twitch | 330 345	muscle twitches
+TT13	60238002 | Muscle twitch | 396 411	muscle twitches
+TT14	55300003 | Muscle cramp | 415 431	cramping feeling
+TT15	13791008 | Asthenia | 443 451	weakness

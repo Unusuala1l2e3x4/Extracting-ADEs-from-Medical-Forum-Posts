@@ -1,0 +1,14 @@
+TT2	14304000 | Thyroid disease | 0 15	Thyroid disease
+TT1	3877011000036101 | Lipitor | 29 36	Lipitor
+TT3	63102001 | Visual disturbance | 46 61	vision problems
+TT4	247472004 | Hives | 89 94	hives
+TT5	102556003 | Pain in upper limb | 96 110;126 129	severe pain in arm
+TT12	76948002 | Severe pain |+ 53057004 | Hand pain | 96 110;135 139	severe pain in hand
+TT11	76948002 | Severe pain |+ 45326000 |Shoulder pain | 96 110;111 125	severe pain in left shoulder,
+TT13	88092000 | Muscle atrophy | 141 155	Muscle atrophy
+TT7	162076009 | Excessive upper gastrointestinal gas | 212 215	gas
+TT8	62315008 | Diarrhoea | 229 237	diarrhea
+TT9	48167000 | Amnesia | 239 250	Memory loss
+TT6	26329005 | Poor concentration | 255 280	difficulty concentratiing
+TT14	23388006 | Visual field scotoma | 313 323	blind spot
+TT10	3877011000036101 | Lipitor | 369 376	Lipitor

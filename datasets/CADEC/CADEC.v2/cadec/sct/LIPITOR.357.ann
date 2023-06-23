@@ -1,0 +1,14 @@
+TT1	3877011000036101 | Lipitor | 147 154	Lipitor
+TT2	3877011000036101 | Lipitor | 228 235	Lipitor
+TT3	3877011000036101 | Lipitor | 613 620	Lipitor
+TT4	3904011000036106 | Zocor | 622 627	Zocor
+TT5	4031011000036106 | Crestor | 629 636	Crestor
+TT6	CONCEPT_LESS 638 645	Mevacor
+TT7	3848011000036104 | Pravachol | 647 656	Pravachol
+TT8	47401000168109 | Lescol | 658 664	Lescol
+TT9	21565011000036108 | ezetimibe + simvastatin | 668 675	Vytorin
+TT14	40917007 | Confusion | 877 883;889 898	memory confusion
+TT10	48167000 | Amnesia | 877 883;884 888	memory loss
+TT11	68962001 | Myalgia | 900 912	muscle aches
+TT12	22253000 | Pain | 917 921	pain
+TT13	CONCEPT_LESS 923 933	loss of ne

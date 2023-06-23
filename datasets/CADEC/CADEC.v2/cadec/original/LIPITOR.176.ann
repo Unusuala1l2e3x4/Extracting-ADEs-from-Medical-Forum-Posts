@@ -1,0 +1,12 @@
+T1	Drug 30 37	Lipitor
+T3	ADR 99 103	pain
+T5	ADR 154 158	pain
+T6	ADR 263 267	pain
+T7	Drug 352 359	Lipitor
+T8	ADR 392 404	stomach pain
+T9	ADR 445 457	stomach pain
+T10	Drug 952 959	Lipitor
+T11	ADR 61 80	severe leg cramping
+T2	Drug 249 254	Advil
+T4	Disease 576 599	urinery tract infection
+T12	ADR 679 705	urge to urinate constantly

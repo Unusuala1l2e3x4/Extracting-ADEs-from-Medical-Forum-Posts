@@ -1,0 +1,5 @@
+T1	ADR 0 8	Swelling
+#1	AnnotatorNotes T1	Oedema
+T2	Symptom 41 45	pain
+T3	ADR 11 26	weight increase
+#2	AnnotatorNotes T3	Weight gain

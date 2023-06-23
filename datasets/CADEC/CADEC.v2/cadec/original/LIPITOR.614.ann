@@ -1,0 +1,11 @@
+T1	Drug 114 121	Lipitor
+T2	Drug 148 155	lipitor
+T3	ADR 265 285	pain in my hipjoints
+T4	Drug 291 298	lipitor
+T5	ADR 313 317	pain
+T6	ADR 374 378;409 429	pain around the hipjoints
+T7	Drug 595 602	lipitor
+T8	ADR 622 626	pain
+T9	Finding 706 724	wasting of muscles
+T10	Finding 28 45;62 70	cholesterol level sky high
+T11	Finding 126 142	high cholesterol

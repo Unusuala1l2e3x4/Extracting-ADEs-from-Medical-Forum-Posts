@@ -1,0 +1,10 @@
+T1	Drug 13 20	Lipitor
+T5	ADR 34 41;62 66	pain in neck
+T6	ADR 34 41;71 80	pain in shoulders
+T2	ADR 34 41;42 60	pain in the knees and feet
+T3	ADR 82 96	abdominal pain
+T4	ADR 101 111	elbow pain
+T7	ADR 167 209	severe and chronic tendonitis in my elbows
+T8	Drug 323 330	Lipitor
+T9	ADR 367 378	severe pain
+T10	ADR 481 485	pain

@@ -1,0 +1,18 @@
+T2	ADR 0 14;20 24	imence pain in calf
+T3	ADR 0 14;25 29	imence pain in feet
+T1	ADR 0 14;15 19	imence pain in legs
+T5	ADR 30 41;51 55	cramping in feet
+T6	ADR 30 41;61 65	cramping in toes
+T4	ADR 30 41;42 46	cramping in legs
+T7	ADR 67 74	armpain
+T8	ADR 75 83	swelling
+T9	ADR 84 110	extreme heaviness in limbs
+T10	ADR 111 119	backache
+T11	ADR 120 131	bloody noes
+T12	ADR 133 141	high cpk
+T13	ADR 146 175	short term memory is terrible
+T14	ADR 176 185	confusion
+T15	ADR 187 195	tingling
+T16	ADR 196 212	buzzing in limbs
+T17	ADR 213 232	big time depression
+T18	Drug 568 575	Lipitor

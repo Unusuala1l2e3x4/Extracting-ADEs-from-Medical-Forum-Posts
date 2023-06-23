@@ -1,0 +1,13 @@
+T1	Drug 11 18	lipitor
+T3	ADR 71 75;81 85	sore arms
+T2	ADR 71 75;76 80	sore neck
+T4	ADR 115 129	breathlessness
+T5	ADR 134 141	anxiety
+T6	ADR 143 185	feeling like something was going to happen
+T7	ADR 204 213	depressed
+T8	Drug 223 230	Lipitor
+T9	Drug 342 349	lipitor
+T10	ADR 380 401	weakness in both arms
+T11	ADR 429 436	jittery
+T12	ADR 441 447	tingly
+T13	ADR 452 457	itchy

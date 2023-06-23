@@ -1,0 +1,16 @@
+T1	ADR 7 23	vaginal bleeding
+T2	ADR 62 73	breast pain
+#1	AnnotatorNotes T2	Breast Pain
+T13	ADR 28 60	cycle was back (I'm menopausal )
+T3	ADR 97 105	erithema
+T4	ADR 110 124	skin is so dry
+T5	ADR 162 176	sweating a lot
+T6	ADR 196 208	pruritus ani
+T7	ADR 321 329	diarrhea
+T8	Symptom 472 476	pain
+T9	ADR 488 510	first vaginal bleeding
+T10	ADR 521 529	pruritus
+T11	ADR 537 553	skin was all red
+T12	Drug 579 588	arthrotec
+T14	Finding 667 677	infections
+T15	Drug 839 848	Arthrotec

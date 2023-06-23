@@ -1,0 +1,15 @@
+T1	ADR 0 22	Severe chronic fatigue
+T2	ADR 24 39	muscle weakness
+T4	ADR 41 54;63 76	problems with concentration
+T3	ADR 41 54;55 61	problems with memory
+T5	ADR 78 95	Severe depression
+T6	ADR 182 191	exhausted
+T7	ADR 196 200	weak
+T8	ADR 202 240	unable to find words or remember names
+T9	ADR 335 361	hardly able to lift things
+T10	ADR 390 410	Legs would go wobbly
+T11	ADR 454 464	exhausting
+T12	Drug 568 575	Lipitor
+T13	Drug 659 666	Lipitor
+T14	ADR 826 837	muscle pain
+T15	Drug 885 892	Lipitor

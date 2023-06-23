@@ -1,0 +1,9 @@
+T1	ADR 45 62	allergic reaction
+T3	ADR 161 182	lips started to swell
+T4	Drug 217 223	epipen
+T5	Disease 319 323	gout
+T6	Disease 337 346	arthritis
+T7	Drug 20 28	voltaren
+T8	ADR 67 95	skin felt like it was moving
+T2	ADR 105 120	itch on my head
+T9	ADR 122 139;144 156	genitals and lips excruciating

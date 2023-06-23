@@ -1,0 +1,11 @@
+TT1	3877011000036101 | Lipitor | 3 10	Lipitor
+TT11	22298006 | Myocardial infarction | 29 41	heart attack
+TT2	26544005 | Muscle weakness | 138 161	extreme muscle weakness
+TT3	3877011000036101 | Lipitor | 291 298	Lipitor
+TT4	CONCEPT_LESS 331 336	Nitro
+TT5	78514002 | Thigh pain | 355 363;377 386	soreness in thighs
+TT6	309774006 | Weakness of limb | 368 376;377 386	weakness in thighs
+TT7	419723007 | Mentally dull | 429 450	not as sharp mentally
+TT8	397540003 | Visual impairment | 480 494	slip in vision
+TT9	3877011000036101 | Lipitor | 506 513	Lipitor
+TT10	22298006 | Myocardial infarction | 696 708	heart attack

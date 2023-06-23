@@ -1,0 +1,12 @@
+T1	ADR 85 95	leg cramps
+T2	ADR 181 185;190 196	foot cramps
+T3	ADR 186 189;190 196	leg cramps
+T4	Drug 274 281	Lipitor
+T5	ADR 318 347	legs began feeling very tired
+T6	ADR 349 377	couldn't go up stairs easily
+T7	ADR 383 409	cramping events in my legs
+T8	Drug 445 452	Lipitor
+T9	ADR 487 513	legs were hurting too much
+T10	ADR 520 528	cramping
+T11	ADR 637 645	cramping
+T12	ADR 760 768;775 784	legs are very weak

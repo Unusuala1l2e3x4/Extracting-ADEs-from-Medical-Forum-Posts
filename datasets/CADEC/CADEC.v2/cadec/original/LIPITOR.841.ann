@@ -1,0 +1,9 @@
+T1	ADR 0 19;20 25	Severe pain in both calfs
+T2	ADR 0 19;30 36	Severe pain in both thighs
+T3	ADR 47 56;57 69	unable to lift my legs
+T5	ADR 47 56;97 111	unable to get in the car
+T6	Drug 147 154	Lipitor
+T7	ADR 210 231	discomfort in my legs
+T8	ADR 467 474	myalgia
+T9	Drug 480 487	Lipitor
+T10	ADR 47 56;73 88	unable to put on my pants

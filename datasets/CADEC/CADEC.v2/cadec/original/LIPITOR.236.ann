@@ -1,0 +1,13 @@
+T12	ADR 0 7;21 25	Pain in arms
+T13	ADR 0 7;30 35	Pain in hands
+T1	ADR 0 7;8 16	Pain in shoulder
+T2	ADR 37 42;53 57	Hands numb
+T3	ADR 37 42;62 71	Hands very weak
+T4	Disease 107 129	carpal tunnel syndrome
+T5	Drug 272 279	lipitor
+T6	ADR 353 357	pain
+T8	ADR 439 443	pain
+T9	ADR 449 464	pain in my arms
+T7	Drug 559 566	lipitor
+T10	Drug 609 612	CoQ
+T11	Drug 629 638	vitamin C

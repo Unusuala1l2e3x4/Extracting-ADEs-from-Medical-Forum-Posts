@@ -1,0 +1,16 @@
+T1	Finding 0 16	Type II diabetic
+T2	Drug 127 134	Lipitor
+T3	ADR 243 263	unsteasiness walking
+T4	ADR 331 346	loss of balance
+T5	ADR 361 384	acute pain in both feet
+T6	Drug 413 422	Neurontin
+T8	ADR 441 452;462 467	weakness in knees
+T7	ADR 441 452;453 457	weakness in legs
+T9	ADR 500 519	numbness in fingers
+T10	ADR 522 547	general weakness in hands
+T11	Drug 620 627	Lipitor
+T12	Drug 780 787	Lipitor
+T13	Drug 809 818	Neurontin
+T14	Drug 836 848	coenzyme Q10
+T15	Drug 879 886	Lipitor
+T16	Drug 958 965	Lipitor

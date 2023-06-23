@@ -1,0 +1,8 @@
+T2	ADR 34 49	blurry eyesight
+#2	AnnotatorNotes T2	visual disturbance
+T3	ADR 51 60	hair loss
+#3	AnnotatorNotes T3	alopecia
+T4	ADR 80 92	burning feet
+T5	ADR 97 110	painful heels
+T6	Drug 270 277	Lipitor
+T7	ADR 0 15	Muscle weakness

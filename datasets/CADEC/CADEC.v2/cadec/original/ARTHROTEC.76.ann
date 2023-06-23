@@ -1,0 +1,14 @@
+T1	ADR 0 8	swelling
+#1	AnnotatorNotes T1	oedema
+T2	ADR 10 18	bloating
+T3	ADR 20 38	increased appetite
+T4	ADR 62 76	dry,itchy skin
+T5	Drug 78 87	Arthrotec
+T6	Disease 228 237	arthritis
+T8	ADR 40 61	empty stomach feeling
+T9	Drug 160 172	glucoasamine
+T10	Drug 173 184	chondroitin
+T11	Drug 189 192	MSM
+T7	Symptom 299 303	pain
+T12	Drug 325 332	IB 1600
+T13	Drug 345 354	tylenol 8

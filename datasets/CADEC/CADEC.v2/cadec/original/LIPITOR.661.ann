@@ -1,0 +1,11 @@
+T1	ADR 153 169	general weakness
+T2	ADR 171 188	constant leg pain
+T4	ADR 207 226;236 242	terrible pain in my ankles
+T3	ADR 207 226;227 231	terrible pain in my feet
+T5	ADR 248 271	bottoms of my feet hurt
+T7	ADR 349 364	loss of balance
+T6	ADR 652 665	Tingling toes
+T8	ADR 669 678	numb toes
+T10	ADR 683 687;699 703	sore legs
+T9	ADR 683 687;688 694	sore ankles
+T11	Drug 780 788	Mevacore

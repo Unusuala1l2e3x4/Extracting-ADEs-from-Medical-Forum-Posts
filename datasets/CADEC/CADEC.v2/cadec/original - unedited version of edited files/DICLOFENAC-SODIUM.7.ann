@@ -1,0 +1,8 @@
+T1	ADR 52 68	perforated ulcer
+T2	ADR 7 20	stomach upset
+T3	Disease 240 249	arthritis
+T4	ADR 376 384	bleeding
+T5	ADR 386 397	peritonitis
+T6	ADR 399 410	septicaemia
+T7	ADR 411 415;432 440	renal failure
+T8	ADR 421 440	renal and respiratory failure

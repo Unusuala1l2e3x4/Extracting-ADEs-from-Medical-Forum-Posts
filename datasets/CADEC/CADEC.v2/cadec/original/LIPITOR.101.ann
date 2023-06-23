@@ -1,0 +1,8 @@
+T1	ADR 10 19	EYE HEAVY
+T2	ADR 0 9	MOVE SLOW
+#1	AnnotatorNotes T2	bradykinesia
+#2	AnnotatorNotes T1	sedation
+T3	ADR 21 29	NO SLEEP
+#3	AnnotatorNotes T3	insomnia
+T4	ADR 52 60	NO SLEEP
+#4	AnnotatorNotes T4	insomnia

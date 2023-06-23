@@ -1,0 +1,14 @@
+T1	Disease 41 54	calcification
+T2	ADR 195 206	muscle pain
+T3	ADR 244 249	Aches
+T4	ADR 254 259	pains
+T5	ADR 281 298	stiff upon waking
+T6	ADR 303 313	hands hurt
+T7	ADR 322 339	can't make a fist
+T8	ADR 341 349	Weakness
+T9	ADR 398 426	move like someone much older
+T10	ADR 428 432	Pain
+T11	Disease 493 502	arthritis
+T12	Symptom 693 704	inflamation
+T13	ADR 785 789	pain
+T14	Drug 838 848	Fosamax 35

@@ -1,0 +1,10 @@
+T1	ADR 30 48	stomach discomfort
+T2	ADR 122 144	muscle aches and pains
+T3	ADR 217 232	a lot grouchier
+T4	ADR 332 347	extreme fatigue
+T5	ADR 352 371	shortness of breath
+T6	Drug 411 418	Lipitor
+T7	Drug 621 628	Atacand
+T8	Finding 633 652	high blood pressure
+T9	ADR 718 725	fatigue
+T10	ADR 730 749	shortness of breath

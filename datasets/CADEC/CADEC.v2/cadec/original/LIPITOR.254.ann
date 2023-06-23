@@ -1,0 +1,10 @@
+T1	ADR 16 27	muscle pain
+T7	ADR 95 116;129 139	SEVERE muscle pain in hip joints
+T8	ADR 95 116;117 124	SEVERE muscle pain in sholder
+T3	ADR 149 163	fluish feeling
+T2	ADR 171 182	muscle achs
+T4	ADR 201 211	low energy
+T5	ADR 257 261	pain
+T9	ADR 269 298	waking me up at night in pain
+T10	ADR 300 304	Pain
+T6	Drug 356 363	lipitor

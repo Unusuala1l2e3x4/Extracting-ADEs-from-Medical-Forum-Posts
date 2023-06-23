@@ -1,0 +1,7 @@
+T1	ADR 0 9	Dry mouth
+#1	AnnotatorNotes T1	xerostomia
+T2	Drug 89 96	propain
+T3	Drug 126 138	mypaid forte
+T4	Drug 140 156	Ibuprofen 400 mg
+T5	Drug 157 175	Paracetamol 325 mg
+T6	Symptom 66 70	pain

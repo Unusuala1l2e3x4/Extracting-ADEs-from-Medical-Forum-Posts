@@ -1,0 +1,17 @@
+T1	Drug 0 7	Lipitor
+T2	Drug 37 42	Zocor
+T3	Drug 62 67	Zocor
+T4	Finding 75 82	myalgia
+T5	Finding 84 93	neuralgia
+T6	Finding 95 103	insomnia
+T7	Finding 105 113	dementia
+T8	Finding 115 129	polyneuropathy
+T9	Finding 131 145	rhabdomyolisis
+T10	Finding 147 164	subdural hematoma
+T11	Finding 166 170	coma
+T12	Finding 176 180	pain
+T13	Finding 182 186	pain
+T14	Finding 187 191	pain
+T15	Drug 193 200	Lipitor
+T16	Finding 226 238	nerve damage
+T17	Drug 244 249	Zocor

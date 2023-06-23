@@ -1,0 +1,13 @@
+TT1	76948002 | Severe pain |+ 45326000 |Shoulder pain | 0 6;7 15;31 35	Severe pain shoulder
+TT2	102480002 | Generalised acute body pains | 0 6;20 30;31 35	Severe upper body pain
+TT3	21545007 | Tenalgia | 46 56	tendonitis
+TT12	84229001 | Fatigue | 135 143	Fatigued
+TT13	22253000 | Pain | 148 158	worse pain
+TT4	3848011000036104 | Pravachol | 196 205	Pravachol
+TT5	57676002 | Arthralgia | 221 227;249 253	joints hurt
+TT6	68962001 | Myalgia | 229 236;249 253	muscles hurt
+TT7	21545007 | Tenalgia | 241 248;249 253	tendons hurt
+TT8	22253000 | Pain | 592 596	pain
+TT9	22253000 | Pain | 844 848	pain
+TT10	84229001 | Fatigue | 850 857	fatigue
+TT11	13791008 | Asthenia | 862 870	weakness

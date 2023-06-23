@@ -1,0 +1,7 @@
+T2	ADR 112 133	severe vaginal cramps
+T3	ADR 260 266	cramps
+T1	Drug 268 275	pamprin
+T4	Symptom 378 387	sore knee
+T5	ADR 420 426	cramps
+T10	Symptom 486 490;496 508	knee inflammation
+T6	Symptom 486 490;491 495	knee pain

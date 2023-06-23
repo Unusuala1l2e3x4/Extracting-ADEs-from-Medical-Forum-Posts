@@ -1,0 +1,13 @@
+T1	ADR 0 20	Constant aching/pain
+T2	ADR 25 33	weakness
+T4	ADR 80 87;103 113	Pain in lower back
+T3	ADR 80 87;88 98	Pain in lower legs
+T5	ADR 153 156	Gas
+T6	ADR 170 178	diarrhea
+T7	ADR 180 207	Difficulty getting to sleep
+T8	ADR 215 229	aching muscles
+T9	ADR 232 249	Severe aggitation
+T10	ADR 255 268	quick to snap
+T11	ADR 399 409	aggitation
+T12	ADR 468 473	tired
+T13	Drug 617 624	Lipitor

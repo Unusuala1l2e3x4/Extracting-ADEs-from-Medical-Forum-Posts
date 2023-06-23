@@ -1,0 +1,34 @@
+T1	ADR 110 116	nausea
+T2	ADR 514 523	dizziness
+T3	ADR 533 539	nausea
+T4	ADR 0 13	Stomach pains
+T5	ADR 15 26	chest pains
+T6	ADR 28 35	anxiety
+T7	ADR 37 44	fatigue
+T8	ADR 46 54	headache
+T9	ADR 56 74	erratic heart beat
+#1	AnnotatorNotes T9	Palpitations
+T10	ADR 76 97	raised blood pressure
+#2	AnnotatorNotes T10	Hypertension
+T11	ADR 99 108	dizziness
+T12	ADR 146 160	blurred vision
+#3	AnnotatorNotes T12	Blurred Vision
+T13	Drug 191 200	Arthrotec
+T14	Drug 229 236	Aciphex
+T15	ADR 557 575	period like cramps
+T16	ADR 695 701	cramps
+T17	ADR 995 1006	chest pains
+T18	ADR 1011 1030	elevated heart rate
+#4	AnnotatorNotes T18	Palpitations
+T19	ADR 1133 1144	hot flashes
+#5	AnnotatorNotes T19	Hot Flushes
+T20	ADR 1146 1155	dizziness
+T21	ADR 1157 1177	sever stomach cramps
+T22	ADR 1183 1202	weakness in my legs
+T23	Drug 1520 1527	Aciphex
+T24	Drug 1532 1541	Arthrotec
+T25	Finding 347 357	heart burn
+T26	Finding 361 372	indigestion
+T27	Finding 386 397	acid reflux
+T31	ADR 1216 1235	thought I was dying
+T35	ADR 722 751	inhibiting my menstrual cycle

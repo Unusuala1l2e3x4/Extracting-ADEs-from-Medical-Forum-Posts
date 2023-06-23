@@ -1,0 +1,16 @@
+T1	ADR 12 17;22 26	joint pain
+T2	ADR 31 46	muscle weakness
+T3	ADR 48 58	depression
+T4	ADR 60 67	fatigue
+T5	ADR 72 78	cramps
+T6	Drug 173 180	Lipitor
+T7	ADR 323 352	muscle twitching in both arms
+T9	ADR 354 376;383 388	loss of muscle mass in hands
+T10	ADR 354 376;393 397	loss of muscle mass in face
+T8	ADR 354 376;377 381	loss of muscle mass in arms
+T11	ADR 403 417	slurred speech
+T12	Drug 439 446	lipitor
+T13	ADR 459 469	Joint pain
+T14	Finding 515 518	ALS
+T15	Finding 527 530	ALS
+T16	Finding 586 589	ALS

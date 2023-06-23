@@ -1,0 +1,31 @@
+T1	ADR 0 9	headaches
+T2	ADR 11 34	face and scalp tingling
+T3	ADR 36 49	scalp itching
+T4	ADR 51 72	vibrating under scalp
+T5	ADR 74 82	tinnitus
+T6	ADR 84 99	twitching mouth
+T7	ADR 101 109	insomnia
+T8	ADR 111 123	vivid dreams
+T9	ADR 125 145	difficult swallowing
+T10	ADR 146 153	choking
+T11	ADR 155 169	swollen tongue
+T12	ADR 170 181	memory loss
+T13	ADR 183 192	confusion
+T14	ADR 193 205	stomach pain
+T15	ADR 212 221	foot pain
+T16	Disease 247 255	diabetes
+T17	Disease 257 270	heart disease
+T18	Disease 272 291	high blood pressure
+T19	Disease 296 325	high cholestrol/triglycerides
+T20	Drug 411 418	Lipitor
+T21	Drug 446 451	Zocor
+T22	Drug 453 462	Provachol
+T23	Drug 464 469	Zetia
+T24	Drug 474 481	Crestor
+T25	Drug 483 490	Lipitor
+T26	Disease 573 587	heart problems
+T27	Drug 626 633	Lipitor
+T28	ADR 714 737	face and scalp problems
+T29	Disease 751 771	trigeminal neuralgia
+T30	Disease 801 803	MS
+T31	Drug 843 850	Liptior

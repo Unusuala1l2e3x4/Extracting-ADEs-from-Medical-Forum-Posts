@@ -1,0 +1,11 @@
+T1	ADR 28 37	diarrhoea
+T2	ADR 115 123;91 95	swelling feet
+#1	AnnotatorNotes T2	Oedema
+T3	ADR 204 223	wrong with my liver
+#2	AnnotatorNotes T3	Hepatotoxicity
+T4	ADR 251 283	blood pressure had gone sky high
+#3	AnnotatorNotes T4	Hypertension
+T5	Drug 342 351	Arthrotec
+T6	ADR 100 106;115 123	ankles swelling
+T7	ADR 306 314	swelling
+T8	Drug 419 427	Pernamax

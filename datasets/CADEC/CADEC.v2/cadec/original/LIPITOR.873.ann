@@ -1,0 +1,11 @@
+T1	ADR 0 23	loss of muscel strength
+T2	ADR 24 31	vertigo
+T3	ADR 42 63	cramping neck muscels
+T4	ADR 64 84	loss of sexual drive
+T5	ADR 108 134	zombie like doped up state
+T6	ADR 135 159	halucinations during day
+T8	ADR 160 169;187 201	unable to get out of bed
+T7	ADR 160 169;170 174	unable to walk
+T9	ADR 208 234	reduced mental capabiities
+T10	ADR 235 245	depression
+T11	ADR 246 274	excessive sleep requirements

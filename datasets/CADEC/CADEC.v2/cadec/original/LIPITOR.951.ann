@@ -1,0 +1,17 @@
+T1	ADR 0 11	memory loss
+T2	ADR 13 30	transient amnesia
+T3	ADR 32 47;57 61	severe shoulder pain
+T4	ADR 52 56;57 61	knee pain
+T5	ADR 63 71	insomnia
+T6	ADR 73 90	extreme tiredness
+T7	ADR 91 115	hard to get up in the AM
+T8	ADR 120 138	hard to stay awake
+T9	ADR 140 159	crippling back pain
+T10	ADR 161 171	depression
+T11	ADR 173 188	loss of balance
+T12	Drug 197 206	Pravachol
+T13	Drug 211 216	Zocor
+T14	Drug 224 231	Lipitor
+T15	Drug 265 272	Lipitor
+T16	Drug 381 388	Lipitor
+T17	ADR 422 447	degenerative back disease

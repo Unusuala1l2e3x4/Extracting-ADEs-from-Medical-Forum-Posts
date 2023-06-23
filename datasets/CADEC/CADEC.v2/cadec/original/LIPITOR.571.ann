@@ -1,0 +1,11 @@
+T1	ADR 0 11	Muscle pain
+T2	ADR 13 23	depression
+T3	ADR 25 52	dizziness (fainting spells)
+T4	ADR 54 63	hair loss
+T5	ADR 65 78	panic attacks
+T6	Drug 122 129	Mevacor
+T7	Drug 134 145	Gemfibrozil
+T8	ADR 245 267	brain-draining effects
+T9	ADR 323 333	depression
+T10	ADR 365 375	depression
+T11	ADR 392 405	panic attacks

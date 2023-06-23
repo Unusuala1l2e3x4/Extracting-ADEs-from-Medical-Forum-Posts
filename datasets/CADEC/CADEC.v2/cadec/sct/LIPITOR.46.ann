@@ -1,0 +1,11 @@
+TT1	162031009 | Indigestion | 0 11	Indigestion
+TT2	29857009 | Chest pain | 13 31	intense heart pain
+TT3	68962001 | Myalgia | 33 45	sore muscles
+TT4	48694002 | Anxiety | 47 54	anxious
+TT5	162221009 | Restlessness | 56 64	restless
+TT6	130989002 | Sleep deprivation | 66 79	lack of sleep
+TT7	76948002 | Severe pain | + 29857009 | Chest pain | 96 113	severe chest pain
+TT8	277521002 | Loss of motivation | 122 150	loss the will to do anything
+TT9	248255005 | Cannot sleep at all | 152 160	no sleep
+TT10	309838005 | Emotional upset | 162 171	emotional
+TT11	247753000 | Loss of interest | 184 199	want to give up

@@ -1,0 +1,13 @@
+TT1	428061005 | Malignant neoplasm of brain | 108 120	brain cancer
+TT2	428061005 | Malignant neoplasm of brain | 326 366	brain cancer (glial cell related cancer)
+TT3	363346000 | Malignant neoplastic disease | 373 379	cancer
+TT4	3877011000036101 | Lipitor | 428 435	Lipitor
+TT5	363346000 | Malignant neoplastic disease | 474 480	cancer
+TT6	3877011000036101 | Lipitor | 828 835	Lipitor
+TT7	3877011000036101 | Lipitor | 1049 1056	Lipitor
+TT8	428061005 | Malignant neoplasm of brain | 1443 1455	brain cancer
+TT9	128239009 | Injury of nervous system | 1546 1565	neurological damage
+TT10	428061005 | Malignant neoplasm of brain | 1583 1595	brain cancer
+TT11	160685001 | Bed-ridden | 1599 1608	bedridden
+TT13	289001005 | Unable to feed self | 1610 1619;1627 1639	unable to feed himself
+TT12	286369003 | Unable to speak | 1610 1619;1620 1625	unable to speak

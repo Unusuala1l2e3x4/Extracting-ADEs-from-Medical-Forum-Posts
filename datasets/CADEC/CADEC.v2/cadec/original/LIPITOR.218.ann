@@ -1,0 +1,11 @@
+T1	Drug 150 159	Pravachol
+T2	Drug 252 259	Lipitor
+T3	Drug 401 408	Lipitor
+T4	Disease 441 450	arthritis
+T5	Disease 452 464	fibromyalgia
+T6	Disease 466 483	plantar fasciitis
+T7	Drug 560 567	Lipitor
+T8	Drug 600 607	Lipitor
+T9	ADR 504 526	elevated liver enzymes
+#1	AnnotatorNotes T9	raised liver enzymes
+T10	Disease 572 583	fatty liver

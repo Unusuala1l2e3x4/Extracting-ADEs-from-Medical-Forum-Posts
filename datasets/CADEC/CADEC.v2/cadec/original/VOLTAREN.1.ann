@@ -1,0 +1,4 @@
+T1	ADR 0 9	Heartburn
+T2	ADR 14 27	stomach upset
+#1	AnnotatorNotes T2	abdominal pain or nausea or vomiting or diarrhea
+T3	Symptom 78 82	pain

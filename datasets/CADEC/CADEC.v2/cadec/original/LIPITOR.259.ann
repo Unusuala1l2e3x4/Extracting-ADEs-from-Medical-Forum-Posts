@@ -1,0 +1,10 @@
+T1	Drug 52 59	Lipitor
+T2	ADR 166 170	sore
+#1	AnnotatorNotes T2	myalgia
+T3	ADR 292 303	no strength
+#2	AnnotatorNotes T3	weakness
+T4	ADR 426 435	hip hurts
+T5	Drug 713 720	Lipitor
+T6	ADR 263 283	damage to my muscles
+T7	ADR 330 361	painful time lifting my own arm
+T8	Finding 641 652	mild stroke

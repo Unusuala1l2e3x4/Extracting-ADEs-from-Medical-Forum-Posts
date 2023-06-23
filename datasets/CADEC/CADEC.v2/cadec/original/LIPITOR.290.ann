@@ -1,0 +1,7 @@
+T7	ADR 0 7;21 24	pain in arm
+T1	ADR 0 7;8 16	pain in shoulder
+T6	ADR 26 44	could not lift arm
+T2	ADR 110 114	pain
+T3	Drug 153 160	omega 3
+T4	Drug 165 170	coq10
+T5	ADR 255 259	pain

@@ -1,0 +1,8 @@
+T1	ADR 0 8	Hip pain
+T2	ADR 10 19	knee pain
+T3	ADR 21 44	neuropathy in left foot
+T4	ADR 54 62	leg pain
+T5	ADR 64 78	mental malaise
+T6	ADR 103 117;80 91	in the triceps arm fatigue
+T7	ADR 119 137	lack of enthusiasm
+T8	Symptom 288 299	blood sugar

@@ -1,0 +1,13 @@
+TT1	25064002 | Headache | 0 8	headache
+TT2	162076009 | Excessive upper gastrointestinal gas | 10 13	gas
+TT3	248490000 | Bloating symptom | 15 23	bloating
+TT4	18963009 | Mood swings | 25 36	mood swings
+TT5	367391008 | Malaise | 38 49	ill feeling
+TT6	48500005 | Delusional disorder | 51 59	paranoid
+TT7	48694002 | Anxiety | 61 68	anxious
+TT8	166830008 | Serum cholesterol raised | 84 109	cholesterol was very high
+TT9	3877011000036101 | Lipitor | 128 135	Lipitor
+TT11	248255005 | Cannot sleep at all | 196 205;211 216	Could not sleep
+TT10	288885009 | Unable to eat | 196 205;206 209	Could not eat
+TT12	162076009 | Excessive upper gastrointestinal gas | 226 231	gassy
+TT13	271835004 | Abdominal distension, gaseous | 239 252	belly blew up

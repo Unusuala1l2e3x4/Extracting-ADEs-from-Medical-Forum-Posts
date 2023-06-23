@@ -1,0 +1,16 @@
+T1	Drug 239 247	voltaren
+T2	Drug 552 560	voltaren
+T3	Drug 9 17	celebrex
+T4	Drug 63 71	voltaren
+T5	ADR 77 88	wild dreams
+T6	ADR 89 105	gurgling stomach
+T7	ADR 106 111	tired
+T8	ADR 113 118	moody
+T9	ADR 171 187	high blood press
+T10	ADR 136 149	heart stopped
+T11	ADR 283 295	hypertension
+T12	Disease 325 334	arthritis
+T13	Drug 307 320	tylenol extra
+T14	Drug 336 344	Voltaren
+T15	Symptom 417 431	arthritis pain
+T16	Drug 462 469	tagamet

@@ -1,0 +1,8 @@
+T2	Drug 215 222	Lipitor
+T3	ADR 272 276	numb
+#2	AnnotatorNotes T3	numb means anaesthesia... but i think they means paraesthesia because you can't be both numb and have pain
+T4	ADR 281 288	painful
+T5	ADR 179 191	nerve damage
+#3	AnnotatorNotes T5	nonspecific, not sure what they mean 
+T6	ADR 14 47	permanent nerve damage to my feet
+T1	ADR 50 69	severe leg cramping

@@ -1,0 +1,10 @@
+T1	ADR 215 219;231 235	pain back
+T2	Drug 264 271	Lipitor
+T3	Drug 381 388	Lipitor
+T4	ADR 523 527	pain
+T9	ADR 631 648;690 722	couldn't remember who I had dinner with last night
+T5	ADR 631 648;649 686	couldn't remember where I left my dog 10 minutes before
+T10	ADR 772 779	painful
+T6	ADR 787 799	constipation
+T7	ADR 804 816	stomach pain
+T8	ADR 818 831	always hungry

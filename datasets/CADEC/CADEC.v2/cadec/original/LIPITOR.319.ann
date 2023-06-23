@@ -1,0 +1,10 @@
+T1	ADR 0 10	Joint pain
+T2	ADR 12 23	muscle ache
+T3	ADR 25 32	fatigue
+T4	ADR 210 220	joint pain
+T5	ADR 222 235	muscle aching
+T6	ADR 237 244	fatigue
+T7	Drug 253 260	Lipitor
+T8	Drug 486 493	Lipitor
+T9	Drug 554 561	Lipitor
+T10	Drug 751 758	Lipitor

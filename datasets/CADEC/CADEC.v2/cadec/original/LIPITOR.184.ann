@@ -1,0 +1,12 @@
+T5	ADR 51 56;84 91	elbow painful
+T1	ADR 94 104	joint pain
+T2	ADR 144 159	back discomfort
+T6	ADR 164 180	trouble sleeping
+T3	ADR 182 189	Bloated
+T7	ADR 194 199	gassy
+T4	ADR 209 224	vision problems
+T8	Drug 399 408	Vitamin C
+T9	Drug 416 422	Lysine
+T11	Drug 424 432;437 438	Vitamins E
+T10	Drug 424 432;433 434	Vitamins A
+T12	Drug 499 508	Vitamin C

@@ -1,0 +1,13 @@
+TT1	65124004 | Swelling | 0 8	swelling
+TT2	248490000 | Bloating symptom | 10 18	bloating
+TT3	72405004 | Increased appetite | 20 38	increased appetite
+TT8	225014007 | Feeling empty | 40 61	empty stomach feeling
+TT4	16386004 | Dry skin |+ 418363000 | Itching of skin | 62 76	dry,itchy skin
+TT5	3384011000036100 | Arthrotec | 78 87	Arthrotec
+TT9	69813011000036107 | glucosamine | 160 172	glucoasamine
+TT10	CONCEPT_LESS 173 184	chondroitin
+TT11	CONCEPT_LESS 189 192	MSM
+TT6	3723001 | Arthritis | 228 237	arthritis
+TT7	22253000 | Pain | 299 303	pain
+TT12	CONCEPT_LESS 325 332	IB 1600
+TT13	3080011000036109 | Tylenol | 345 354	tylenol 8

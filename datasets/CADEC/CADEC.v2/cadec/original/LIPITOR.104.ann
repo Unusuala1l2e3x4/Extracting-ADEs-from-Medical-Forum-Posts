@@ -1,0 +1,7 @@
+T1	ADR 9 16	burning
+#1	AnnotatorNotes T1	burning pain
+T2	ADR 17 21	numb
+T3	ADR 49 59	Joint pain
+T4	Disease 199 213	blood pressure
+T5	Disease 215 226	cholesterol
+T6	Disease 229 237	diabetes

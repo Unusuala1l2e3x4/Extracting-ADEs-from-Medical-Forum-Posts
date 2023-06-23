@@ -1,0 +1,12 @@
+T1	ADR 128 141	mild headache
+T2	ADR 214 230	abdominal cramps
+T3	ADR 244 252	diarrhea
+T4	ADR 280 283	gas
+T5	ADR 388 394	nausea
+T6	ADR 400 409	heartburn
+T7	ADR 360 372	bad headache
+T8	ADR 378 386	cramping
+T9	ADR 295 308	mild cramping
+T10	Drug 443 451	iubrofen
+T11	Symptom 569 573	pain
+T12	ADR 285 293	gurgling

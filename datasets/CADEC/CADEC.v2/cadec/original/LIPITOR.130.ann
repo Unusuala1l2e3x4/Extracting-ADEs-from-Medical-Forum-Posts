@@ -1,0 +1,16 @@
+T1	ADR 25 35	Depression
+#1	AnnotatorNotes T1	depression
+T2	ADR 59 79	musclo-skeletal pain
+T3	ADR 81 89	insomnia
+#2	AnnotatorNotes T3	insomnia
+T4	ADR 91 94	gas
+#3	AnnotatorNotes T4	nonspecific eructation, flatus, bloating?
+T5	ADR 103 118	rectal bleeding
+#4	AnnotatorNotes T5	rectal bleeding
+T6	ADR 120 126	nausea
+T7	ADR 128 140	stomach pain
+T8	ADR 142 149	syncope
+#5	AnnotatorNotes T8	loss of consciousness, syncope
+T9	Drug 203 210	lipitor
+T10	Drug 211 223	atorvastatin
+T11	ADR 282 295	shoulder pain

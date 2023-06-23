@@ -1,0 +1,11 @@
+T2	ADR 0 28;41 45	Intense and constant pain in arms
+T1	ADR 0 28;32 36	Intense and constant pain in legs
+T3	ADR 47 51;67 87	Legs painful to the touch
+T4	ADR 123 141	tired all the time
+T5	ADR 143 157	couldn't sleep
+T6	ADR 159 180	loss of sexual desire
+T7	Disease 243 248	Lupus
+T8	Drug 280 287	Lipitor
+T9	ADR 323 331	leg pain
+T10	Drug 597 611	red yeast rice
+T11	Drug 613 630	lecithin granules

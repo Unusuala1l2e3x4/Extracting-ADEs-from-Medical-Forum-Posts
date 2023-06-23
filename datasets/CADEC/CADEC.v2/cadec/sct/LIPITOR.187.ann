@@ -1,0 +1,23 @@
+TT1	29857009 | Chest pain | 7 17	Chest pain
+TT2	13791008 | Asthenia | 27 35	weakness
+TT3	35489007 | Depression | 37 47	depression
+TT4	48694002 | Anxiety | 49 56	anxiety
+TT5	193462001 | Insomnia | 76 84	insomnia
+TT6	84229001 | Fatigue | 86 93	fatigue
+TT7	386807006 | Memory impairment | 95 110	memory problems
+TT8	60032008 | Unable to concentrate | 112 136	inability to concentrate
+TT9	3877011000036101 | Lipitor | 174 181	Lipitor
+TT23	13791008 | Asthenia | 274 286	feeling weak
+TT24	13791008 | Asthenia | 331 335	weak
+TT10	3877011000036101 | Lipitor | 367 374	Lipitor
+TT12	24700007 | Multiple sclerosis | 454 456	MS
+TT13	200936003 | Lupus erythematosus | 457 462	Lupus
+TT14	24693007 | Fibromyalgia | 463 475	Fibromyalgia
+TT11	3877011000036101 | Lipitor | 553 560	Lipitor
+TT15	3877011000036101 | Lipitor | 637 644	Lipitor
+TT16	29857009 | Chest pain | 785 795	chest pain
+TT17	84229001 | Fatigue | 891 898	fatigue
+TT18	48694002 | Anxiety | 900 907	anxiety
+TT19	CONCEPT_LESS 909 915	memory
+TT20	193462001 | Insomnia | 920 928	insomnia
+TT21	35489007 | Depression | 1137 1147	depression

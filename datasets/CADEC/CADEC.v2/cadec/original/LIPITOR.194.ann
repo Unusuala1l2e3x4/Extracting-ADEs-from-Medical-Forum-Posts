@@ -1,0 +1,22 @@
+T1	ADR 0 16	Stomach distress
+T2	ADR 31 42	muscle ache
+#1	AnnotatorNotes T2	myalgia
+T3	ADR 44 55	eye trouble
+#2	AnnotatorNotes T3	vision disturbances
+T4	ADR 18 29	gum trouble
+#3	AnnotatorNotes T4	nonspecific
+T5	ADR 126 139	stomach pains
+T6	ADR 151 159	bloating
+#4	AnnotatorNotes T6	bloating
+T8	ADR 391 403	stomach pain
+T9	ADR 503 507	pain
+T10	ADR 521 532	constipated
+#5	AnnotatorNotes T10	constipation
+T11	ADR 591 596	pains
+T12	ADR 618 628	body aches
+T13	ADR 222 241;257 262	aches and stiffness knees
+T7	ADR 222 241;248 252	aches and stiffness hips
+T14	Symptom 327 350	spike in my blood sugar
+T15	ADR 421 434	couldn't walk
+T16	ADR 549 560	constipated
+T17	ADR 633 642	stiffness

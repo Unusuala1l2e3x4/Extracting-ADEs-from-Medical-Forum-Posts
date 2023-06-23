@@ -1,0 +1,20 @@
+TT1	75694006 | Pancreatitis | 34 57	acute pancreatic attack
+TT18	CONCEPT_LESS 63 84	critical blood levels
+TT19	CONCEPT_LESS 124 148	body was "shutting" down
+TT2	23520002 | Decreased venous pressure | 192 207	BP was very low
+TT20	386661006 | Fever | 215 220	fever
+TT3	89362005 | Weight loss | 239 250	weight loss
+TT4	225549006 | Yellow skin | 262 285	yellow color to my skin
+TT5	228158008 | Walking disability | 287 309	couldn't walk straight
+TT6	CONCEPT_LESS 310 328	prostate infection
+TT7	415690000 | Sweating | 330 338	sweating
+TT8	422587007 | Nausea | 340 346	nausea
+TT10	271681002 | Stomach ache | 348 355;356 363	pain in stomach
+TT9	161891005 | Backache | 348 355;366 370	pain in back
+TT11	CONCEPT_LESS 372 390	urination effected
+TT12	50219008 | Hoarse | 392 411	hoarseness/coughing
+TT13	248648003 | Palpitations - rapid | 413 425	heart racing
+TT14	62476001 | Disorientated | 427 438	disoriented
+TT15	28551000168108 | Voltaren | 659 667	Voltaren
+TT16	28551000168108 | Voltaren | 735 743	Voltaren
+TT17	CONCEPT_LESS 963 984	remember the entire e

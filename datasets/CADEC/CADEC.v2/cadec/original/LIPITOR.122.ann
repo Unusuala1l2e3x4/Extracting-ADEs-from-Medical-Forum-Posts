@@ -1,0 +1,7 @@
+T1	ADR 29 39	Joint pain
+T2	ADR 9 20	mood swings
+#1	AnnotatorNotes T2	irritability
+T3	ADR 41 56	Extremely tired
+T5	ADR 23 27	rage
+T4	ADR 116 126;131 135	changes in mood
+T6	ADR 116 126;140 157	changes in physical activity

@@ -1,0 +1,16 @@
+T1	Drug 34 39	LIPEX
+T2	ADR 178 190	pain in hips
+T3	ADR 191 236	cannot walk even a short distance due to pain
+T4	ADR 238 276	Legs felt like they had run a marathon
+T5	ADR 278 291	Deep bruising
+T7	ADR 329 342;350 354	Joint pain in hips
+T8	ADR 329 342;359 365	Joint pain in elbows
+T6	ADR 329 342;343 348	Joint pain in spine
+T9	ADR 367 377	Exhaustion
+T10	Drug 579 584	LIPEX
+T11	ADR 649 657	hip pain
+T12	ADR 682 704	felt like an old woman
+T13	Finding 825 845	bursitis in the hips
+T14	ADR 891 906	severe hip pain
+T15	ADR 911 940	cannot walk more than 5 yards
+T16	Drug 1078 1085	BEZALIP

@@ -1,0 +1,11 @@
+T1	ADR 0 23	Severe plantar faciitis
+T2	ADR 25 47	debillitating leg pain
+T3	ADR 49 75	severe leg muscle weakness
+T4	ADR 77 119	hand weakness (constantly dropping things)
+T5	ADR 121 133	palpitations
+T6	ADR 135 146	tachycardia
+T7	ADR 148 167	irrecular heartbeat
+T8	ADR 169 185	throat tightness
+T9	ADR 187 215	difficulty/shallow breathing
+T10	ADR 217 224	fatigue
+T11	Drug 265 272	Lipitor

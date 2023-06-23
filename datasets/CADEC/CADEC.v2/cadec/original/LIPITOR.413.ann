@@ -1,0 +1,9 @@
+T1	ADR 0 7	fatigue
+T2	ADR 9 23	muscle crammps
+T3	ADR 25 33	bloating
+T4	ADR 39 58	intense chest pains
+T5	ADR 65 75	depression
+T6	Disease 236 239	flu
+T7	Drug 339 346	lipitor
+T8	ADR 419 429	depression
+T9	ADR 434 445	mood swings

@@ -1,0 +1,8 @@
+T1	Disease 130 158	post traumaic osteoarthritis
+T2	Drug 203 212	Arthrotec
+T3	Drug 30 34	Tums
+#1	AnnotatorNotes T3	not the drug in question. this is a suggestion for over the counter drug to alleviate side effects.
+T4	Drug 38 43	Gas-X
+#2	AnnotatorNotes T4	not the drug in question. this is a suggestion for over the counter drug to alleviate side effects.
+T5	Symptom 244 248	pain
+T6	Symptom 268 272	limp

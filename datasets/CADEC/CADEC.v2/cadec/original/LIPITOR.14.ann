@@ -1,0 +1,24 @@
+T1	Drug 20 27	Lipitor
+T2	ADR 48 52	pain
+T4	ADR 119 128;143 149	inflammed bursae
+T5	ADR 119 128;129 138	inflammed ligaments
+T3	ADR 183 193	Nerve pain
+T15	ADR 241 251;266 272	burning of ankles
+T6	ADR 241 251;252 261	burning of shoulders
+T7	Drug 291 297	Liptor
+T24	ADR 361 365	pain
+T8	Drug 498 505	Lipitor
+T9	Drug 517 524	Lipitor
+T16	Symptom 664 676	extreme pain
+T17	Symptom 780 789;847 851	shoulders hurt
+T18	Disease 926 942	inflammed bursae
+T19	Symptom 971 975	pain
+T20	Symptom 980 990	disability
+T11	Drug 1016 1023	statins
+T22	Drug 1078 1092	Red Yeast Rice
+T14	Drug 1098 1103	COQ10
+T10	Drug 1150 1159	Vitamin C
+T21	Drug 1177 1184	Lipitor
+T23	Drug 1363 1377	Red Yeast Rice
+T13	Disease 1387 1407	elevated cholesterol
+T12	Drug 1499 1506	Lipitor

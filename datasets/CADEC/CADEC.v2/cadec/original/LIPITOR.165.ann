@@ -1,0 +1,13 @@
+T1	ADR 9 19	chest pain
+T3	Disease 316 331	type 2 diabetes
+T4	Disease 436 449	Heart disease
+T5	Disease 493 504	bp problems
+T6	Disease 513 521	diabetes
+T7	ADR 588 593	pains
+T8	ADR 633 638	pains
+T9	ADR 736 741	pains
+T10	ADR 822 827	pains
+T11	ADR 21 41	stabbing sharp pains
+T2	Drug 215 224	Mavik 1mg
+T12	Disease 229 243	blood pressure
+T13	Finding 948 970	pregnancy side effects

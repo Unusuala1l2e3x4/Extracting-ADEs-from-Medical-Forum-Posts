@@ -1,0 +1,10 @@
+T1	ADR 0 9	dizzyness
+T2	ADR 36 44	weakness
+T3	ADR 64 69	aches
+T4	ADR 72 77	pains
+T5	ADR 79 103	loss of coherent thought
+T6	ADR 105 116	memory loss
+T7	ADR 125 147	varying blood pressure
+T8	ADR 149 171	syptoms similar to TIA
+T9	Drug 254 261	Lipitor
+T10	Drug 594 601	Lipitor

@@ -1,0 +1,15 @@
+TT1	3877011000036101 | Lipitor | 35 42	Lipitor
+TT2	25064002 | Headache | 105 117	head hurting
+TT3	40917007 | Confusion | 137 150	very confused
+TT4	60119000 | Exhaustion | 167 176	exhausted
+TT5	77692006 | Hypersomnia | 178 205	falling asleep all the time
+TT6	161873000 | Heavy legs | 228 257	legs always feeling like lead
+TT7	426206001 | Constant pain | 378 391;401 410	constant pain shoulders
+TT8	426206001 | Constant pain | + 30989003 | Knee pain |  378 391;412 417	constant pain knees
+TT9	82991003 | Generalised aches and pains | 442 458	whole body hurts
+TT10	49049000 | Parkinson's disease | 485 495	Parkinsons
+TT11	3877011000036101 | Lipitor | 574 581	Lipitor
+TT12	3877011000036101 | Lipitor | 724 731	Lipitor
+TT13	22253000 | Pain | 764 768	pain
+TT14	84229001 | Fatigue | 773 780	fatigue
+TT15	129565002 | Myopathy | 785 800	muscle problems

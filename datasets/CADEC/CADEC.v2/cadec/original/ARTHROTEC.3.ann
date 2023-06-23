@@ -1,0 +1,11 @@
+T1	ADR 0 12	Constipation
+T2	ADR 62 72	joint pain
+T3	ADR 121 125	Pain
+T4	ADR 173 205	extreme itching on legs and arms
+T5	ADR 238 260	mobility has DECREASED
+T6	ADR 344 356	constipation
+T7	Drug 414 423	Arthrotec
+T8	Symptom 448 452	pain
+T10	ADR 509 515;522 526	muscle pain
+T15	ADR 516 521;522 526	joint pain
+T11	Drug 583 593	co-codamol

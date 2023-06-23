@@ -1,0 +1,10 @@
+T1	ADR 0 14	Muscle Fatigue
+T2	ADR 16 27	Memory Loss
+T3	ADR 29 37	Cramping
+T4	ADR 39 55	Cold Extremities
+T5	ADR 57 76	Shortness of Breath
+T6	ADR 78 93	General Fatigue
+T7	ADR 95 100;112 116	Joint Pain
+T8	ADR 105 111;112 116	Muscle Pain
+T9	ADR 118 136	Inability to Sleep
+T10	ADR 149 159	Depression

@@ -1,0 +1,10 @@
+T1	ADR 13 23	joint pain
+T2	ADR 46 56	joint pain
+T3	Drug 96 103	lipitor
+T4	ADR 233 244	chest spasm
+T6	Disease 290 294	GERD
+T7	Disease 296 305	pneumonia
+T8	ADR 311 317	Spasms
+T9	Disease 283 288	heart
+T5	ADR 446 461	muscle weakness
+T10	Finding 767 783	calcium build-up

@@ -1,0 +1,10 @@
+T1	ADR 0 13;24 28	Severe muscle pain
+T2	ADR 18 23;24 28	joint pain
+T6	ADR 165 169	pain
+T7	ADR 186 203	could hardly move
+T3	Drug 215 222	Lipitor
+T4	Drug 258 265	Lipitor
+T8	ADR 310 314	pain
+T9	Disease 456 468	heart attack
+T5	Drug 484 491	Lipitor
+T10	ADR 507 518	weight gain

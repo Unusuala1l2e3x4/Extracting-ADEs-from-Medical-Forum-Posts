@@ -1,0 +1,7 @@
+T1	ADR 45 70	debilitating muscle pains
+T2	ADR 72 88	horrible fatigue
+T4	ADR 90 104;111 115	tingling in my legs
+T5	ADR 90 104;120 127	tingling in my fingers
+T3	ADR 90 104;105 109	tingling in my arms
+T6	Drug 306 311	CoQ10
+T7	Drug 420 427	Lipitor

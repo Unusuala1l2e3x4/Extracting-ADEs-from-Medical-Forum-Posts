@@ -1,0 +1,20 @@
+T1	ADR 0 10	heavy legs
+T2	ADR 12 24	muscle aches
+T3	ADR 26 35	confusion
+T4	ADR 37 130	not able to remember things like whether I had done something or where I had placed something
+T5	ADR 132 145	stomach upset
+T6	ADR 147 158	indigestion
+T7	ADR 160 168	insomnia
+T8	ADR 170 178	sweating
+T9	ADR 180 187	shaking
+T10	ADR 189 208	shortness of breath
+T11	ADR 210 219	twitching
+T12	ADR 221 231	depression
+T13	ADR 239 251	fibromyalgia
+T15	ADR 315 320;332 345	crave carbohydrates
+T14	ADR 315 320;321 327	crave sweets
+T16	ADR 347 359	Constipation
+T17	ADR 384 407	bouts of diverticulitis
+T18	Drug 459 466	Lipitor
+T19	Finding 513 515	MS
+T20	Finding 519 524	lupus

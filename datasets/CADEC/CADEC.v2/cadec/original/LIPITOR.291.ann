@@ -1,0 +1,9 @@
+T1	ADR 0 15	Muscle weakness
+#1	AnnotatorNotes T1	muscle weakness
+T2	ADR 20 32	extreme pain
+T3	ADR 34 40	nausea
+T4	ADR 42 50	diarrhea
+T5	ADR 64 73	dizziness
+T6	Drug 248 257	pravochol
+T7	ADR 112 127	can barely walk
+T8	Disease 189 196	flu bug

@@ -1,0 +1,11 @@
+T8	ADR 0 6;18 22	muscle pain
+T1	ADR 0 6;7 13	muscle spasms
+T2	ADR 24 34	joint pain
+T3	ADR 36 45	headaches
+T4	ADR 47 58	memory loss
+T5	ADR 60 69	skin rash
+T6	ADR 71 81	depression
+T7	ADR 83 91	insomnia
+T9	ADR 138 144;155 159	muscle pain
+T10	ADR 149 154;155 159	joint pain
+T11	Symptom 244 271	liver enzymes were elevated

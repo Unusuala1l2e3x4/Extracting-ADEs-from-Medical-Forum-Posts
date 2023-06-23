@@ -1,0 +1,45 @@
+T1	ADR 0 11	deppression
+T2	ADR 13 21	weakness
+T3	ADR 23 30	fatigue
+T4	ADR 32 43	muscle pain
+T5	ADR 48 57	stiffness
+T6	ADR 66 74	numbness
+T7	ADR 79 87	tingling
+T8	ADR 103 106	gas
+T9	ADR 108 116	bloating
+T10	ADR 117 128	indegestion
+T11	ADR 129 140	stuffy nose
+T12	ADR 141 153	plugged ears
+T13	ADR 153 187	,lack of balance and cooridination
+T14	Disease 188 200	kidney stone
+T15	Disease 201 211	bronchitis
+T16	ADR 223 228	cough
+T17	Disease 230 248	abdominal hematoma
+T36	ADR 254 320	bleeding in my abdomen after coughing and rupturing a blood vessel
+T18	ADR 322 345	decreased immune system
+T37	ADR 347 359	elevated wbc
+T19	ADR 362 380	trouble swallowing
+T20	ADR 381 393	hoarse voice
+T21	ADR 394 404	chest pain
+T22	ADR 405 424	shortness of breath
+T24	ADR 425 443;454 459	decreased sense of taste
+T23	ADR 425 443;444 449	decreased sense of smell
+T25	ADR 460 477	irregular periods
+T26	ADR 478 503	abnormal uterine bleeding
+T27	Disease 506 539	decreased progesterone production
+T38	ADR 540 550	dark urine
+T28	Disease 551 562	tooth decay
+T29	ADR 563 570	anxiety
+T30	Disease 571 577	anemia
+T31	ADR 578 587	back pain
+T32	Drug 750 757	lipitor
+T34	ADR 856 888	constant vibrating down left leg
+T35	ADR 890 896;907 911	muscle pain
+T33	ADR 901 906;907 911	joint pain
+T39	Finding 1153 1167	kidney failure
+T41	Finding 1192 1214	increase in infections
+T40	Finding 1216 1236	auto immune diseases
+T42	ADR 1305 1316	muscle pain
+T43	ADR 1321 1329	weakness
+T44	ADR 1330 1345	trouble walking
+T45	ADR 1346 1364	increased bleeding

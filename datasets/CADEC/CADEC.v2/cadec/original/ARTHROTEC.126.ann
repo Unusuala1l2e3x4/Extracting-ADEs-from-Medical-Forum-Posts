@@ -1,0 +1,17 @@
+T1	ADR 69 77	diarrhea
+T2	ADR 524 532	diarrhea
+T3	ADR 53 67	stomach cramps
+T4	ADR 82 88	nausea
+T5	Symptom 197 206	knee pain
+T6	Disease 332 346	osteoarthritis
+T7	Symptom 347 351	pain
+T8	ADR 537 551	pain pain pain
+T9	ADR 497 522	gastrointestinal cramping
+T10	ADR 467 495	stomach gas and intense pain
+#1	AnnotatorNotes T10	also included the concept of bloating or distension
+T11	ADR 394 398	sick
+#2	AnnotatorNotes T11	generally sick. not sure if they mean malaise, or if they are referring to the nausea, vomiting and diarrhea
+T12	Disease 627 636	arthritis
+T13	Symptom 666 675	knee pain
+T14	ADR 769 773	sick
+#3	AnnotatorNotes T14	the same as above.  general sick could mean a number of things. i would equate it with the concept of malaise

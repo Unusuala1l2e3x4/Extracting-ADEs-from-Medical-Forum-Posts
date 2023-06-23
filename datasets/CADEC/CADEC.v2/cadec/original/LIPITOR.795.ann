@@ -1,0 +1,11 @@
+T1	ADR 0 4;5 10	Body aches
+T2	ADR 12 17;5 10	knees aches
+T3	ADR 19 23;5 10	back aches
+T4	ADR 39 44;5 10	chest aches
+T5	ADR 73 82	lethargic
+T6	ADR 84 109	short term memory lacking
+T7	ADR 111 143	concentration is worse than ever
+T8	ADR 242 252	body aches
+T9	ADR 296 302	stress
+T10	ADR 304 311	anxiety
+T11	Drug 348 355	lipitor

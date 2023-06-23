@@ -1,0 +1,13 @@
+T1	ADR 0 23	rapid shallow breathing
+T2	ADR 25 32	fatigue
+T3	ADR 34 48	disorientation
+T4	ADR 50 73	slightly blurred vision
+T5	ADR 75 95	erectile disfunction
+T6	ADR 97 108	muscle pain
+#1	AnnotatorNotes T6	myalgia
+T7	Drug 260 267	Lipitor
+T8	Drug 325 332	Lipitor
+T9	Drug 403 410	Lipitor
+T10	Disease 235 242	allergy
+T11	Disease 243 249	asthma
+T12	Drug 469 476	Lipitor

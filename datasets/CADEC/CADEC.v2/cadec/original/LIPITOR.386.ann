@@ -1,0 +1,10 @@
+T1	ADR 92 112	severe legs problems
+T2	ADR 114 126	muscle aches
+T3	ADR 127 135	weakness
+T4	ADR 136 145	stiffness
+T6	ADR 147 156;169 174	cramps in hands
+T5	ADR 147 156;157 164	cramps in my feet
+T8	ADR 176 183;196 201	pain in chest
+T7	ADR 176 183;184 191	pain in my arms
+T9	ADR 203 218	memory problems
+T10	ADR 230 245	vision problems

@@ -1,0 +1,11 @@
+TT1	247373008 | Ankle pain | 106 120	pain in ankles
+TT2	22253000 | Pain | 169 173	pain
+TT3	76948002 | Severe pain |+ 247373008 | Ankle pain | 262 286	severe pain in one ankle
+TT4	248255005 | Cannot sleep at all | 291 306	could not sleep
+TT5	16973004 | Limping | 345 351	limped
+TT6	22253000 | Pain | 383 387	pain
+TT7	247373008 | Ankle pain | 402 412	ankle hurt
+TT8	282180007 | Unable to walk up step | 452 480	could not walk up the stairs
+TT9	76948002 | Severe pain | 501 513	extreme pain
+TT10	22253000 | Pain | 730 734	pain
+TT11	3877011000036101 | Lipitor | 991 998	Lipitor

@@ -1,0 +1,23 @@
+T1	Drug 15 24	Provachol
+T2	ADR 52 68	extreme bloating
+T3	ADR 86 108	increase my heart rate
+T4	ADR 119 139	could not sleep well
+T5	Drug 161 168	Lipitor
+T6	Drug 360 367	Lipitor
+T7	ADR 380 388	bloating
+T8	ADR 409 412	gas
+T9	ADR 530 538	bloating
+T10	ADR 575 581	drowsy
+T11	ADR 650 673	sleep is not very sound
+T12	ADR 718 722;765 769	pain neck
+T13	Disease 972 982	tendonitis
+T14	Drug 1104 1113	B complex
+T15	Drug 1115 1120	CoQ10
+T16	Drug 1126 1130	GasX
+T17	ADR 1135 1143	bloating
+T18	ADR 1244 1247	gas
+T19	ADR 1259 1263	pain
+T20	ADR 1384 1392	bloating
+T21	ADR 1397 1400	gas
+T22	Drug 1460 1467	Lipitor
+T23	ADR 1428 1442	stomach upsets

@@ -1,0 +1,9 @@
+T1	Drug 13 20	Lipitor
+T2	ADR 51 67	flu-like syptoms
+T3	ADR 76 85	dizziness
+T4	ADR 86 92	nausea
+T5	ADR 94 106	muscle aches
+T7	ADR 107 114;124 136	loss of productivity
+T6	ADR 107 114;115 121	loss of energy
+T8	ADR 138 147	headaches
+T9	Drug 228 235	Lipitor

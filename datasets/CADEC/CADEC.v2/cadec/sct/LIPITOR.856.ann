@@ -1,0 +1,19 @@
+TT1	21242011000036102 | simvastatin | 49 60	SIMVISTATIN
+TT2	3877011000036101 | Lipitor | 82 89	LIPITOR
+TT3	3298011000036103 | Lipex | 125 130	LIPEX
+TT4	21242011000036102 | simvastatin | 140 151	SIMVISTATIN
+TT5	49218002 | Hip pain | 257 269	pain in hips
+TT6	282145008 | Unable to walk | 270 315	cannot walk even a short distance due to pain
+TT7	80449002 | Muscle fatigue | 317 355	Legs felt like they had run a marathon
+TT8	262558009 | Deep bruising | 357 370	Deep bruising
+TT10	49218002 | Hip pain | 408 421;429 433	Joint pain in hips
+TT11	202480001 | Elbow joint pain | 408 421;438 444	Joint pain in elbows
+TT9	48926009 | Pain in spine | 408 421;422 427	Joint pain in spine
+TT12	60119000 | Exhaustion | 446 456	Exhaustion
+TT13	3298011000036103 | Lipex | 658 663	LIPEX
+TT14	49218002 | Hip pain | 728 736	hip pain
+TT15	CONCEPT_LESS 761 783	felt like an old woman
+TT16	81498004 | Bursitis of hip | 904 924	bursitis in the hips
+TT17	76948002 | Severe pain | + 49218002 | Hip pain |  970 985	severe hip pain
+TT18	228158008 | Walking disability | 990 1019	cannot walk more than 5 yards
+TT19	CONCEPT_LESS 1157 1164	BEZALIP

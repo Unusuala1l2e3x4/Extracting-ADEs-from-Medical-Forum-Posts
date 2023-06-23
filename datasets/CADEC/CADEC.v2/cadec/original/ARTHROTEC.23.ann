@@ -1,0 +1,9 @@
+T1	ADR 53 71	excessive cramping
+T2	ADR 153 158	tired
+T3	ADR 159 166	fatigue
+T4	ADR 167 186	shortness of breath
+T5	ADR 192 196	pain
+T6	ADR 198 203	dizzy
+T7	ADR 204 210	nausea
+T8	ADR 212 224	unconsolable
+#1	AnnotatorNotes T8	Possible pain/ distress or anxiety symptoms

@@ -1,0 +1,26 @@
+T2	ADR 29 33	pain
+T3	ADR 35 45	Neuropathy
+T1	ADR 64 68	pain
+T6	ADR 70 84	Loss of energy
+T14	ADR 86 96;110 118	Difficulty speaking
+T15	ADR 86 96;97 105	Difficulty thinking
+T5	ADR 138 162	Disturbed sleep patterns
+T4	ADR 164 184	Difficulty urinating
+T16	ADR 186 212	Increase in blood pressure
+T7	ADR 257 278	lack of sexual desire
+T8	ADR 280 296	Less muscle mass
+T9	ADR 382 398	Decreased energy
+T10	ADR 403 420	constant lethargy
+T26	ADR 506 518	debilitating
+T11	Drug 605 612	lipitor
+T17	Finding 630 642	heart attack
+T18	Drug 679 688	vitamin c
+T19	Drug 690 707	fish oil capsules
+T20	Drug 709 716	CO Q 10
+T21	Drug 903 914	astaxanthan
+T22	Drug 916 919	MSM
+T23	Drug 921 938	alpha lipoid acid
+T24	Drug 940 954	vit. B complex
+T25	Drug 978 984	Niacin
+T12	Drug 1179 1186	Lipitor
+T13	ADR 1238 1242	pain

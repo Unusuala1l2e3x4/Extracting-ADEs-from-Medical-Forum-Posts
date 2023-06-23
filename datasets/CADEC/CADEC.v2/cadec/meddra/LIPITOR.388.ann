@@ -1,0 +1,18 @@
+TT1	10028411 28 40	muscle pains
+TT2	10016256 42 59	extreme tiredness
+TT3	10023000 61 73	irritability
+TT4	10004969 75 87	weird dreams
+TT5	10038742 89 110	restless leg syndrome
+TT6	10019045 112 121	hair loss
+TT7	10023614 123 141	lack of enthusiasm
+TT9	CONCEPT_LESS 185 193;199 202	elevated BUN
+TT10	10037825 185 193;204 214	elevated Creatinine
+TT11	10001571 185 193;216 229	elevated urine albumin
+TT8	10068559 185 193;194 197	elevated CRP
+TT12	10005809 231 254	increased blood glucose
+TT13	10027175 265 278	memory lapses
+TT14	10047899 283 300	belly weight gain
+TT16	10028289 429 442	losing muscle
+TT19	10019276 641 646;666 672	heart damage
+TT18	10051051 648 654;666 672	kidney damage
+TT17	10028641 659 665;666 672	muscle damage

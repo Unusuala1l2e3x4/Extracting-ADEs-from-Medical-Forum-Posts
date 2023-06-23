@@ -1,0 +1,10 @@
+T1	ADR 0 20	skipping heart beats
+T2	ADR 22 45	fast and slow heartbeat
+T3	ADR 47 55	leg pain
+T4	ADR 57 67	chest pain
+T5	ADR 69 86	extreme tiredness
+T6	ADR 88 98	depression
+T7	ADR 100 117	severe arrythmias
+T8	ADR 147 173	severe irregular heartbeat
+T9	Drug 279 286	Lipitor
+T10	ADR 344 364	severe heart disease

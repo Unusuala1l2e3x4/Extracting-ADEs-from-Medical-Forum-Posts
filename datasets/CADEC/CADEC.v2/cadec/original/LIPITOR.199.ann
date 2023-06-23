@@ -1,0 +1,30 @@
+T1	ADR 0 9	insommnia
+#1	AnnotatorNotes T1	insomnia
+T2	ADR 53 64	muscle pain
+#2	AnnotatorNotes T2	myalgia
+T3	ADR 29 51	inability to visualize
+#3	AnnotatorNotes T3	vision changes
+T4	ADR 66 74	weakness
+#4	AnnotatorNotes T4	weakness
+T5	ADR 76 83	atrophy
+#5	AnnotatorNotes T5	muscle wasting
+T6	ADR 85 95	tendinitis
+#6	AnnotatorNotes T6	tondonitis
+T7	ADR 97 109	tendinopathy
+#7	AnnotatorNotes T7	tendonopathy
+T8	ADR 111 129	tendon contracture
+T9	ADR 131 146	miniscus damage
+T10	ADR 148 189	working memory and short-term memory loss
+#8	AnnotatorNotes T10	amnesia
+T11	ADR 308 320	pancreatitis
+T12	Drug 540 547	Lipitor
+T14	Drug 685 692	Lipitor
+T19	Disease 785 807	cardiovascular disease
+T20	ADR 286 306	gall bladder disease
+T21	ADR 322 333	acid reflux
+#9	AnnotatorNotes T21	reflux
+T22	ADR 335 352	inability to walk
+#10	AnnotatorNotes T22	nonspecific for reason
+T23	ADR 191 284	language and learning ability loss including spoken and written aphasia and inability to read
+#11	AnnotatorNotes T23	expressive and receptive aphasia
+T24	ADR 11 27	loss of dreaming

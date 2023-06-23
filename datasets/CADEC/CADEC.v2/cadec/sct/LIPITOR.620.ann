@@ -1,0 +1,12 @@
+TT1	62507009 | Pins and needles | 7 15;24 26;27 31	in arms Tingling
+TT3	429783005 | Paraesthesia of lower extremity | 7 15;24 26;36 40	Tingling in legs
+TT12	62507009 | Pins and needles | 7 15;24 26;45 57	Tingling in back of neck
+TT5	36349006 | Burning pain | 16 23;24 26;36 40	burning in legs
+TT6	36349006 | Burning pain | 16 23;24 26;45 57	burning in back of neck
+TT2	36349006 | Burning pain | 16 23;24 26;27 31	burning in arms
+TT4	CONCEPT_LESS 45 57	back of neck
+TT7	386705008 | Lightheadedness | 64 79	lightheadedness
+TT8	48167000 | Amnesia | 86 97	memory loss
+TT9	29857009 | Chest pain | 104 114	chest pain
+TT10	45326000 | Shoulder pain | 116 168	pain in shoulder-feels like arm pulled out of socket
+TT11	22298006 | Myocardial infarction | 524 536	heart attack

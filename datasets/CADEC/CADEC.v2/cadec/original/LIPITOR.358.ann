@@ -1,0 +1,18 @@
+T1	ADR 27 51	muscular aches and pains
+T2	ADR 62 78	joint discomfort
+T3	ADR 159 168	heaviness
+T4	ADR 190 197	fatigue
+T5	ADR 223 234	weight gain
+T6	ADR 254 264	depression
+T7	Symptom 298 307	menopause
+T8	ADR 323 349	upper abdominal discomfort
+T9	Drug 375 382	Crestor
+T11	ADR 448 471;483 493	severe polyathralgia in leg joints
+T10	ADR 448 471;472 478	severe polyathralgia in ankles
+T12	Drug 729 736	Lipitor
+T13	Drug 928 935	Lipitor
+T14	Drug 1026 1034	Lipitors
+T15	Disease 1155 1168	Heart desease
+T16	Disease 1170 1178	diabetes
+T17	Disease 1184 1203	high blood pressure
+T18	Drug 1279 1286	Lipitor

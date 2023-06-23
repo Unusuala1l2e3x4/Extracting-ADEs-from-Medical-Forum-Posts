@@ -1,0 +1,7 @@
+T1	ADR 0 14	Stomach cramps
+T2	ADR 16 27	muscle pain
+T3	ADR 29 44	lower back pain
+T4	ADR 46 58	irritability
+T5	ADR 60 72	flu-symptoms
+T6	ADR 74 81	malaise
+T7	Drug 183 190	Lipitor

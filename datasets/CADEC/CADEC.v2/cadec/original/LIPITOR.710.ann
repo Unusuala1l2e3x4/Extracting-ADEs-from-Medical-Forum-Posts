@@ -1,0 +1,12 @@
+T1	ADR 0 17	Horrible leg pain
+T2	ADR 42 77	can't get out of bed in the morning
+T3	ADR 84 92	hip pain
+T5	ADR 193 198;215 224	Can't bend over
+T4	ADR 193 198;199 213	Can't walk up stairs
+T6	ADR 303 318	can hardly walk
+T7	ADR 356 364	leg pain
+T8	ADR 377 385	hip pain
+T9	Drug 397 403	motrin
+T10	Drug 409 420	asper-cream
+T11	Drug 448 455	Lipitor
+T12	Finding 465 477	heart attack

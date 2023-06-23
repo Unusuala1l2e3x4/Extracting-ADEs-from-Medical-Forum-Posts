@@ -1,0 +1,17 @@
+TT1	48167000 | Amnesia | 0 11	memory loss
+TT2	307413004 | Transient memory loss | 13 30	transient amnesia
+TT3	76948002 | Severe pain |+ 45326000 |Shoulder pain | 32 47;57 61	severe shoulder pain
+TT4	30989003 | Knee pain | 52 56;57 61	knee pain
+TT5	193462001 | Insomnia | 63 71	insomnia
+TT6	84229001 | Fatigue | 73 90	extreme tiredness
+TT7	CONCEPT_LESS 91 115	hard to get up in the AM
+TT8	271782001 | Drowsy | 120 138	hard to stay awake
+TT9	67849003 | Excruciating pain | + 161891005 | Backache |  140 159	crippling back pain
+TT10	35489007 | Depression | 161 171	depression
+TT11	282299006 | Unable to balance | 173 188	loss of balance
+TT12	3848011000036104 | Pravachol | 197 206	Pravachol
+TT13	3904011000036106 | Zocor | 211 216	Zocor
+TT14	3877011000036101 | Lipitor | 224 231	Lipitor
+TT15	3877011000036101 | Lipitor | 265 272	Lipitor
+TT16	3877011000036101 | Lipitor | 381 388	Lipitor
+TT17	77547008 | Degeneration of intervertebral disc | 422 447	degenerative back disease

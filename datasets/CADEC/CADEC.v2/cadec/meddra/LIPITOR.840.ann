@@ -1,0 +1,18 @@
+TT1	10028411 0 11	Muscle pain
+TT3	10033371 + 10023477 13 37;52 57	Severe joint pain in the knees
+TT2	10033371 + 10033442 13 37;38 47	Severe joint pain in the shoulders
+TT4	10033430 59 63;77 82;83 88	Pain in my hands
+TT6	10033473 59 63;77 82;93 103	Pain in my lower legs
+TT7	10011290 68 76;77 82;93 103	cramping in my lower legs
+TT5	10011287 68 76;77 82;83 88	cramping in my hands
+TT9	10049799 105 126;143 147	Numbness in all of my toes
+TT8	10029845 105 126;127 138	Numbness in all of my finger tips
+TT10	10040999 149 182	Wake up on and off all night long
+TT11	10049681 190 210	numbness in my hands
+TT12	10040617 215 232	pain in shoulders
+TT14	10028411 307 318	muscle pain
+TT15	CONCEPT_LESS 379 413	shoulders are still very messed up
+TT16	10033371 + 10040617 420 442	constint shoulder pain
+TT17	10029845 487 493;503 511	finger numbness
+TT18	10049681 498 502;503 511	hand numbness
+TT19	10033371 573 578	pains

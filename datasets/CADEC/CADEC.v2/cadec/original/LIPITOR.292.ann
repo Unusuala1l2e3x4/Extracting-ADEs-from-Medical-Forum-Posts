@@ -1,0 +1,12 @@
+T1	Drug 94 103	provachol
+T2	ADR 105 122	Flu like synptoms
+T3	ADR 148 171	numbness in my shoulder
+T4	ADR 173 176	gas
+T5	ADR 178 187	headaches
+T6	ADR 188 196	diarhhea
+T10	ADR 198 208	dark urine
+T8	ADR 227 232;244 248	joint pain
+T7	ADR 237 243;244 248	muscle pain
+T11	ADR 252 267	can barely walk
+T9	Drug 426 433	lipitor
+T12	Disease 657 669	HEART ATTACK

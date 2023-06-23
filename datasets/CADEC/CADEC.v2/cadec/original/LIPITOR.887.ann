@@ -1,0 +1,21 @@
+T1	ADR 0 16	Sudden knee pain
+T2	ADR 33 88	horriable crippeling pain hit both knees at same moment
+T3	ADR 117 166	lumpy swelling on both feet in same place on each
+T4	ADR 173 216	sudden horriable grabbing pain in one ankle
+T5	ADR 218 221	gas
+T6	ADR 223 234	indigestion
+T7	ADR 236 247	acid reflux
+T8	ADR 249 258	no energy
+T9	ADR 260 269	confusion
+T10	ADR 271 281	stumbeling
+T11	ADR 283 290	vertigo
+T12	ADR 292 303	memory loss
+T13	ADR 305 387	frequent sudden urges to go pee that came out with a force that sprayed everywhere
+T14	Finding 488 523	horriable pain in a different joint
+T15	Finding 618 627	arthritis
+T16	Finding 629 639	tendonitis
+T17	Finding 644 653	burscitis
+T18	ADR 757 786	Sudden grabbing pain in ankle
+T19	ADR 803 844	HORRIABLE pain that almost throws me down
+T20	ADR 862 871	confusion
+T21	Drug 1308 1315	Lipitor

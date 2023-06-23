@@ -1,0 +1,10 @@
+TT1	55300003 | Muscle cramp | 0 8	Cramping
+TT3	161891005 | Backache | 9 26;36 40	aching muscles in back
+TT2	288231001 | Myalgia/myositis - lower leg | 9 26;27 31	aching muscles in legs
+TT4	95891005 | Influenza-like illness | 42 59	Flu-like symptoms
+TT5	84229001 | Fatigue | 64 71	fatigue
+TT6	419723007 | Mentally dull | 73 78	Foggy
+TT7	CONCEPT_LESS 80 101	out-of-touch feelings
+TT8	60032008 | Unable to concentrate | 106 127	unable to concentrate
+TT9	3904011000036106 | Zocor | 148 153	zocor
+TT10	3877011000036101 | Lipitor | 274 281	lipitor

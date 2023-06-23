@@ -1,0 +1,35 @@
+TT1	10012378 0 11	deppression
+TT2	10003549 13 21	weakness
+TT3	10016256 23 30	fatigue
+TT4	10028411 32 43	muscle pain
+TT5	10042045 48 57	stiffness
+TT6	10029829 66 74	numbness
+TT7	10035067 79 87	tingling
+TT8	10053204 103 106	gas
+TT9	10005265 108 116	bloating
+TT10	10021707 117 128	indegestion
+TT11	10028735 129 140	stuffy nose
+TT12	10039995 141 153	plugged ears
+TT13	10027175 + 10021649 153 187	,lack of balance and cooridination
+TT16	10011224 223 228	cough
+TT36	10061249 254 320	bleeding in my abdomen after coughing and rupturing a blood vessel
+TT18	10062016 322 345	decreased immune system
+TT37	10047940 347 359	elevated wbc
+TT19	10042645 362 380	trouble swallowing
+TT20	10020201 381 393	hoarse voice
+TT21	10008479 394 404	chest pain
+TT22	10013968 405 424	shortness of breath
+TT24	10043134 425 443;454 459	decreased sense of taste
+TT23	10064102 425 443;444 449	decreased sense of smell
+TT25	10022992 460 477	irregular periods
+TT26	10013908 478 503	abnormal uterine bleeding
+TT38	10064748 540 550	dark urine
+TT29	10002855 563 570	anxiety
+TT31	10003993 578 587	back pain
+TT34	CONCEPT_LESS 856 888	constant vibrating down left leg
+TT35	10028411 890 896;907 911	muscle pain
+TT33	10003239 901 906;907 911	joint pain
+TT42	10028411 1305 1316	muscle pain
+TT43	10003549 1321 1329	weakness
+TT44	10047810 1330 1345	trouble walking
+TT45	CONCEPT_LESS 1346 1364	increased bleeding

@@ -1,0 +1,10 @@
+T1	ADR 0 14	Blurred vision
+T2	ADR 16 28	Stomach ache
+T3	ADR 30 45	Water retention
+#1	AnnotatorNotes T3	Bloating
+T4	ADR 47 65	Throbbing headache
+T5	ADR 67 99	Elevated my blood glucose levels
+#2	AnnotatorNotes T5	Possible drug reaction with other drugs
+T6	Drug 121 128	Vasotec
+T7	Drug 130 139	Glyburide
+T8	Drug 141 148	Avandia

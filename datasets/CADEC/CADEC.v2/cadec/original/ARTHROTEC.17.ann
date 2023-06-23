@@ -1,0 +1,14 @@
+T1	ADR 74 88	abdominal pain
+T2	ADR 100 117	mentstrual cramps
+T17	ADR 118 135	diarreah cramping
+T3	ADR 221 241	lower abdominal pain
+T9	Drug 312 317	Advil
+T11	Symptom 331 349;359 371	inflammation in my back muscles
+T4	Symptom 331 349;350 354	inflammation in my neck
+T5	ADR 400 408	GI bleed
+T16	ADR 477 501	heavy menstrual bleeding
+T15	ADR 576 582	anemia
+T10	ADR 594 607	gastric bleed
+T6	ADR 674 679	dizzy
+T7	ADR 684 696	light headed
+T8	ADR 711 747	acidic bile at the back of my throat

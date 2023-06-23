@@ -1,0 +1,8 @@
+T1	ADR 3 25	liver enzymes elevated
+T3	ADR 92 110;121 125	muscle pain in the arms
+T4	ADR 92 110;127 131	muscle pain in the legs
+T2	ADR 92 110;111 119	muscle pain in the shoulder
+T5	ADR 135 139	rash
+T6	ADR 158 173	eye hemorrhages
+T7	Drug 203 210	Lipitor
+T8	Finding 382 395	heart attacks

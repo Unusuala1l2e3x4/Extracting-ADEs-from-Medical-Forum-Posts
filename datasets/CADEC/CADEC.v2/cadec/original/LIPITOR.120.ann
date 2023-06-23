@@ -1,0 +1,11 @@
+T1	ADR 141 151	leg cramps
+#1	AnnotatorNotes T1	muscle spasm
+T2	ADR 169 182	spinning head
+#2	AnnotatorNotes T2	vertigo
+T3	ADR 318 326	Tinnitus
+#3	AnnotatorNotes T3	tinnitis
+T4	ADR 328 347	ringing in the ears
+#4	AnnotatorNotes T4	tinnitis
+T5	Drug 508 515	Lipitor
+T6	Drug 567 574	Lipitor
+T7	ADR 220 242	sugar started to go up

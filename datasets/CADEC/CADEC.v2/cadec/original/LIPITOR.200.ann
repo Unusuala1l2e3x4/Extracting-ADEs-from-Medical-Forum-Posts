@@ -1,0 +1,10 @@
+T1	Drug 20 27	Lipitor
+T3	ADR 97 110	muscle cramps
+#1	AnnotatorNotes T3	muscle spasm
+T4	ADR 138 147	leathargy
+T6	Drug 331 338	Lipitor
+T2	ADR 51 66	muscle weakness
+T8	ADR 68 95	legs felt like dropping off
+T9	ADR 112 121	twitching
+T7	ADR 178 183	tired
+T10	ADR 219 255	pain in the back in shoulder muscles

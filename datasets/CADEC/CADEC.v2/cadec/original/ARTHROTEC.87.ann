@@ -1,0 +1,9 @@
+T1	ADR 0 16	Abdominal cramps
+T2	ADR 18 28	flatulence
+#1	AnnotatorNotes T2	Flatulence
+T3	Symptom 125 136	coccyx pain
+T4	ADR 145 151	cramps
+T5	ADR 45 51	Cramps
+T6	ADR 35 43	bloating
+T7	ADR 30 33	gas
+T8	ADR 156 164	bloating

@@ -1,0 +1,20 @@
+TT1	48167000 | Amnesia | 24 35	memory loss
+TT2	278040002 | Loss of hair | 37 46	hair loss
+TT3	55300003 | Muscle cramp | 48 61	muscle spasms
+TT4	CONCEPT_LESS 84 107	odd blood sugar pattern
+TT5	23056005 | Sciatica | 109 121	sciatic pain
+TT6	23056005 | Sciatica | 135 143	sciatica
+TT7	161891005 | Backache | 154 158;167 171	back pain
+TT8	49218002 | Hip pain | 163 166;167 171	hip pain
+TT9	309087008 | Paraesthesia of foot | 181 204	loss of feeling in toes
+TT10	404640003 | Dizziness | 206 215	dizziness
+TT11	63102001 | Visual disturbance | 217 232	vision problems
+TT12	84229001 | Fatigue | 234 251	extreme tiredness
+TT13	79890006 | Loss of appetite | 253 269	lack of appetite
+TT14	247753000 | Loss of interest | 275 288	no enthusaism
+TT15	55300003 | Muscle cramp | 528 541	muscle cramps
+TT16	404640003 | Dizziness | 554 563	dizziness
+TT17	CONCEPT_LESS 572 583	lipoic acid
+TT18	77435011000036104 | ascorbic acid |  585 590	vit C
+TT19	77424011000036100 | ubidecarenone | 606 611	CoQ10
+TT20	230690007 | Cerebrovascular accident | 735 741	stroke

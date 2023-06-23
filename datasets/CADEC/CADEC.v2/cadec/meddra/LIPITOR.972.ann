@@ -1,0 +1,9 @@
+TT2	10006131 326 366	brain cancer (glial cell related cancer)
+TT3	10025691 373 379	cancer
+TT5	10025691 474 480	cancer
+TT8	10006131 1443 1455	brain cancer
+TT9	10013242 1546 1565	neurological damage
+TT10	10006131 1583 1595	brain cancer
+TT11	10048948 1599 1608	bedridden
+TT13	CONCEPT_LESS 1610 1619;1627 1639	unable to feed himself
+TT12	CONCEPT_LESS 1610 1619;1620 1625	unable to speak

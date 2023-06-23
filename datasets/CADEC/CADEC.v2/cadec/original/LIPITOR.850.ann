@@ -1,0 +1,12 @@
+T1	ADR 0 5;17 21	Joint Pain
+T3	ADR 10 16;24 33	Muscle Stiffness
+T2	ADR 10 16;17 21	Muscle Pain
+T4	ADR 100 104	pain
+T5	ADR 109 118	stiffness
+T6	Finding 143 152	arthritis
+T7	ADR 254 269	pain in my legs
+T8	Drug 396 405	Pravachol
+T9	Finding 432 440	in a fog
+T10	Finding 445 466	thought I had the flu
+T11	Drug 597 604	Lipitor
+T12	ADR 0 5;24 33	Joint Stiffness

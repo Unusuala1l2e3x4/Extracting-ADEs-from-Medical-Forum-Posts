@@ -1,0 +1,6 @@
+T1	Drug 39 46	lipitor
+T2	ADR 109 118	paralysis
+#1	AnnotatorNotes T2	facial paralysis
+T3	ADR 373 382	paralysis
+T4	ADR 135 156	peripheral neuropathy
+T5	ADR 234 243	paralysis

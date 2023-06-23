@@ -1,0 +1,23 @@
+TT1	10033371 0 11	Severe pain
+TT2	10028294 14 22	cramping
+TT3	10028350 54 69	Muscle weakness
+TT4	10028289 72 79	atrophy
+TT6	10047868 100 114;123 128	Weak & wobbley knees
+TT7	10003549 100 114;131 137	Weak & wobbley wrists
+TT5	10047868 100 114;115 121	Weak & wobbley ankles
+TT8	10011287 139 165	Cramping in wrists & hands
+TT9	CONCEPT_LESS 167 185	Rib cage tightness
+TT10	10016256 187 203	Constant fatigue
+TT11	10022437 205 213	Insomnia
+TT13	10027371 282 298	Mental fogginess
+TT14	10017060 301 314	forgetfulness
+TT15	10033645 316 328	Pancreatitis
+TT16	10024677 356 378	Elevated liver enzymes
+TT18	10043854 405 420	Chest tightness
+TT19	10013968 423 437	breathlessness
+TT20	10042645 532 553	Difficulty swallowing
+TT21	10043525 556 574	swelling in throat
+TT22	10063455 812 834	Swollen nasal passages
+TT28	10003993 1444 1453	back pain
+TT33	10047868 2232 2243;2254 2258	weakness in back
+TT32	10047868 2232 2243;2244 2251	weakness in my legs

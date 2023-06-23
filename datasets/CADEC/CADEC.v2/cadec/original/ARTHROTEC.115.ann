@@ -1,0 +1,5 @@
+T1	ADR 0 14	Stomach cramps
+T2	ADR 16 21	gassy
+#1	AnnotatorNotes T2	Flatulence
+T3	Symptom 113 117	pain
+T4	Symptom 202 206	pain

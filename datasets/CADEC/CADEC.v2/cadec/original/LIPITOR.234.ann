@@ -1,0 +1,11 @@
+T1	ADR 0 16	Muscle twitching
+#1	AnnotatorNotes T1	muscle spasm
+T2	ADR 18 28	stiff neck
+#2	AnnotatorNotes T2	muscle stiffness
+T3	ADR 39 54	lightheadedness
+#3	AnnotatorNotes T3	nonspecific
+T5	Drug 165 172	Lipitor
+T6	Drug 270 277	Lipitor
+T4	ADR 56 71	always worrying
+T7	ADR 214 223	twitching
+T8	ADR 228 238	light head

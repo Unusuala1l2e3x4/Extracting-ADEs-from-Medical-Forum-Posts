@@ -1,0 +1,13 @@
+T1	ADR 0 16	Mild muscle pain
+T2	ADR 21 28	burning
+T3	Drug 79 85	Tricor
+T4	Drug 121 128	Lipitor
+T5	Drug 215 221	Tricor
+T6	Drug 398 404	tricor
+T7	Drug 436 442	tricor
+T8	ADR 560 578	severe muscle pain
+T9	ADR 580 587	burning
+T10	ADR 589 595	cramps
+T11	ADR 597 607	exhaustion
+T12	ADR 609 620	mild nausea
+T13	ADR 622 646	inability to concentrate

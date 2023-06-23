@@ -1,0 +1,8 @@
+T1	ADR 28 38	joint pain
+T2	ADR 0 23	Extreme muscle problems
+#1	AnnotatorNotes T2	nonspecific ?weakness ?pain
+T3	Drug 66 73	lipitor
+T4	Drug 120 127	lipitor
+T5	Drug 179 186	lipitor
+T6	ADR 207 240	liver was functioning at only 50%
+T7	ADR 310 341	cholestrol went up dramatically

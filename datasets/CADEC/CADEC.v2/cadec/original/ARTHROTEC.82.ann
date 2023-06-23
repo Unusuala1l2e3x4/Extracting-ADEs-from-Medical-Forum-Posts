@@ -1,0 +1,11 @@
+T1	ADR 6 14	diarrhea
+T2	ADR 16 37	severe abdominal pain
+T3	ADR 79 87	vomiting
+T4	ADR 100 109	dizziness
+T5	ADR 111 117	nausea
+T6	ADR 89 98	trembling
+#1	AnnotatorNotes T6	Rigors
+T7	Drug 119 128	Arthrotec
+T8	ADR 149 165	menstrual cramps
+T9	ADR 180 184;191 197	pain severe
+T10	ADR 431 451	severe menstual pain

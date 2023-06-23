@@ -1,0 +1,12 @@
+TT1	21288011000036105 | diclofenac | 17 23	Zipsor
+TT11	12584003 | Bone pain | 28 32;43 47	bone pain
+TT2	57676002 | Arthralgia| 37 42;43 47	joint pain
+TT3	200936003 | Lupus erythematosus | 64 69	Lupus
+TT4	73589001 | Intervertebral disc prolapse | 85 100	herniated discs
+TT5	CONCEPT_LESS 188 195	Vicodin
+TT12	21288011000036105 | diclofenac | 216 222	Zipsor
+TT6	200936003 | Lupus erythematosus | 241 251	Lupus pain
+TT7	73589001 | Intervertebral disc prolapse | 294 323	pain from the herniated discs
+TT10	CONCEPT_LESS 397 408	disc issues
+TT8	21288011000036105 | diclofenac | 528 534	Zipsor
+TT9	22253000 | Pain | 540 544	pain

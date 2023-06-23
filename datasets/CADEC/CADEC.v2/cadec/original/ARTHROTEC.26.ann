@@ -1,0 +1,11 @@
+T1	Drug 235 244	arthrotec
+T2	Drug 476 485	arthrotec
+T3	ADR 60 68	diarrhea
+T4	ADR 70 76	nausea
+T5	ADR 78 93	loss of apetite
+#1	AnnotatorNotes T5	Possibly the anorexia would be due to this given the other symptoms listed
+T6	ADR 95 109	stomach cramps
+T7	Drug 200 208	arthotec
+T8	Symptom 267 276	back pain
+T9	Symptom 505 509	pain
+T10	Symptom 572 576;582 592	pain really bad

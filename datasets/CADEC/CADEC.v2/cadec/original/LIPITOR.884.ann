@@ -1,0 +1,6 @@
+T1	ADR 0 11	Indigestion
+T2	ADR 80 91	Chest pains
+T4	ADR 182 201;209 212	Neuropothy in right arm
+T3	ADR 182 201;202 206	Neuropothy in right hand
+T5	Drug 536 541	Zocor
+T6	Drug 556 563	Lipitor

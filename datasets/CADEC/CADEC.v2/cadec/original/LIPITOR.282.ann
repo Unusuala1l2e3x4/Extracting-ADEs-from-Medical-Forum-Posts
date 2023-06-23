@@ -1,0 +1,10 @@
+T1	ADR 13 20	fatigue
+T2	ADR 22 33	lightheaded
+T3	ADR 38 46	weakness
+T10	ADR 48 51;66 70	Hip pain
+T4	ADR 53 57;66 70	back pain
+T9	ADR 62 65;66 70	leg pain
+T7	ADR 85 107	tennis elbow type pain
+T8	Disease 167 178	hypotension
+T5	Drug 208 215	lipitor
+T6	ADR 237 252	fainting spells

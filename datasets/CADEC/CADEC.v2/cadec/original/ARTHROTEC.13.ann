@@ -1,0 +1,9 @@
+T1	ADR 6 15	gastritis
+T2	ADR 17 37	severe stomach upset
+T3	ADR 59 77	false full feeling
+T4	ADR 79 97	very poor appetite
+T5	ADR 99 121	increased menstruation
+T6	ADR 168 184;193 197;209 225	menstrual cramps with vaginal bleeding
+T9	Finding 316 332	menopausal phase
+T10	ADR 123 166	2-3 periods a month instead of once a month
+T7	ADR 168 184;201 208;209 225	menstrual cramps without vaginal bleeding

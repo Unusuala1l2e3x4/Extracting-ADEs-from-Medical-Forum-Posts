@@ -1,0 +1,8 @@
+TT2	162059005 | Upset stomach | 7 20	stomach upset
+TT1	9829001 | Gastric ulcer with perforation | 52 68	perforated ulcer
+TT3	3723001 | Arthritis | 240 249	arthritis
+TT4	131148009 | Bleeding | 376 384	bleeding
+TT5	48661000 | Peritonitis | 386 397	peritonitis
+TT6	10001005 | Bacterial sepsis | 399 410	septicaemia
+TT7     42399005 | Renal failure | 411 415;432 440     renal failure
+TT8     409622000 | Respiratory failure | 421 440     renal and respiratory failure 

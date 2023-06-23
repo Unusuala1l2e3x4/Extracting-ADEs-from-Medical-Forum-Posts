@@ -1,0 +1,19 @@
+T1	Drug 25 32	Lipitor
+T2	ADR 78 101	general overal weakness
+T3	ADR 103 110	fatigue
+T4	ADR 112 118	nausea
+T5	ADR 120 128	diziness
+T6	ADR 130 139	trembling
+T7	ADR 141 162	trouble concentrating
+T8	ADR 164 171	sadness
+T9	ADR 173 182	moodiness
+T10	ADR 184 191	insomia
+T11	ADR 193 202	neck pain
+T12	ADR 204 218	dull headaches
+T13	ADR 220 228	feverish
+T14	ADR 230 243	clamy feeling
+T16	ADR 245 262;273 278	tingly feeling in scalp
+T15	ADR 245 262;263 268	tingly feeling in hands
+T17	ADR 290 314	felt rotton all day long
+T18	Drug 381 388	Lipitor
+T19	Drug 665 672	Lipitor

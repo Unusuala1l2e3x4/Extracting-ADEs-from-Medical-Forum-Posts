@@ -1,0 +1,23 @@
+T1	ADR 0 10	Depression
+T2	ADR 12 19	anxiety
+T5	ADR 21 39	spaced-out feeling
+T4	ADR 41 62	lack of concentration
+T3	ADR 64 72	insomnia
+T6	Drug 81 87	zoloft
+T15	Disease 92 108	major depression
+T8	Drug 161 168	lipitor
+T9	ADR 213 223	Depression
+T10	ADR 225 232	anxiety
+T11	ADR 234 252	spaced-out feeling
+T12	ADR 254 275	lack of concentration
+T13	ADR 277 285	insomnia
+T14	Disease 343 359	major depression
+T7	Drug 400 406	zoloft
+T16	Disease 451 461	depression
+T17	Drug 537 543	zoloft
+T18	Drug 545 552	Lipitor
+T19	Drug 614 621	lipitor
+T20	Drug 693 700	lipitor
+T21	ADR 724 734	depression
+T23	Finding 877 883;893 897	muscle pain
+T22	Finding 887 892;893 897	joint pain

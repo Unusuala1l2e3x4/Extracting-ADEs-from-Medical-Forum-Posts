@@ -1,0 +1,6 @@
+T1	ADR 0 8	insomnia
+#1	AnnotatorNotes T1	insomnia
+T2	ADR 10 22	muscle aches
+#2	AnnotatorNotes T2	myalgia
+T3	Drug 101 108	Lipitor
+T4	ADR 51 64	haven't slept

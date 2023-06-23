@@ -1,0 +1,9 @@
+T1	ADR 0 9	Confusion
+#1	AnnotatorNotes T1	confusion
+T2	ADR 22 33	memory loss
+#2	AnnotatorNotes T2	amnesia
+T3	Drug 100 107	Lipitor
+T4	ADR 182 193	memory loss
+#3	AnnotatorNotes T4	amnesia
+T5	ADR 35 53	lack of motivation
+T6	Disease 238 256	incipient dementia

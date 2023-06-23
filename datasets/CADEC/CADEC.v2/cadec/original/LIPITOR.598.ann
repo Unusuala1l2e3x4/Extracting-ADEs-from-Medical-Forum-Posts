@@ -1,0 +1,13 @@
+T1	ADR 0 15	extreme fatigue
+T2	ADR 17 39	short term memory loss
+T3	ADR 41 56	muscle weakness
+T4	ADR 58 66	hip pain
+T5	ADR 73 89	cramping in toes
+T6	Drug 117 124	lipitor
+T7	Drug 186 195	magnesium
+T8	Drug 197 204	omega 3
+T9	Drug 206 215	olive oil
+T10	Drug 349 356	lipitor
+T11	ADR 470 487	extreme tiredness
+T12	ADR 492 517	general feeling of malais
+T13	Drug 598 605	Lipitor

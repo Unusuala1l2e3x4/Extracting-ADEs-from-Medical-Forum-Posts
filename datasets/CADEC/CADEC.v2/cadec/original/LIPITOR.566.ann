@@ -1,0 +1,11 @@
+T1	Drug 3 10	Lipitor
+T2	ADR 138 161	extreme muscle weakness
+T3	Drug 291 298	Lipitor
+T4	Drug 331 336	Nitro
+T5	ADR 355 363;377 386	soreness in thighs
+T6	ADR 368 376;377 386	weakness in thighs
+T7	ADR 429 450	not as sharp mentally
+T8	ADR 480 494	slip in vision
+T9	Drug 506 513	Lipitor
+T10	Disease 696 708	heart attack
+T11	Disease 29 41	heart attack

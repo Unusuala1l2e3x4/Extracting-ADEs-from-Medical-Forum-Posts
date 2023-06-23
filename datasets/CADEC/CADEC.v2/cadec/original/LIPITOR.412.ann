@@ -1,0 +1,14 @@
+T1	ADR 11 21	depression
+T2	ADR 68 87	crying all the time
+T3	ADR 89 101	not sleeping
+T4	ADR 103 135	reliving of past terrible events
+#1	AnnotatorNotes T4	Depression
+T5	Drug 406 411	zocor
+T6	Drug 496 503	lipitor
+T7	Drug 595 602	lipitor
+T8	Drug 637 642	zocor
+T9	ADR 704 726	psyhcological tailspin
+T10	Disease 830 846	bipolar disorder
+T11	Drug 972 979	lipitor
+T12	Drug 1065 1072	lipitor
+T13	Drug 1120 1127	aspirin

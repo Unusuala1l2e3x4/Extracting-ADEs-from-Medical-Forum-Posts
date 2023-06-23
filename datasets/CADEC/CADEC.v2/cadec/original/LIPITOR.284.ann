@@ -1,0 +1,17 @@
+T1	Drug 10 17	lipitor
+T2	ADR 58 66	lethargy
+T3	ADR 68 84	tingling in arms
+T4	ADR 86 102	trouble sleeping
+#1	AnnotatorNotes T4	insomnia
+T5	ADR 104 116	irritability
+#2	AnnotatorNotes T5	irritability
+T6	ADR 118 125	anxiety
+#3	AnnotatorNotes T6	anxiety
+T7	ADR 127 142	mild depression
+#4	AnnotatorNotes T7	depression
+T9	Drug 284 291	lipitor
+T10	Drug 297 302	Zetia
+T12	Drug 400 405	Zetia
+T13	Drug 776 783	LIPITOR
+T14	Drug 448 453	Zetia
+T17	Drug 805 810	Zetia

@@ -1,0 +1,7 @@
+T1	ADR 0 28	Severe muscle pain in calves
+#1	AnnotatorNotes T1	myalgia
+T2	Drug 404 411	Lipitor
+T3	Drug 483 490	Lipitor
+T4	ADR 30 43	unable to run
+T5	ADR 104 120	Felt very unwell
+T6	ADR 218 221;227 234	HDL dropped

@@ -1,0 +1,19 @@
+TT1	3877011000036101 | Lipitor | 24 31	lipitor
+TT2	3877011000036101 | Lipitor | 131 138	lipitor
+TT3	3877011000036101 | Lipitor | 276 283	lipitor
+TT4	282299006 | Unable to balance | 401 418	loss body balance
+TT5	57676002 | Arthralgia | 420 430	joint pain
+TT6	68962001 | Myalgia | 432 444	muscle aches
+TT7	309774006 | Weakness of limb | 446 455	weak legs
+TT8	48167000 | Amnesia | 466 477	memory loss
+TT9	387603000 | Impairment of balance | 529 551	lost some body balance
+TT10	3877011000036101 | Lipitor | 575 582	lipitor
+TT11	3877011000036101 | Lipitor | 786 793	lipitor
+TT12	68962001 | Myalgia | 814 820;831 835	muscle pain
+TT13	57676002 | Arthralgia | 825 830;831 835	joint pain
+TT14	386807006 | Memory impairment | 860 876	lost some memory
+TT15	3877011000036101 | Lipitor | 941 948	lipitor
+TT16	3877011000036101 | Lipitor | 987 994	lipitor
+TT17	CONCEPT_LESS 1237 1239	B3
+TT18	CONCEPT_LESS 1243 1250	Niaspan
+TT19	3877011000036101 | Lipitor | 1262 1269	lipitor

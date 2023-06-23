@@ -1,0 +1,10 @@
+T1	ADR 32 43	kidney pain
+T2	ADR 58 69	elevated BP
+T3	ADR 117 144	my heart rate jumped to 106
+#1	AnnotatorNotes T3	tachycardia
+T4	ADR 150 159	BP 145/95
+#2	AnnotatorNotes T4	hypertension
+T5	ADR 189 196	anxiety
+#3	AnnotatorNotes T5	anxiety
+T6	Finding 228 240	heart attack
+T7	Finding 244 250	stroke

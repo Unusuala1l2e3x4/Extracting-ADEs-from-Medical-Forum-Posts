@@ -1,0 +1,13 @@
+T1	ADR 0 10	Depression
+T2	ADR 11 22	muscle pain
+T3	ADR 23 35	night sweats
+T4	ADR 36 57	lack of concentration
+T5	ADR 58 72	SUPER dry skin
+T6	Disease 190 193	ALS
+T7	Disease 195 197	MS
+T8	Disease 199 204	Lupus
+T9	Disease 206 218	Lyme Disease
+T10	Disease 220 232	Fibromyalgia
+T11	Disease 291 304	Hyprochondria
+T12	ADR 347 351	hurt
+T13	ADR 515 519	pain

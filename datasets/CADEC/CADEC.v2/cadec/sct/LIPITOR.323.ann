@@ -1,0 +1,23 @@
+TT1	35489007 | Depression | 0 10	Depression
+TT2	48694002 | Anxiety | 12 19	anxiety
+TT5	CONCEPT_LESS 21 39	spaced-out feeling
+TT4	60032008 | Unable to concentrate | 41 62	lack of concentration
+TT3	193462001 | Insomnia | 64 72	insomnia
+TT6	3559011000036109 | Zoloft | 81 87	zoloft
+TT15	370143000 | Major depressive disorder | 92 108	major depression
+TT8	3877011000036101 | Lipitor | 161 168	lipitor
+TT9	35489007 | Depression | 213 223	Depression
+TT10	48694002 | Anxiety | 225 232	anxiety
+TT11	CONCEPT_LESS 234 252	spaced-out feeling
+TT12	60032008 | Unable to concentrate | 254 275	lack of concentration
+TT13	193462001 | Insomnia | 277 285	insomnia
+TT14	370143000 | Major depressive disorder | 343 359	major depression
+TT7	3559011000036109 | Zoloft | 400 406	zoloft
+TT16	35489007 | Depression | 451 461	depression
+TT17	3559011000036109 | Zoloft | 537 543	zoloft
+TT18	3877011000036101 | Lipitor | 545 552	Lipitor
+TT19	3877011000036101 | Lipitor | 614 621	lipitor
+TT20	3877011000036101 | Lipitor | 693 700	lipitor
+TT21	35489007 | Depression | 724 734	depression
+TT23	68962001 | Myalgia | 877 883;893 897	muscle pain
+TT22	57676002 | Arthralgia | 887 892;893 897	joint pain

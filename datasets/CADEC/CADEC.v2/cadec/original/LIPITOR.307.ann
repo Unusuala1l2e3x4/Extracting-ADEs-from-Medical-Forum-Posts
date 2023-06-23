@@ -1,0 +1,12 @@
+T1	ADR 89 92	Gas
+T2	ADR 94 102	bloating
+T3	ADR 104 116	sleeplesness
+T4	ADR 128 135	fatigue
+T5	ADR 140 187	not being able to get out of bed in the morning
+T6	ADR 202 218	muscle stiffness
+T7	ADR 223 245	not being able to walk
+T8	Symptom 325 334	menopause
+T9	Disease 338 347	arthritis
+T10	ADR 349 388	Difficult to walk up and down the steps
+T11	Drug 438 445	lipitor
+T12	ADR 650 659	depressed

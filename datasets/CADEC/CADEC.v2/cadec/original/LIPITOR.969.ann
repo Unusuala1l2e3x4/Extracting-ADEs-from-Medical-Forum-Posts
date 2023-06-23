@@ -1,0 +1,11 @@
+T1	ADR 0 30	Severe pain in my calf muscles
+T2	Drug 229 236	Crestor
+T3	Drug 290 296	Zochor
+T4	ADR 332 351	pain was too severe
+T5	ADR 384 418	could not even walk in the morning
+T6	ADR 424 430	cramps
+T7	Finding 463 467;468 488	tore a tendon in my ankle
+T8	Finding 463 467;506 513	tore my knee
+T9	ADR 577 581	pain
+T10	Drug 596 603	Lipitor
+T11	Finding 846 857	muscle pain

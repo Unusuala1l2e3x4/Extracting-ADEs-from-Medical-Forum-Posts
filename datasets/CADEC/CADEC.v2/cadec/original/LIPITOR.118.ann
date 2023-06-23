@@ -1,0 +1,6 @@
+T1	ADR 0 7	Anxiety
+#1	AnnotatorNotes T1	anxiety
+T2	ADR 9 17	paranoia
+#2	AnnotatorNotes T2	paranoia
+T3	Drug 23 29	Niacin
+T4	Drug 112 119	Niaspan

@@ -1,0 +1,7 @@
+T1	ADR 0 11	memory loss
+T2	ADR 14 33	chronic muscle pain
+T3	ADR 36 50	pain in joints
+T4	ADR 53 69	constant itching
+T5	Drug 130 136	Baycol
+T6	Drug 159 166	Lipitor
+T7	Drug 201 208	Lipitor

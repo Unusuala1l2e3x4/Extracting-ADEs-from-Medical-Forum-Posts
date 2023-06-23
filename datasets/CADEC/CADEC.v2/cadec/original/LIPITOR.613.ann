@@ -1,0 +1,8 @@
+T1	Drug 3 10	lipitor
+T2	Drug 78 85	lipitor
+T4	ADR 101 117;137 146	horrible pain in left knee
+T3	ADR 101 117;118 132	horrible pain in both shoulders
+T5	Drug 328 335	lipitor
+T6	ADR 384 406	short term memory loss
+T7	ADR 414 429	easily fatigued
+T8	Drug 487 494	lipitor

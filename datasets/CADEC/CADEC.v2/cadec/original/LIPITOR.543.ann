@@ -1,0 +1,9 @@
+T1	ADR 0 8	weakness
+T2	ADR 10 28	tired all the time
+T3	ADR 30 33;48 52	leg pain
+T4	ADR 35 38;48 52	arm pain
+T5	ADR 43 47;48 52	back pain
+T6	ADR 54 76	not concentrating well
+T7	ADR 78 90	flu symptons
+T8	ADR 117 127	bad dreams
+T9	ADR 135 163	purple sploches around waist

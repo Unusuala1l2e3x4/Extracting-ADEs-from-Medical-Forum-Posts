@@ -1,0 +1,9 @@
+T1	Drug 9 16	Lipitor
+T2	ADR 67 70;80 84	hip pain
+T3	ADR 71 74;80 84	leg pain
+T4	ADR 75 79;80 84	foot pain
+T5	ADR 89 97	numbness
+T6	ADR 170 176	nausia
+T7	Drug 193 200	lipitor
+T8	ADR 223 228	pains
+T9	Drug 418 425	Crestor

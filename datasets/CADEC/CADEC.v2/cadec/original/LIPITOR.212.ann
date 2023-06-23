@@ -1,0 +1,10 @@
+T1	ADR 0 13	sleeplessness
+#1	AnnotatorNotes T1	insomnia
+T2	ADR 38 46	tingling
+T3	ADR 48 56	numbness
+#2	AnnotatorNotes T3	anaesthesia
+T4	ADR 15 36	peripheral neuropathy
+T5	ADR 88 92	rash
+T6	ADR 94 98	itch
+T7	ADR 59 86	bizarre muscular sensations
+#3	AnnotatorNotes T7	nonspecific

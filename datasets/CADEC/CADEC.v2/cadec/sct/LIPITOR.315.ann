@@ -1,0 +1,15 @@
+TT1	57676002 | Arthralgia | 0 10	Joint pain
+TT3	161891005 | Backache | 12 16;30 34	back pain
+TT2	45326000 | Shoulder pain | 21 29;30 34	shoulder pain
+TT4	102556003 | Pain in upper limb | + 76948002|Severe pain| 36 44	arm pain
+TT5	44077006 | Numbness | 46 54	numbness
+TT6	62507009 | Pins and needles | 59 80	tingling in the hands
+TT8	26237000 | Ankle oedema | 82 90;101 107	Edema of ankles
+TT7	102564009 | Oedema of hand | 82 90;91 96	Edema of hands
+TT9	246636008 | Blurred vision - hazy | 109 123	Blurred vision
+TT10	48167000 | Amnesia | 128 139	memory loss
+TT11	57676002 | Arthralgia | 141 174	Arthritic type pain in all joints
+TT13	282195009 | Difficulty walking up stairs | 178 190;224 238	could barely walk up stairs
+TT12	8510008 | Reduced mobility | 178 190;191 220	could barely get out of bed in the morning
+TT14	35489007 | Depression | 246 255	depressed
+TT15	3877011000036101 | Lipitor | 349 356	Lipitor

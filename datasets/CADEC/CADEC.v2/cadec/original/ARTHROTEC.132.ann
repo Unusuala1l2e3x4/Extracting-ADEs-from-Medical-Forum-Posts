@@ -1,0 +1,11 @@
+T1	ADR 8 24	stomach problems
+#1	AnnotatorNotes T1	general stomach problems, could be nausea, vomiting, diarrhea
+T2	ADR 77 81	pain
+T3	Symptom 117 129	pain in foot
+T4	Drug 178 187	Arthrotec
+T5	Drug 193 199	Zantac
+#2	AnnotatorNotes T5	drug to help manage the side effect
+T6	ADR 309 327	blood in my stools
+#3	AnnotatorNotes T6	blood in stool (not clear if it is frank or digested)
+T7	ADR 329 341	major cramps
+T8	Symptom 427 436	foot pain

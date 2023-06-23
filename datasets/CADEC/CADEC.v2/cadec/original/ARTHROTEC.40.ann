@@ -1,0 +1,9 @@
+T1	Drug 49 58	Arthrotec
+T2	Symptom 69 81	chronic back
+T4	Finding 206 232	stomach trouble, or cramps
+T6	Drug 291 299	Celebrex
+T7	Finding 331 336	ulcer
+T8	Drug 364 372	Celebrex
+T9	Finding 400 415	stomach trouble
+T3	Finding 586 592;600 606	kidney damage
+T12	Finding 594 599;600 606	liver damage

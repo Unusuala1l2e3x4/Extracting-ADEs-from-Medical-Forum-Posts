@@ -1,0 +1,30 @@
+TT1	56317004 | Alopecia | 0 8	Alopecia
+TT2	422587007 | Nausea | 10 16	nausea
+TT3	422400008 | Vomiting | 18 26	vomiting
+TT4	76948002 | Severe pain | +  161891005 | Backache |+ 49218002 | Hip pain | 28 52	severe back and hip pain
+TT5	35489007 | Depression | 54 64	depression
+TT26	CONCEPT_LESS 66 79	dark thoughts
+TT6	60119000 | Exhaustion | 94 104	exhaustion
+TT7	80449002 | Muscle fatigue | 109 123	muscle fatigue
+TT8	193462001 | Insomnia | 125 138	sleeplessness
+TT9	280816001 | Facial palsy | 140 156	facial paralysis
+TT10	3877011000036101 | Lipitor | 196 203	Lipitor
+TT11	56317004 | Alopecia | 257 265	alopecia
+TT27	73595000 | Stress | 311 317	stress
+TT12	422587007 | Nausea | 327 333	Nausea
+TT13	422400008 | Vomiting | 338 346	vomiting
+TT14	280816001 | Facial palsy | 482 498	facial paralysis
+TT28	193093009 | Bell's palsy | 512 525	Bell's Palsey
+TT15	49218002 | Hip pain | + 161891005 | Backache | 534 551	hip and back pain
+TT16	35489007 | Depression | 573 583	depression
+TT17	6471006 | Suicidal thoughts | 585 604	thoughts of suicide
+TT18	48500005 | Delusional disorder | 609 617	paranoia
+TT19	60119000 | Exhaustion | 636 646	exhaustion
+TT20	3877011000036101 | Lipitor | 736 743	Lipitor
+TT21	422587007 | Nausea | 773 779	nausea
+TT22	3877011000036101 | Lipitor | 802 809	Lipitor
+TT24	278040002 | Loss of hair | 850 859	hair loss
+TT23	3877011000036101 | Lipitor | 880 887	Lipitor
+TT25	278040002 | Loss of hair | 920 929	hair loss
+TT29	280816001 | Facial palsy | 1060 1076	facial paralysis
+TT30	161891005 | Backache | + 49218002|Hip pain|  1108 1125	back and hip pain

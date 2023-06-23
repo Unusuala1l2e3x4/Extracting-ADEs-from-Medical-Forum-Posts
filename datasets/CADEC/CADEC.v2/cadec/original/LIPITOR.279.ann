@@ -1,0 +1,18 @@
+T1	ADR 217 232	muscle soreness
+#1	AnnotatorNotes T1	myalgia
+T2	ADR 234 249	lower back pain
+T4	ADR 285 293	hip pain
+T3	ADR 260 279	pain in my left hip
+T6	ADR 540 559	shortness of breath
+T7	ADR 565 576	muscle pain
+#3	AnnotatorNotes T7	myalgia
+T8	ADR 734 746	muscle pains
+#4	AnnotatorNotes T8	myalgia
+T9	ADR 872 897	loss of short term memory
+#5	AnnotatorNotes T9	amnesia
+T10	ADR 899 909	head aches
+T11	ADR 914 933	shortness of breath
+T12	ADR 299 305;323 331	muscle knots up
+T13	ADR 502 511	vagueness
+T14	ADR 513 535	short term memory loss
+T5	ADR 864 870	vagues

@@ -1,0 +1,33 @@
+T1	Drug 51 58	Lipitor
+T2	Finding 124 129;138 144	Liver Injury
+T3	Finding 131 137;138 144	Kidney Injury
+T4	Drug 285 307	Lipitor (atorvastatin)
+T6	Finding 324 329;340 346	liver damage
+T7	Finding 333 339;340 346	kidney damage
+T5	Drug 379 386	Lipitor
+T8	Drug 433 440	Lipitor
+T9	Finding 451 473	elevated liver enzymes
+T10	Drug 634 641	Lipitor
+T11	Finding 682 696	rhabdomyolysis
+T12	Finding 810 824	rhabdomyolysis
+T13	Finding 833 844;885 891;892 898	muscle pain in the calves
+T16	Finding 833 844;885 891;903 913	muscle pain in the lower back
+T14	Finding 846 856;885 891;892 898	tenderness in the calves
+T17	Finding 846 856;885 891;903 913	tenderness in the lower back
+T15	Finding 861 869;885 891;892 898	weakness in the calves
+T18	Finding 861 869;885 891;903 913	weakness in the lower back
+T19	Finding 915 922	Malaise
+T20	Finding 924 929	fever
+T21	Finding 931 941	dark urine
+T22	Finding 943 951	vomiting
+T23	Finding 956 962	nausea
+T24	Finding 1016 1030	rhabdomyolysis
+T25	Finding 1034 1054	acute kidney failure
+T26	Finding 1119 1132	liver failure
+T27	Finding 1137 1143	nausea
+T28	Finding 1145 1153	vomiting
+T29	Finding 1155 1169	abdominal pain
+T30	Finding 1171 1178	fatigue
+T31	Finding 1180 1196	loss of appetite
+T32	Finding 1198 1208	dark urine
+T33	Finding 1214 1244	generalized skin discoloration

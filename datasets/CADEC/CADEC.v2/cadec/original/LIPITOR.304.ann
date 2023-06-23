@@ -1,0 +1,22 @@
+T1	ADR 14 29	lightheadedness
+#1	AnnotatorNotes T1	nonspecific ? sedation, ? dizziness ? 
+T2	ADR 31 41	depression
+#2	AnnotatorNotes T2	depression
+T4	ADR 110 129	severe muscle pains
+#4	AnnotatorNotes T4	myalgia
+T5	ADR 134 140	cramps
+#5	AnnotatorNotes T5	muscle spasm
+T6	Drug 267 274	Lipitor
+T7	Drug 337 344	Lipitor
+T8	ADR 444 456	severe pains
+T10	Drug 764 771	Lipitor
+T12	ADR 842 854	muscle pains
+#7	AnnotatorNotes T12	myalgia
+T13	ADR 859 865	cramps
+#8	AnnotatorNotes T13	muscle spasm
+T14	Drug 925 932	Lipitor
+T15	ADR 43 69	short term memory problems
+T3	ADR 682 686	pain
+T9	ADR 598 611	severe cramps
+T11	ADR 612 617	pains
+T16	Drug 958 972	Red Yeast Rice

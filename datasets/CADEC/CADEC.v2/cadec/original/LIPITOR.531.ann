@@ -1,0 +1,13 @@
+T3	ADR 30 32;33 41;8 17	in forearms tightness
+T4	ADR 8 17;30 32;46 50	tightness in legs
+T2	ADR 22 29;30 32;46 50	fatigue in legs
+T1	ADR 22 29;30 32;33 41	fatigue in forearms
+T5	ADR 52 93	Pain in side muscles on one side of chest
+T6	ADR 95 112	Off balanced-ness
+T7	Drug 206 213	Lipitor
+T13	Finding 223 256	viral upper respiratory infection
+T8	Drug 288 295	Lipitor
+T12	Finding 369 385	high cholesterol
+T9	Drug 458 469	Co-Enzyme Q
+T10	Drug 508 512	Zinc
+T11	Drug 517 537	Omega 3-6-9 capsules

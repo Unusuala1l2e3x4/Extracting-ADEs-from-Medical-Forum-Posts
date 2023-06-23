@@ -1,0 +1,19 @@
+T1	ADR 208 218	Depression
+#1	AnnotatorNotes T1	depression
+T3	Drug 274 281	Lipitor
+T4	ADR 292 296	sore
+T5	ADR 307 316	back pain
+#2	AnnotatorNotes T5	back pain
+T6	ADR 318 332	Vision reduced
+#3	AnnotatorNotes T6	vision changes
+T7	ADR 342 351	Hair loss
+#4	AnnotatorNotes T7	alopecia
+T8	ADR 353 375	Tired most of the time
+T9	ADR 377 395	Can't get to sleep
+#5	AnnotatorNotes T9	insomnia
+T10	ADR 455 466	No strength
+#6	AnnotatorNotes T10	weakness
+T11	ADR 468 482	Loss of breath
+T12	Drug 606 613	lipitor
+T2	Symptom 241 250	afterpain
+T13	ADR 405 425	can't get out of bed

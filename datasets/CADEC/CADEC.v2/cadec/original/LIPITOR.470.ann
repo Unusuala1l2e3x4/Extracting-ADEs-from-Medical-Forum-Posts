@@ -1,0 +1,16 @@
+T1	ADR 104 109;123 127	ankle pain
+T2	ADR 110 114;123 127	knee pain
+T3	ADR 115 118;123 127	leg pain
+T4	ADR 119 122;123 127	hip pain
+T5	ADR 129 135	aching
+T6	ADR 140 148	soreness
+T7	ADR 168 182	muscle problem
+T8	ADR 193 197	weak
+T9	ADR 200 225	had to use a cane to walk
+T10	ADR 339 353	could not walk
+T11	ADR 376 391	could not sleep
+T12	ADR 400 430	ache and discomfort in my legs
+T13	ADR 501 510	depressed
+T14	ADR 546 550	pain
+T15	Drug 567 574	Lipitor
+T16	ADR 599 603	pain

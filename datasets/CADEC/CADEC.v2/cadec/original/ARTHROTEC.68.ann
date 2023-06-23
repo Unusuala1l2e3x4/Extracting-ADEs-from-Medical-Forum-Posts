@@ -1,0 +1,7 @@
+T1	ADR 126 138	light nausea
+T2	ADR 229 253	sharp pain in my stomach
+T3	ADR 311 315;329 339	pain unbearable
+T4	ADR 395 407	stomach pain
+T5	Symptom 472 483	spinal pain
+T6	ADR 424 436	stomach pain
+T7	Drug 562 570	Naprosyn

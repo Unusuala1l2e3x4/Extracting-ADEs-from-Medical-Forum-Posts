@@ -1,0 +1,11 @@
+T1	ADR 0 13	Forgetfulness
+T2	ADR 15 36	Lack of Concentration
+T3	ADR 38 66	excruciating pain in my legs
+T4	ADR 68 76	insomnia
+T5	ADR 78 96	terrible headaches
+T6	ADR 98 114	itching all over
+T7	ADR 116 126	depression
+T8	ADR 128 137	moodiness
+T9	Disease 298 303	Lupus
+T10	Drug 407 414	Lipitor
+T11	Drug 501 508	Lipitor

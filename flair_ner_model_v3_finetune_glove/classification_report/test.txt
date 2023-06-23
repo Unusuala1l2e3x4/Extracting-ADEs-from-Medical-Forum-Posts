@@ -1,0 +1,26 @@
+
+Results:
+- F-score (micro) 0.3386
+- F-score (macro) 0.0806
+- Accuracy 0.8581
+
+By class:
+              precision    recall  f1-score   support
+
+       I-ADR     0.6000    0.3102    0.4090       967
+       B-ADR     0.6750    0.2812    0.3971       576
+      B-Drug     0.0000    0.0000    0.0000       219
+   B-Finding     0.0000    0.0000    0.0000        52
+      I-Drug     0.0000    0.0000    0.0000        52
+   I-Finding     0.0000    0.0000    0.0000        36
+   I-Symptom     0.0000    0.0000    0.0000        33
+   B-Symptom     0.0000    0.0000    0.0000        22
+   B-Disease     0.0000    0.0000    0.0000        20
+   I-Disease     0.0000    0.0000    0.0000        12
+
+   micro avg     0.6243    0.2323    0.3386      1989
+   macro avg     0.1275    0.0591    0.0806      1989
+weighted avg     0.4872    0.2323    0.3138      1989
+ samples avg     0.0390    0.0390    0.0390      1989
+
+Loss: 0.3246471881866455'

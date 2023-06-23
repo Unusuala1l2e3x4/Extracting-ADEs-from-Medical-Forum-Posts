@@ -1,0 +1,9 @@
+T1	ADR 23 34	memory loss
+#1	AnnotatorNotes T1	amnesia
+T2	ADR 39 47	paranoia
+#2	AnnotatorNotes T2	paranoia
+T3	ADR 79 86	suicide
+#3	AnnotatorNotes T3	suicide
+T4	ADR 305 319	hallucinations
+#4	AnnotatorNotes T4	hallucination
+T5	Disease 102 116	mental illness

@@ -1,0 +1,62 @@
+T1	ADR 91 123	my stomach felt empty and hollow
+#1	AnnotatorNotes T1	feeling of stomach emptiness, hollowness, hunger??
+T2	ADR 145 157	stomach pain
+T3	ADR 173 198	deep pain- like gas pains
+T6	ADR 249 275	stomach emptiness and pain
+T7	ADR 306 317	hot flashes
+#4	AnnotatorNotes T7	hot flashes
+T8	ADR 322 329	sweated
+#5	AnnotatorNotes T8	diaphoresis
+T9	ADR 371 400	pain in the pit of my stomach
+T10	ADR 421 473	deep ache from my waist down to the heels of my feet
+#6	AnnotatorNotes T10	leg pain
+T11	ADR 602 634	stomach stayed upset and painful
+T12	ADR 480 498	"back labor" pains
+T13	ADR 575 596	prolonged miscarriage
+T14	ADR 690 729	deep pain in my pelvis and down my legs
+#7	AnnotatorNotes T14	pelvic and leg pain
+T16	ADR 924 944	increase in cramping
+T17	ADR 949 989	breasts getting more and more (and more!
+#9	AnnotatorNotes T17	breast hypertrophy
+T18	Drug 1141 1150	ibuprofen
+#10	AnnotatorNotes T18	alternative drug
+T19	Drug 1154 1159	Aleve
+#11	AnnotatorNotes T19	alternative drug
+T20	Drug 1161 1176	naproxen sodium
+#12	AnnotatorNotes T20	alternative drug
+T21	Drug 1450 1456	Lyrica
+#13	AnnotatorNotes T21	other drug
+T22	ADR 1526 1553	excessive mestrual bleeding
+#14	AnnotatorNotes T22	ADR to other medication
+T23	Drug 1573 1583	Prednisone
+#15	AnnotatorNotes T23	another drug they are on
+T24	Drug 1783 1802	Birth control pills
+#16	AnnotatorNotes T24	other drug she has had reactions to
+T25	Drug 1813 1820	Codeine
+#17	AnnotatorNotes T25	other drug she has had reationt o
+T26	Drug 1826 1832	opiate
+#18	AnnotatorNotes T26	another drug she has had reaction to
+T27	Drug 1840 1851	hydrocodone
+#19	AnnotatorNotes T27	another drug she has had reaction to
+T28	Drug 1853 1863	prednisone
+#20	AnnotatorNotes T28	another drug she has had reaction to
+T29	Drug 1865 1881	corti-cortisones
+#21	AnnotatorNotes T29	another drug she has had reaction to
+T30	Drug 1883 1898	pseudoephedrine
+#22	AnnotatorNotes T30	another drug she has had reaction to
+T31	Drug 1900 1908	morphine
+#23	AnnotatorNotes T31	another drug she has had reaction to
+T32	Drug 1910 1917	demerol
+#24	AnnotatorNotes T32	another drug she has had reaction to
+T33	Drug 1919 1929	percocette
+#25	AnnotatorNotes T33	another drug she has had reaction to
+T34	Drug 1931 1937	darvon
+#26	AnnotatorNotes T34	another drug she has had reaction to
+T35	Drug 1939 1954	cyclobenzoprene
+#27	AnnotatorNotes T35	another drug she has had reaction to
+T36	Drug 1957 1969	sulfur drugs
+#28	AnnotatorNotes T36	another drug she has had reaction to.... This lady seems like she has a whole bag of issues.
+T15	ADR 734 810	felt like my leg bones were filled with cold metal and ached deeply and hurt
+T37	Drug 2092 2100	Benedryl
+T4	Finding 1230 1236	ulcers
+T38	Finding 1989 1995	lethal

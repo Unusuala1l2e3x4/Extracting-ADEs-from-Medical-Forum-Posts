@@ -1,0 +1,14 @@
+T1	ADR 33 45	muscle aches
+T2	ADR 57 81	tingling in arm and hand
+T3	ADR 83 96	sore shoulder
+T4	ADR 97 104	fatigue
+T5	ADR 105 115	poor sleep
+T6	Drug 282 289	lipitor
+T7	Drug 493 500	Lipitor
+T8	Drug 587 594	lipitor
+T9	Drug 681 688	lipitor
+T10	ADR 760 775	pain in muscles
+T11	ADR 781 795	severe fatigue
+T12	Drug 848 857	Pravachol
+T13	ADR 910 915	pains
+T14	ADR 920 927	fatigue

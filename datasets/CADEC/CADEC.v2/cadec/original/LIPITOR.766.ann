@@ -1,0 +1,10 @@
+T1	ADR 45 52	syncope
+T2	ADR 57 69	hypertension
+T3	ADR 106 119	labyrinthitis
+T4	ADR 144 173	irretractable lower back pain
+T5	ADR 240 251	weight gain
+T6	ADR 253 270	periorbital edema
+T7	ADR 272 279	fatigue
+T8	ADR 281 295	lack of libido
+T9	ADR 301 311	detachment
+T10	Drug 381 388	lipitor

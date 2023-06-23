@@ -1,0 +1,8 @@
+T1	ADR 167 187	severe muscle spasms
+T2	ADR 192 196	pain
+T3	ADR 291 308	excruciating pain
+T4	Drug 333 341	morphine
+T5	Drug 386 393	Lipitor
+T6	ADR 445 449	pain
+T7	ADR 454 461;491 495	muscles weak
+T8	ADR 555 563	disabled

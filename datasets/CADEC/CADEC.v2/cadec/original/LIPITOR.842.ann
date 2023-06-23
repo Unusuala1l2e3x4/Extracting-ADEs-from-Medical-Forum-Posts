@@ -1,0 +1,12 @@
+T1	ADR 51 73	short term memory loss
+T2	ADR 75 90	extreme fatigue
+T3	ADR 114 125;91 101	in my knees joint pain
+T4	ADR 138 144	reflux
+T5	Drug 216 223	Lipitor
+T6	Drug 248 254	Tricor
+T7	Drug 276 283	Lipitor
+T8	Drug 443 449	Tricor
+T9	Drug 472 479	Lipitor
+T10	Drug 580 587	Lipitor
+T11	ADR 655 662	fatigue
+T12	ADR 680 685;692 696	knees hurt

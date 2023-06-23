@@ -1,0 +1,16 @@
+T1	ADR 20 33;44 50	pain in every muscle
+T2	ADR 20 33;34 39	pain in every joint
+T4	ADR 85 96	Foggy brain
+T3	ADR 98 108	exhaustion
+T5	ADR 110 118	tingling
+T6	ADR 138 155	flu like symptoms
+T7	ADR 157 171	lack of energy
+T8	Drug 212 219	Lipitor
+T15	Finding 331 337	stress
+T9	Drug 395 402	Lipitor
+T10	Drug 446 453	Lipitor
+T14	Finding 545 551	stress
+T11	Drug 573 580	Lipitor
+T12	Drug 597 604	Lipitor
+T16	ADR 700 704	pain
+T13	Drug 736 743	Lipitor

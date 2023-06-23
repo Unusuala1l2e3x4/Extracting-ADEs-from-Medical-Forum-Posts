@@ -1,0 +1,9 @@
+T1	ADR 0 18	severe joint pains
+T2	ADR 20 66	needed help getting out of bed and off a chair
+T3	ADR 104 140	neck pain up to the back of the head
+T4	ADR 142 176	right knee protruding out of joint
+T8	ADR 213 218;227 238	wrist joints sore
+T5	ADR 223 226;227 238	arm joints sore
+T6	ADR 240 270	red dots on skin all over body
+T7	Drug 355 362	Lipitor
+T9	Drug 435 441	Tricor

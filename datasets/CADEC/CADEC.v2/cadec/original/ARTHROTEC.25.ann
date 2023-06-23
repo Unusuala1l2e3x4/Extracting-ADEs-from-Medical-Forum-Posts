@@ -1,0 +1,8 @@
+T2	ADR 52 68	vaginal bleeding
+T3	ADR 69 75	cramps
+T4	ADR 36 50	abdominal pain
+T5	ADR 22 34	stomach pain
+T6	ADR 0 6	nausea
+T7	ADR 7 21	extreme hunger
+#1	AnnotatorNotes T7	Possibly another form of stomach/abdominal pain
+T1	Symptom 262 266	pain

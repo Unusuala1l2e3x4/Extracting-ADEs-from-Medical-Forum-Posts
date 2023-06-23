@@ -1,0 +1,10 @@
+T1	ADR 8 35	gut-renching abdominal pain
+T2	ADR 47 54	diahrea
+T3	ADR 78 94	vaginal bleeding
+T4	ADR 104 116	constipation
+#1	AnnotatorNotes T4	constipation
+T5	ADR 37 45	jaundins
+#2	AnnotatorNotes T5	Jaundice
+T6	ADR 56 62	sweats
+#3	AnnotatorNotes T6	menopausal symptoms
+T7	ADR 65 76	hot flashes

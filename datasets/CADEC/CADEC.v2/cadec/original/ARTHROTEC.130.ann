@@ -1,0 +1,17 @@
+T2	ADR 5 25	swelling of the legs
+#1	AnnotatorNotes T2	leg oedema
+T3	Symptom 67 71	pain
+T4	Disease 97 115	bone marrow biopsy
+#2	AnnotatorNotes T4	iatrogenic bone injury
+T5	Drug 132 158	arthritis strength tylenol
+T6	Drug 172 181	Tylenol 3
+T7	Symptom 189 203	Couldn't sleep
+#3	AnnotatorNotes T7	insomnia
+T8	Symptom 219 223	pain
+T9	Symptom 225 241	No concentration
+#4	AnnotatorNotes T9	poor concentration
+T10	Symptom 243 263	Loosing days of work
+#5	AnnotatorNotes T10	loss of normal activities of daily living
+T11	Symptom 325 329	pain
+T12	Symptom 349 363	arthritic pain
+T13	Drug 293 305	arthrotec 50

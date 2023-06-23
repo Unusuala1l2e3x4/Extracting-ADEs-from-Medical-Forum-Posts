@@ -1,0 +1,25 @@
+T2	ADR 0 6;16 24	muscle weakness
+T1	ADR 0 6;7 11	muscle pain
+T3	ADR 26 35	headaches
+T4	ADR 37 55	sleep disturbances
+T5	ADR 142 171	problems with various muscles
+T6	ADR 200 219;220 227	lots of pain in the muscles
+T7	ADR 220 227;235 245	muscles very tight
+T8	ADR 255 259;276 281	neck stiff
+T9	ADR 290 330	muscles are like boards they're so tight
+T11	ADR 340 361;375 400	pain has gone into my upper arm on my left side
+T10	ADR 340 361;362 370	pain has gone into my shoulder
+T12	ADR 430 448	right arm is tight
+T13	ADR 457 487	can't sleep on either shoulder
+T14	ADR 496 520	lower back is also tight
+T15	ADR 538 556	terrible headaches
+T16	ADR 566 584	tight neck muscles
+T17	Finding 596 607	muscle pain
+T18	Drug 612 619	Lipitor
+T19	ADR 802 819	elevated creatine
+T20	Drug 846 853	Lipitor
+T21	Drug 956 963	Lipitor
+T22	ADR 989 999	discomfort
+T23	Drug 1086 1095	vitamin C
+T24	Finding 1198 1210	heart attack
+T25	Drug 1244 1251	Lipitor

@@ -1,0 +1,8 @@
+T1	ADR 18 30	muscle aches
+T2	ADR 35 40	pains
+T3	ADR 42 50	weakness
+#1	AnnotatorNotes T3	weakness
+T4	ADR 52 72	exercise intolerance
+#2	AnnotatorNotes T4	nonspecific ?weakness, ?dyspnoea, 
+T5	ADR 74 84	neuropathy
+#3	AnnotatorNotes T5	nonspecific ?pain, ?paraesthesia, ?anaesthesia 

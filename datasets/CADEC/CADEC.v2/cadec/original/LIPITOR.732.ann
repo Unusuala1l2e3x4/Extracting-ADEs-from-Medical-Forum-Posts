@@ -1,0 +1,8 @@
+T1	ADR 0 8;17 19;20 28	Numbness in left toe
+T2	ADR 0 8;17 19;39 48	Numbness in right toe
+T3	ADR 0 8;17 19;62 70	Numbness in all toes
+T4	ADR 72 84	Burning feet
+T5	Drug 115 122	Lipitor
+T6	Drug 210 217	lipitor
+T7	Drug 320 327	lipitor
+T8	Drug 402 409	Lipitor

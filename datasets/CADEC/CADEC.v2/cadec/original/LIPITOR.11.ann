@@ -1,0 +1,14 @@
+T1	Drug 17 24	Lipitor
+T2	ADR 55 76	leg muscle discomfort
+T3	Drug 387 394	Lipitor
+T4	Symptom 434 475	I feel like I've been run over by a truck
+T5	Symptom 494 519	extreme muscle discomfort
+T6	Symptom 521 529	achiness
+T7	Symptom 531 537	cramps
+T8	Finding 640 644	sore
+T9	ADR 724 742;743 747	muscle aches in my neck
+T10	ADR 724 742;752 761	muscle aches in my shoulders
+T11	ADR 724 742;766 776	muscle aches in my lower back
+T12	ADR 822 840	extremely fatigued
+T13	ADR 909 933	I feel like I'm in a fog
+T14	ADR 938 970	it's a chore to just walk around

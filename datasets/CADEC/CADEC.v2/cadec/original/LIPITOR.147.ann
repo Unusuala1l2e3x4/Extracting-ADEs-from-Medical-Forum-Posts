@@ -1,0 +1,9 @@
+T3	Drug 358 365	lipitor
+T4	Drug 418 425	Lipitor
+T5	Drug 598 605	Lipitor
+T6	ADR 0 19	Calf muscle strains
+T1	ADR 158 171	muscle strain
+T2	ADR 226 251	severe muscle pull/strain
+T7	ADR 370 379	calf pain
+T8	ADR 557 577	pulled/strained calf
+T9	ADR 649 660	muscle pull

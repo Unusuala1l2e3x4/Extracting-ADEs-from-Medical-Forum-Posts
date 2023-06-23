@@ -1,0 +1,7 @@
+T1	ADR 5 13	diarrhea
+T2	ADR 20 32	constipation
+T3	ADR 34 41	fatigue
+T6	Symptom 66 74;76 94;98 107	the heel I couldn't walk on very well
+T7	Disease 161 189;200 205	severe osteoarthritis in the hands
+T5	Disease 161 189;190 195	severe osteoarthritis in the knees
+T4	Symptom 243 247	pain

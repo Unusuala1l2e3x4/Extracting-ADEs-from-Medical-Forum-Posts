@@ -1,0 +1,7 @@
+T1	ADR 0 13	Arm stiffness
+#1	AnnotatorNotes T1	nonspecific
+T2	ADR 15 24	Dizziness
+T3	Drug 131 138	Lipitor
+T5	Drug 372 379	Lipitor
+T6	ADR 211 232	neurological problems
+T4	ADR 289 307;314 322	Major stiffness in shoulder

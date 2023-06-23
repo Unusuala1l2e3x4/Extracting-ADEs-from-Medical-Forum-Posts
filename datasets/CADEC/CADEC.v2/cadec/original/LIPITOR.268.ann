@@ -1,0 +1,8 @@
+T1	Drug 109 115	Niacin
+T2	Drug 170 176	Tricor
+T3	Drug 283 290	Lipitor
+T4	ADR 236 247	sore joints
+T5	ADR 249 262	sleeplessness
+#1	AnnotatorNotes T5	insomnia
+T6	ADR 264 267	gas
+#2	AnnotatorNotes T6	nonspecific eructation, flatus, bloating

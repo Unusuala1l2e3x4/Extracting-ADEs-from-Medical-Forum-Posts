@@ -1,0 +1,6 @@
+T1	ADR 58 77	shortness of breath
+T2	ADR 90 100	depression
+#1	AnnotatorNotes T2	Psychological side effect of depression
+T3	ADR 102 110	cramping
+#2	AnnotatorNotes T3	Cramping
+T4	ADR 112 126	upset stomache

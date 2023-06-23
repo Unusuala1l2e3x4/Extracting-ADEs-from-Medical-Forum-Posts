@@ -1,0 +1,10 @@
+T1	ADR 105 117;81 85	in both legs pain
+T2	ADR 105 117;90 98	in both legs weakness
+#1	AnnotatorNotes T2	weakness
+T3	ADR 165 172	cramped
+#2	AnnotatorNotes T3	muscle spasm
+T4	ADR 177 181	sore
+T5	ADR 186 190	weak
+#3	AnnotatorNotes T5	weakness
+T7	ADR 316 354	blood work showed mildly higher levels
+T8	ADR 493 501	leg pain

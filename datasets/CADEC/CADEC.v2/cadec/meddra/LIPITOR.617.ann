@@ -1,0 +1,9 @@
+TT1	10023477 37 54;55 59	terrible pains in knee
+TT2	10033379 37 54;61 66	terrible pains in ankle
+TT3	10033452 37 54;68 75	terrible pains in big toe
+TT4	10047810 77 85;86 90;105 116	comfortably Couldn't walk
+TT5	10012804 77 85;99 104;105 116	comfortably Couldn't sleep
+TT9	10033371 386 390	pain
+TT10	10053168 401 432;433 437	weird symptoms (eg. popping) in knee
+TT11	10053168 401 432;446 460	weird symptoms (eg. popping) in big toe joints
+TT12	CONCEPT_LESS 401 432;439 444	weird symptoms (eg. popping) in ankle

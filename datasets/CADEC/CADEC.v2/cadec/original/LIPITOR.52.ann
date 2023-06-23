@@ -1,0 +1,9 @@
+T1	Disease 10 29	parkinson's disease
+T2	Symptom 246 275	incrased plasma statin levels
+T3	ADR 346 365	neurological damage
+T4	Drug 405 412	lipitor
+T5	Drug 522 534	coenzyme Q10
+T6	ADR 767 782	severe myalgias
+T7	ADR 787 797	myopathies
+T8	ADR 878 891	muscle dmaage
+T9	ADR 893 910	neurodegeneration

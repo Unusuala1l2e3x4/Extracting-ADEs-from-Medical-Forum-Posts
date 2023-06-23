@@ -1,0 +1,16 @@
+TT2	10033432 0 17;28 32	Joint pain in the hips
+TT1	10023477 0 17;18 23	Joint pain in the knees
+TT3	10040617 34 55	Pain in the shoulders
+TT4	10035067 59 100	tingling sensation in the back of my neck
+TT5	10043882 102 110	Tinnitus
+TT6	10028350 112 124	Weak muscles
+TT8	10033473 208 212;235 239	legs ache
+TT9	10040617 215 224;235 239	shoulders ache
+TT10	10033432 230 234;235 239	hips ache
+TT11	10033473 250 260;264 275	acute pain in the legs
+TT12	10042045 277 286	Stiffness
+TT13	CONCEPT_LESS 320 349	Getting out of bed is painful
+TT14	10035067 547 567	tingling in the neck
+TT16	10033473 589 592;606 610	leg pain
+TT15	10040617 597 605;606 610	shoulder pain
+TT20	10028314 920 933	muscle damage

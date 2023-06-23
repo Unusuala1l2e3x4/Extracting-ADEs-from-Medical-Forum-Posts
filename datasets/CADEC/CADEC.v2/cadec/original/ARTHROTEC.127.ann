@@ -1,0 +1,9 @@
+T1	ADR 325 331	nausea
+T2	ADR 382 400	sick to my stomach
+T3	ADR 11 27	menstrual cramps
+T4	ADR 29 38	back ache
+T5	ADR 40 55	sick to stomach
+#1	AnnotatorNotes T5	not specific enough. suspect they mean nausea, but in real life i would ask for clarification as to whether the mean vomiting or diaarrhea
+T7	ADR 307 322	lower back pain
+#2	AnnotatorNotes T2	as above with sick to stomach
+T8	Drug 481 489	Celebrex

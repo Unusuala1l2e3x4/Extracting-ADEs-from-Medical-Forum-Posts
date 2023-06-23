@@ -1,0 +1,23 @@
+T1	ADR 21 34	muscle cramps
+#1	AnnotatorNotes T1	muscle spasms
+T2	ADR 36 42	spasms
+#2	AnnotatorNotes T2	muscle spasms
+T3	ADR 44 60	weakness in legs
+#3	AnnotatorNotes T3	weakness
+T4	ADR 90 97	atrophy
+#4	AnnotatorNotes T4	wasting
+T5	ADR 99 117	Foggy mental state
+#5	AnnotatorNotes T5	nonspecific sedation?
+T6	ADR 119 131	falling over
+#6	AnnotatorNotes T6	nonspecific mechanical? dizziness? syncope?
+T7	ADR 143 153	nightmares
+T8	ADR 154 163	dry mouth
+#7	AnnotatorNotes T8	xerostomia
+T9	ADR 132 142	clumsiness
+#8	AnnotatorNotes T9	clumsiness
+T10	Drug 180 187	Lipitor
+T12	Drug 356 363	Lipitor
+T11	ADR 304 307	ALS
+#9	AnnotatorNotes T13	attributes ALS to lipitor.. unlikely
+T14	Disease 340 343	MND
+T15	ADR 434 456	permanent nerve damage

@@ -1,0 +1,7 @@
+T1	Symptom 153 157	pain
+T2	ADR 0 9	heartburn
+T3	ADR 11 17	nausea
+T4	ADR 40 56	voracious hunger
+#1	AnnotatorNotes T4	Hunger Pains would probably represent abdominal pains
+T5	ADR 59 103	sharp unbearable cramping pains in lower gut
+T6	Symptom 234 253	pain in my forearms

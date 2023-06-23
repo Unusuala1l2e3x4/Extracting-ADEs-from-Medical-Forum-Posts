@@ -1,0 +1,29 @@
+T1	ADR 28 38	DEPRESSION
+#1	AnnotatorNotes T1	depression
+T2	ADR 40 47	ANXIETY
+#2	AnnotatorNotes T2	anxiety
+T3	ADR 49 59	AGGRESSION
+T4	ADR 65 76	MOOD SWINGS
+#3	AnnotatorNotes T4	emotional lability
+T5	Drug 287 294	Lipitor
+T6	ADR 344 351	anxiety
+#4	AnnotatorNotes T6	anxiety
+T7	ADR 427 436	depressed
+#5	AnnotatorNotes T7	depression
+T8	ADR 744 747	Gas
+#6	AnnotatorNotes T8	nonspecific eructation, flatus, bloating 
+T9	ADR 749 761	Constipation
+#7	AnnotatorNotes T9	constipation
+T10	ADR 771 778	FATIGUE
+T11	ADR 780 791	weight gain
+#8	AnnotatorNotes T11	weight gain
+T12	ADR 796 804	bloating
+#9	AnnotatorNotes T12	bloating
+T13	ADR 831 840	diaharrea
+T14	Drug 1102 1109	Lipitor
+T15	ADR 353 365	hopelessness
+T16	ADR 367 376	lonliness
+T17	ADR 382 395	self loathing
+T18	ADR 441 470	obsessively focused on morbid
+T19	ADR 472 491	terrifying thoughts
+T20	ADR 499 535	negative about everything in my life

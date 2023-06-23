@@ -1,0 +1,13 @@
+T1	ADR 0 19	Shortness of breath
+T2	ADR 21 28	fatigue
+T3	ADR 30 45	muscle soreness
+T4	ADR 47 63	numbness in arms
+T5	ADR 65 83	constant headaches
+T6	ADR 85 99	impending doom
+T7	ADR 101 123	short-term memory loss
+T8	ADR 125 142	flu-like symptoms
+T9	Drug 405 415	Lovastatin
+T10	ADR 488 507	shortness of breath
+T11	ADR 513 528	muscle soreness
+T12	ADR 533 542	headaches
+T13	ADR 566 596	feel like I got hit by a truck

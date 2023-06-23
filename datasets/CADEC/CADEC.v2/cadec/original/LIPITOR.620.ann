@@ -1,0 +1,12 @@
+T1	ADR 24 26;27 31;7 15	in arms Tingling
+T3	ADR 7 15;24 26;36 40	Tingling in legs
+T12	ADR 7 15;24 26;45 57	Tingling in back of neck
+T5	ADR 16 23;24 26;36 40	burning in legs
+T6	ADR 16 23;24 26;45 57	burning in back of neck
+T2	ADR 16 23;24 26;27 31	burning in arms
+T4	ADR 45 57	back of neck
+T7	ADR 64 79	lightheadedness
+T8	ADR 86 97	memory loss
+T9	ADR 104 114	chest pain
+T10	ADR 116 168	pain in shoulder-feels like arm pulled out of socket
+T11	Finding 524 536	heart attack

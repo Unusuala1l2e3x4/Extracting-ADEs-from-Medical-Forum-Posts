@@ -1,0 +1,13 @@
+T1	Drug 0 5	Zocor
+T2	Drug 19 24	Lopid
+T3	Drug 38 45	Lipitor
+T5	ADR 55 69;78 82	muscle atrophy Arms
+T4	ADR 55 69;71 75	muscle atrophy legs
+T6	ADR 84 101	pain in shoulders
+T7	ADR 103 146	Discoloration of skin [blotchy] on the neck
+T8	ADR 148 170	Short term memory loss
+T9	ADR 172 182	Flatulance
+T10	Drug 258 265	Lipitor
+T11	Drug 383 390	Lipitor
+T12	Drug 405 419	red yeast rice
+T13	Drug 456 459	RYR

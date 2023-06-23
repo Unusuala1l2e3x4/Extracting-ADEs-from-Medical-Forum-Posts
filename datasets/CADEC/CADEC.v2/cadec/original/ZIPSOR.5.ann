@@ -1,0 +1,12 @@
+T1	Drug 17 23	Zipsor
+T11	Symptom 28 32;43 47	bone pain
+T2	Symptom 37 42;43 47	joint pain
+T3	Disease 64 69	Lupus
+T4	Disease 85 100	herniated discs
+T5	Drug 188 195	Vicodin
+T12	Drug 216 222	Zipsor
+T6	Symptom 241 251	Lupus pain
+T7	Symptom 294 323	pain from the herniated discs
+T10	Finding 397 408	disc issues
+T8	Drug 528 534	Zipsor
+T9	Symptom 540 544	pain

@@ -1,0 +1,12 @@
+T1	ADR 0 7	fatigue
+T2	ADR 8 18	neuropathy
+#1	AnnotatorNotes T2	nonspecific paraesthesia, pain, anaesthesia
+T3	ADR 38 47	back pain
+T4	ADR 68 79	weight loss
+#2	AnnotatorNotes T4	weight loss
+T5	ADR 20 36	taste perversion
+#3	AnnotatorNotes T5	dysgeusia
+T7	ADR 81 89	paranoia
+#5	AnnotatorNotes T7	paranoia
+T8	ADR 98 119	change in personality
+T9	ADR 48 67	suicidal depression

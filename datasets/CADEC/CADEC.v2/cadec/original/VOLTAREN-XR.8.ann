@@ -1,0 +1,5 @@
+T1	ADR 7 20	stomach upset
+T2	ADR 22 46	blood in bowel movements
+T3	ADR 48 56	bloating
+T4	Symptom 125 136	inflamation
+T5	Finding 109 120;80 96	more limber Limbs and joints

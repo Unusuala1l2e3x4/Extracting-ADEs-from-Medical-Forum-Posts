@@ -1,0 +1,13 @@
+T1	Drug 7 14	Lipitor
+T2	Drug 52 58	plavix
+T3	Drug 60 67	Zestril
+T4	Drug 72 81	Lopressor
+T5	Drug 83 90	Zestril
+T6	Drug 95 104	Lopressor
+T7	Drug 134 140	diovan
+T8	Drug 150 157	Lipitor
+T10	ADR 187 191;204 219	pain behind the knee
+T9	ADR 187 191;192 199	pain in back
+T11	ADR 236 245	hematuria
+T12	ADR 310 319	hematuria
+T13	Drug 335 342	Lipitor

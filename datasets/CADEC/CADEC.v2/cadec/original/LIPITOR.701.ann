@@ -1,0 +1,8 @@
+T2	ADR 0 21;35 39	severe muscle pain in neck
+T3	ADR 0 21;44 49	severe muscle pain in elbow
+T1	ADR 0 21;22 30	severe muscle pain in left arm
+T4	ADR 54 80	prickling,numbness in hand
+T5	ADR 82 130	strange poisen-ivy like rash on chest and breast
+T6	Drug 177 184	lipitor
+T7	Drug 335 341	Niacin
+T8	Drug 360 367	Lipitor

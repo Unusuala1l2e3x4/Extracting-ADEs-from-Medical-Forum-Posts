@@ -1,0 +1,18 @@
+T1	ADR 0 24;25 30;41 49	Severe (burning) pain in upper left arm
+T2	ADR 0 24;35 40;41 49	Severe (burning) pain in lower left arm
+T3	ADR 0 24;54 63	Severe (burning) pain in left hand
+T4	ADR 65 74;84 97	stiffness in both knees
+T5	ADR 79 83;84 97	pain in both knees
+T6	ADR 99 144	pain in upper back (over left shoulder blade)
+T7	ADR 146 165	Pain in both elbows
+T8	ADR 167 183	Pain in left arm
+T9	ADR 340 358	Pain is so intense
+T10	ADR 475 492	flu-like symptoms
+T11	ADR 531 552	pains in my left knee
+T12	Finding 586 595	arthritus
+T13	Finding 624 633	arthritus
+T14	ADR 669 693	pain has been so intense
+T15	Drug 752 758	Liptor
+T16	Drug 826 832	Liptor
+T17	Finding 1060 1072	heart attack
+T18	Finding 1115 1127	intense pain

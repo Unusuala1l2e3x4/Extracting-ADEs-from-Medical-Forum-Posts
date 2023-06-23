@@ -1,0 +1,10 @@
+T1	ADR 0 25	Severe abdominal cramping
+T2	ADR 27 35	sweating
+T3	ADR 37 50	period cramps
+T4	ADR 52 68	vaginal bleeding
+T5	ADR 70 78	diarrhea
+T6	ADR 80 91	acid reflux
+#1	AnnotatorNotes T6	gastric Reflux
+T7	Finding 130 138	migraine
+T8	ADR 148 152	pain
+T10	ADR 93 102	dry mouth

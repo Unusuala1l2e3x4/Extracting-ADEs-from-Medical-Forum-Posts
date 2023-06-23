@@ -1,0 +1,14 @@
+T1	ADR 0 15	vision problems
+#1	AnnotatorNotes T1	vision changes
+T2	ADR 17 27	stiff neck
+#2	AnnotatorNotes T2	muscle stiffness
+T3	ADR 37 47	nerve pain
+T4	ADR 52 60	weakness
+#3	AnnotatorNotes T4	weakness
+T5	ADR 121 125	pain
+T6	Drug 170 178	prinivil
+T8	Drug 190 196	actose
+T7	Drug 140 147	co q 10
+T9	Disease 163 165	bp
+T10	Drug 179 188	estratest
+T11	Drug 201 209	flaxseed

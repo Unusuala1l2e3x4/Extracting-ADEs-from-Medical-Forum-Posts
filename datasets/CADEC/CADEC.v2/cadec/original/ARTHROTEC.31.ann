@@ -1,0 +1,16 @@
+T1	ADR 0 9	headaches
+T2	ADR 11 28	extreme tiredness
+T4	ADR 36 63	heartburn in back of throat
+#1	AnnotatorNotes T4	Gastric Reflux
+T5	ADR 65 77	hunger pangs
+T6	ADR 79 88	dry mouth
+#2	AnnotatorNotes T6	Gastric Reflux
+T7	ADR 90 126	severe lower abdominal pain/cramping
+T8	ADR 128 142	very irritable
+#3	AnnotatorNotes T8	Anxiety like symptoms
+T9	Symptom 156 160	pain
+T10	ADR 246 258	PMS symptoms
+T11	ADR 341 345	GERD
+#4	AnnotatorNotes T11	Gastric Reflux
+T12	Drug 311 322	misoprostol
+#5	AnnotatorNotes T12	Part of the arthrotec drug

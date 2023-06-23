@@ -1,0 +1,19 @@
+T1	Drug 19 26	Lipitor
+T2	ADR 102 110	headache
+T3	ADR 112 123	muscle ache
+T4	ADR 125 133	diarrhea
+T5	ADR 135 146	indigestion
+T6	ADR 148 162	abdominal pain
+T7	ADR 164 173	back pain
+T8	ADR 175 195	eyesight has changed
+T9	ADR 196 210	sinus problems
+T10	ADR 212 222	joint pain
+T11	ADR 224 234	leg cramps
+T17	ADR 242 247;265 269	joint pain
+T15	ADR 285 291;303 320	muscle in my angles hurt
+T16	ADR 296 302;303 320	joints in my angles hurt
+T12	ADR 331 340	cant walk
+T13	Disease 406 414	artritic
+T14	Drug 440 446	codine
+T18	ADR 717 721	pain
+T19	Disease 746 755	arthrites

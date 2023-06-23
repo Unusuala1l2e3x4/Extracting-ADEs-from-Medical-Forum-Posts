@@ -1,0 +1,17 @@
+T1	ADR 28 41	tunnel vision
+T2	ADR 43 50	vertigo
+T3	ADR 52 60;75 80	tingling hands
+T4	ADR 65 73;75 80	numbness hands
+T5	ADR 52 60;82 86	tingling legs
+T6	ADR 52 60;88 92	tingling face
+T7	ADR 65 73;82 86	numbness legs
+T8	ADR 65 73;88 92	numbness face
+T9	ADR 95 141	complete weakness in the right side of my body
+T10	ADR 152 168	loss of strength
+T11	ADR 189 245	complete body flushes (like a hot flash without the hot)
+T12	ADR 249 256;266 292	thought that I was having a stroke
+T14	Finding 403 406	TIA
+T15	ADR 526 538	body flushes
+T16	Drug 678 685	Lipitor
+T17	Drug 789 796	Lipitor
+T18	Finding 898 912	brain aneurysm

@@ -1,0 +1,11 @@
+T1	ADR 51 81	pain in both calves and thighs
+T5	ADR 114 121;134 142	Pain in forearms
+T6	ADR 114 121;152 160	Pain in shoulder
+T2	ADR 114 121;122 132	Pain in lower back
+T7	Disease 186 189	PAD
+T9	ADR 193 201;218 222	couldn't walk
+T8	ADR 193 201;202 214	couldn't climb stairs
+T10	ADR 254 286	needed to rest every few minutes
+T11	Disease 306 322	high cholesterol
+T3	Drug 361 368	Lipitor
+T4	ADR 471 475	pain

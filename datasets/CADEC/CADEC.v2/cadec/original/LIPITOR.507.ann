@@ -1,0 +1,18 @@
+T1	ADR 0 10	DEPRESSION
+T3	ADR 13 19;34 38	muscle pain
+T2	ADR 13 19;20 29	muscle twitching
+T4	ADR 40 45	tired
+T5	ADR 47 60	loss of drive
+T6	ADR 62 71	irritable
+T7	ADR 92 100	insomnia
+T8	ADR 102 109	anxiety
+T9	ADR 111 154	loss of desire to do or accomplish anything
+T10	Disease 546 559	heart desease
+T11	Symptom 569 605	moderatly elevated cholesterol level
+T12	Drug 659 666	lipitor
+T13	Drug 755 762	lipitor
+T14	Drug 904 911	Lipitor
+T15	Drug 1231 1238	Lipitor
+T16	ADR 1279 1289	Depression
+T17	ADR 1321 1342	psychological enigmas
+T18	ADR 1419 1431	muscle aches

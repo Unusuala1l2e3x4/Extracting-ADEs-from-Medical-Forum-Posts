@@ -1,0 +1,9 @@
+T1	Drug 37 44	lipitor
+T2	ADR 136 145	dizziness
+T3	ADR 147 162	lightheadedness
+#1	AnnotatorNotes T3	nonspecific
+T4	ADR 163 171	bloating
+T5	ADR 173 183	excess gas
+#2	AnnotatorNotes T5	nonspecific eructation, flatus, bloating
+T7	ADR 241 259	tired all the time
+T6	ADR 188 216	mild stiffness of my fingers

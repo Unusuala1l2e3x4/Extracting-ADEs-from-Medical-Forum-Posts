@@ -1,0 +1,11 @@
+T1	ADR 11 33	tendonitis in my knees
+T2	ADR 50 80	pain in my lower legs and feet
+T3	ADR 85 96	knee swells
+T4	ADR 137 154	excrutiating pain
+T5	Disease 195 199	gout
+T6	Finding 238 251	toes swell up
+T7	ADR 305 318	swollen knees
+T8	Disease 328 332	gout
+T9	Drug 421 428	Lipitor
+T10	ADR 619 634	hobbling around
+T11	Drug 739 746	Lipitor

@@ -1,0 +1,18 @@
+TT1	32914008 | Restless legs | 16 36	restless leg syndrom
+TT2	3877011000036101 | Lipitor | 122 129	lipitor
+TT3	166848004 | Serum triglycerides raised | 191 209	high triglycerides
+TT4	21417011000036105 | fenofibrate | 224 230	tricor
+TT5	3877011000036101 | Lipitor | 343 350	lipitor
+TT6	21417011000036105 | fenofibrate | 355 361	tricor
+TT7	95891005 | Influenza-like illness | 427 440	feel flu like
+TT9	449917004 | Cramp in lower limb | 442 451;459 463	cramps in legs
+TT8	55300003 | Muscle cramp | 442 451;452 457	cramps in chest
+TT10	271807003 | Rash | 465 478	rashes appear
+TT11	CONCEPT_LESS 480 498	sleep very heavily
+TT12	77692006 | Hypersomnia | 500 510	sleep alot
+TT13	84229001 | Fatigue | 514 527	feel fatigued
+TT14	70346000 | Gingival oedema | 678 691	gums swelling
+TT15	7973008 | Abnormal vision | 693 709	visual anomalies
+TT16	44077006 | Numbness | 711 730	numbness in muscles
+TT17	162397003 | Pain in throat | 732 743	sore throat
+TT18	CONCEPT_LESS 745 778	soreness in mucous membrane areas

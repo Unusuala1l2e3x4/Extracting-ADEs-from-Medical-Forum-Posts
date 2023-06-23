@@ -1,0 +1,11 @@
+TT1	26544005 | Muscle weakness | 0 23	loss of muscel strength
+TT2	399153001 | Vertigo | 24 31	vertigo
+TT3	95418008 | Muscle spasms of head AND/OR neck | 42 63	cramping neck muscels
+TT4	8357008 | Reduced libido | 64 84	loss of sexual drive
+TT5	CONCEPT_LESS 108 134	zombie like doped up state
+TT6	7011001 | Hallucinations | 135 159	halucinations during day
+TT8	301676004 | Unable to get off a bed | 160 169;187 201	unable to get out of bed
+TT7	282145008 | Unable to walk | 160 169;170 174	unable to walk
+TT9	386806002 | Impaired cognition | 208 234	reduced mental capabiities
+TT10	35489007 | Depression | 235 245	depression
+TT11	77692006 | Hypersomnia | 246 274	excessive sleep requirements

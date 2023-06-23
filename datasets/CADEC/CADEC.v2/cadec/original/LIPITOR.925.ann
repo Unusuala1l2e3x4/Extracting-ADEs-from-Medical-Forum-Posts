@@ -1,0 +1,23 @@
+T1	ADR 0 14	Loss of memory
+T2	ADR 16 23	aphasia
+T3	ADR 25 31	tremor
+T4	ADR 33 46	violent anger
+T5	ADR 48 59	tearfulness
+T6	ADR 61 69	insomnia
+T7	ADR 71 86	muscle weakness
+T8	ADR 88 101	easy bruising
+T9	ADR 107 117	nosebleeds
+T10	ADR 119 127;139 147	Bleeding problems
+T11	ADR 130 138;139 147	bruising problems
+T12	ADR 200 208	Insomnia
+T13	ADR 233 246	Mood problems
+T14	ADR 248 265	language problems
+T15	ADR 271 286	memory problems
+T16	ADR 314 320	Tremor
+T17	ADR 410 416	tremor
+T18	Finding 679 694	extreme fatigue
+T19	Finding 699 710	muscle pain
+T20	Finding 850 864	heart attackes
+T21	Drug 916 924	fish oil
+T22	Drug 934 951	flush-free niacin
+T23	Drug 1007 1014	Lipitor

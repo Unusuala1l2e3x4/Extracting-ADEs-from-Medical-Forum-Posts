@@ -1,0 +1,7 @@
+T1	ADR 0 6;15 19	Muscle pain
+T2	ADR 9 14;15 19	joint pain
+T3	ADR 21 43	severe vision problems
+T4	ADR 45 57	fibromyalgia
+T5	ADR 58 75	numbness in limbs
+T6	ADR 77 82	lupus
+T7	Drug 441 448	Lipitor

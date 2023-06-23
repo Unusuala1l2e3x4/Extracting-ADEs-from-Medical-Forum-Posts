@@ -1,0 +1,14 @@
+T1	ADR 0 15	Severe headache
+T2	ADR 17 22;34 38	joint pain
+T3	ADR 27 33;34 38	muscle pain
+T4	ADR 40 48	anorexia
+T5	ADR 50 61	extreme gas
+T6	ADR 63 74	memory loss
+T7	ADR 76 87	mood swings
+T8	Finding 155 176	miocardial infarction
+T9	Finding 182 201	pain was unbearable
+T10	ADR 210 232	pain from the headache
+T11	Drug 233 240	Lipitor
+T12	Drug 270 275	Zocor
+T13	Drug 277 284	Crestor
+T14	Drug 343 350	Lipitor

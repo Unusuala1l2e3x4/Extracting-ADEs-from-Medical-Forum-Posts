@@ -1,0 +1,15 @@
+TT1	86044005 | Amyotrophic lateral sclerosis | 185 188	ALS
+TT2	271587009 | Stiffness | 286 309	stiffness in whole body
+TT3	282299006 | Unable to balance | 311 326	loss of balance
+TT4	282872002 | Unable to stand up | 328 355	no power to standup himself
+TT5	89362005 | Weight loss | 357 371	loss of weight
+TT6	26544005 | Muscle weakness | 373 394;395 416	acute weakness in the muscles of whole body
+TT7	300043006 | Reduction of bulk of muscle | 395 416;427 443	muscles of whole body dilution in size
+TT8	14760008 | Constipation | 445 459	constipitation
+TT9	165232002 | Urinary incontinence | 461 486	no control over urination
+TT10	44564008 | Loss of voice | 546 565	loss of vocal sound
+TT11	249489001 | Choking | 567 585	choking the throat
+TT12	CONCEPT_LESS 587 618	looseness in the body structure
+TT13	80954004 | Respiratory depression | 655 699	lungs detoriation like less intake of oxigen
+TT14	3877011000036101 | Lipitor | 767 774	lipitor
+TT15	86044005 | Amyotrophic lateral sclerosis | 846 849	ALS

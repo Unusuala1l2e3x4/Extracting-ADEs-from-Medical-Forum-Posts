@@ -1,0 +1,20 @@
+T11	ADR 29 46;53 59	charley horses in calves
+T8	ADR 29 46;61 68	charley horses in abdomen
+T1	ADR 29 46;70 77	charley horses in breasts
+T9	ADR 29 46;79 88	charley horses in shoulders
+T20	ADR 29 46;93 98	charley horses in sides
+T10	ADR 29 46;47 51	charley horses in feet
+T15	ADR 283 300;304 308	charley horses in feet
+T2	ADR 283 300;310 314	charley horses in legs
+T16	ADR 283 300;316 323	charley horses in abdomen
+T17	ADR 283 300;325 332	charley horses in breasts
+T18	ADR 283 300;334 343	charley horses in shoulders
+T19	ADR 283 300;345 350	charley horses in sides
+T3	ADR 376 387	memory loss
+T4	ADR 389 396	vertigo
+T5	ADR 401 410	headaches
+T12	Disease 455 467	mini-strokes
+T13	ADR 534 570	charley horse in one or both breasts
+T14	ADR 614 638	charley horse in my side
+T6	ADR 640 669	Charley horses in the abdomen
+T7	ADR 687 709	Charley horses in feet

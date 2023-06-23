@@ -1,0 +1,7 @@
+T1	ADR 0 6	nausea
+T2	ADR 152 168	extreme vomiting
+T3	ADR 173 181	diarrhea
+T4	Finding 201 208	flu bug
+T5	Drug 267 274	Lipitor
+T6	ADR 316 327	memory loss
+T7	ADR 332 349	extreme tiredness

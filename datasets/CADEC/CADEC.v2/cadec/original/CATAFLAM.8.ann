@@ -1,0 +1,6 @@
+T1	Drug 26 35	ibuprofen
+T2	Drug 77 80	ibu
+T3	Symptom 109 113	pain
+T4	Symptom 131 143	inflammation
+T5	ADR 46 61	sun sensitivity
+#1	AnnotatorNotes T5	photosensitivity attributed to other drug

@@ -1,0 +1,7 @@
+T1	Drug 21 29	provacal
+T2	Drug 77 84	lipitor
+T3	Finding 105 112	fatigue
+T4	Finding 114 122	hip pain
+T5	Finding 128 146	joint pain in knee
+T6	Finding 148 180	Muscles feel like a wet dish rag
+#1	AnnotatorNotes T3	Provacal is a statin but not Lipitor, so will annotate as finding.

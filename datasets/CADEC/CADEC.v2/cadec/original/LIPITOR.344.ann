@@ -1,0 +1,14 @@
+T1	ADR 0 25	Very sore and achy joints
+T2	ADR 56 69	Mild headache
+T3	ADR 98 103	foggy
+T4	ADR 132 145	muscle cramps
+T5	ADR 168 181	Muscle spasms
+T6	ADR 212 215;240 257	leg buzzing sensation
+T7	ADR 275 281	spasms
+T8	ADR 300 307;323 332	muscles quivering
+T9	ADR 364 372	restless
+T10	ADR 386 399	hard to sleep
+T11	Drug 421 428	Lipitor
+T12	ADR 501 514	muscle cramps
+T13	ADR 515 521	spasms
+T14	ADR 527 537	joint pain

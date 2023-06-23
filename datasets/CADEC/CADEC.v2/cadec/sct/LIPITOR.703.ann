@@ -1,0 +1,23 @@
+TT1	76948002 | Severe pain | +  161891005 | Backache | 0 16	Severe back pain
+TT2	88092000 | Muscle atrophy | 18 37	muscle degenerating
+TT3	228158008 | Walking disability | 39 54	can barely walk
+TT4	13791008 | Asthenia | 56 71	extreme fatique
+TT5	35489007 | Depression | 72 82	depression
+TT6	267045008 | Gastrointestinal symptom | 83 114	major gastrointestinal problems
+TT7	CONCEPT_LESS 116 136	feel like an old man
+TT8	386661006 | Fever | 138 143	Fever
+TT9	224962007 | Hot sweats | 145 151	sweats
+TT10	43724002 | Chill | 153 159	chills
+TT11	193462001 | Insomnia | 161 169	Insomnia
+TT12	67233009 | Middle insomnia | 170 183	fitfull sleep
+TT13	81680005 | Neck pain | 185 194	Neck pain
+TT14	2764000 | Joint crepitus | 195 227	cracking sensations in my joints
+TT15	57676002 | Arthralgia | 233 239;252 256	joints hurt
+TT16	68962001 | Myalgia | 244 251;252 256	muscles hurt
+TT17	3723001 | Arthritis | 402 411	arthritis
+TT18	3904011000036106 | Zocor | 468 473	Zocor
+TT19	68962001 | Myalgia | 612 632	terrible muscle pain
+TT20	3877011000036101 | Lipitor | 676 683	Lipitor
+TT21	61462000 | Malaria | 717 724	malaria
+TT22	200936003 | Lupus erythematosus | 728 733	lupus
+TT23	3877011000036101 | Lipitor | 1101 1108	Lipitor

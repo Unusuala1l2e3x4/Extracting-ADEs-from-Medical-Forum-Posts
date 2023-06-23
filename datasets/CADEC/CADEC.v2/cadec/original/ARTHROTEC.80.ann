@@ -1,0 +1,9 @@
+T1	ADR 0 14	abdominal pain
+T2	ADR 46 54	headache
+T3	ADR 56 85	general stomach upset feeling
+T4	Drug 204 213	Arthrotec
+T5	ADR 299 312	stomach pains
+T6	ADR 16 44	constant soreness in abdomen
+T7	Drug 143 151	Celebrex
+T8	Drug 176 181	Vioxx
+T9	Drug 188 194	Lodine

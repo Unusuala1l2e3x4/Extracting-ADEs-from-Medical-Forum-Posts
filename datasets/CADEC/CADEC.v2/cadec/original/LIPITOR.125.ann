@@ -1,0 +1,20 @@
+T1	ADR 0 15	Pain under ribs
+T2	ADR 18 31	restless legs
+#1	AnnotatorNotes T2	restless legs
+T3	ADR 34 45	muscle pain
+#2	AnnotatorNotes T3	myalgia
+T4	ADR 58 66	lethargy
+T5	ADR 67 77	depression
+#3	AnnotatorNotes T5	depression
+T6	ADR 79 87	insomnia
+#4	AnnotatorNotes T6	insomnia
+T7	ADR 89 98	brain fog
+#5	AnnotatorNotes T7	sedation, confusion, nonspecific
+T8	ADR 113 129	lack of strength
+#6	AnnotatorNotes T8	weakness
+T9	ADR 99 110	mood swings
+#7	AnnotatorNotes T9	emotional lability
+T10	ADR 131 145	blurred vision
+#8	AnnotatorNotes T10	vision changes, blurred vision
+T11	ADR 147 160	forgetfulness
+#9	AnnotatorNotes T11	amnesia

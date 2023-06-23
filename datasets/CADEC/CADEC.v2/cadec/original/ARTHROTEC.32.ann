@@ -1,0 +1,5 @@
+T1	ADR 32 53	severe abdominal pain
+T2	ADR 134 192	feeling like my stomach is full and empty at the same time
+#1	AnnotatorNotes T2	Possible bloating and associated pain in the abdomen
+T3	ADR 266 273	bruises
+#2	AnnotatorNotes T3	Bruising likely to represent a rash without further symptoms such as GIT bleeds, melena, joint bleeds etc

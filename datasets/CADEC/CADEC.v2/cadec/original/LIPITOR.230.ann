@@ -1,0 +1,6 @@
+T1	ADR 0 13	Sleeplessness
+#1	AnnotatorNotes T1	insomnia
+T3	ADR 44 60	foggy-headedness
+#2	AnnotatorNotes T3	nonspecific confusion, sedation
+T4	Drug 116 123	lipitor
+T5	ADR 15 34	tingling in fingers

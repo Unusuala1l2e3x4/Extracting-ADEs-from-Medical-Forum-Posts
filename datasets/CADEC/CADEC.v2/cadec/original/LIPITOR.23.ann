@@ -1,0 +1,7 @@
+T1	ADR 7 16	back pain
+T2	ADR 18 28	flank pain
+T3	ADR 30 39	hematuria
+T4	ADR 41 55	kidney failure
+T5	Drug 160 167	Lipitor
+T6	ADR 175 190;202 208	permanent liver damage
+T7	ADR 195 201;202 208	kidney damage

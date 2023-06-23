@@ -1,0 +1,13 @@
+T1	ADR 0 6;31 35;7 15	Severe pain shoulder
+T2	ADR 0 6;20 30;31 35	Severe upper body pain
+T3	ADR 46 56	tendonitis
+T4	Drug 196 205	Pravachol
+T5	Finding 221 227;249 253	joints hurt
+T6	Finding 229 236;249 253	muscles hurt
+T7	Finding 241 248;249 253	tendons hurt
+T8	ADR 592 596	pain
+T9	ADR 844 848	pain
+T10	ADR 850 857	fatigue
+T11	ADR 862 870	weakness
+T12	ADR 135 143	Fatigued
+T13	ADR 148 158	worse pain

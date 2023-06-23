@@ -1,0 +1,18 @@
+T1	ADR 16 36	restless leg syndrom
+T2	Drug 122 129	lipitor
+T3	Finding 191 209	high triglycerides
+T4	Drug 224 230	tricor
+T5	Drug 343 350	lipitor
+T6	Drug 355 361	tricor
+T7	Finding 427 440	feel flu like
+T9	Finding 442 451;459 463	cramps in legs
+T8	Finding 442 451;452 457	cramps in chest
+T10	Finding 465 478	rashes appear
+T11	Finding 480 498	sleep very heavily
+T12	Finding 500 510	sleep alot
+T13	Finding 514 527	feel fatigued
+T14	Finding 678 691	gums swelling
+T15	Finding 693 709	visual anomalies
+T16	Finding 711 730	numbness in muscles
+T17	Finding 732 743	sore throat
+T18	Finding 745 778	soreness in mucous membrane areas

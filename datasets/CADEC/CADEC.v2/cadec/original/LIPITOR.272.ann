@@ -1,0 +1,12 @@
+T1	ADR 0 21	Cognitive disfunction
+#1	AnnotatorNotes T1	cognitive dysfunction
+T2	ADR 23 33	neuropathy
+#2	AnnotatorNotes T2	nonspecific pain, paraesthesia, anaesthesia
+T3	ADR 56 64	tinnitis
+#3	AnnotatorNotes T3	tinnitis
+T4	ADR 66 88	difficulty with speech
+#4	AnnotatorNotes T4	dysphasia
+T8	ADR 101 116	extreme fatigue
+T6	ADR 90 99	neck pain
+T5	ADR 118 133	muscle weakness
+T7	ADR 138 156	difficulty walking

@@ -1,0 +1,9 @@
+T1	Drug 33 44	simvastatin
+T2	Drug 46 57	pravastatin
+T3	Drug 67 79	atorvastatin
+T4	ADR 100 106;84 95	severe joint pains
+T5	ADR 130 142	dys-motility
+T6	ADR 144 243	irritable bowel syndrome of the sigmoid area and descending colon with obstipation and constipation
+T7	ADR 341 348	fatigue
+T8	ADR 353 363	joint pain
+T9	ADR 368 397	short term memory dysfunction

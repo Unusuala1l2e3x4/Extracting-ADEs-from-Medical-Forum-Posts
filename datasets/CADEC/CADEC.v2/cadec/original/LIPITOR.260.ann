@@ -1,0 +1,11 @@
+T1	ADR 0 21	involuntary movements
+T2	ADR 22 35	muscles aches
+T3	ADR 63 78	muscle weakness
+T4	ADR 81 90	knee pain
+T5	ADR 92 101	neck pain
+T6	ADR 102 111	headaches
+T7	ADR 112 125	concentrating
+T8	ADR 127 141	blurred vision
+T9	ADR 142 151	back pain
+T10	ADR 152 170	difficulty to walk
+T11	Drug 316 323	lipitor

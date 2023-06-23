@@ -1,0 +1,18 @@
+T2	ADR 0 25;35 39	Slight muscle soreness in legs
+T1	ADR 0 25;26 30	Slight muscle soreness in arms
+T4	ADR 41 57;68 74	Major sorness in elbows
+T3	ADR 41 57;58 63	Major sorness in knees
+T5	Finding 83 87	gout
+T6	ADR 117 127	joint pain
+T7	Finding 192 196	gout
+T8	ADR 251 255	pain
+T9	Drug 354 361	lipitor
+T11	ADR 496 500;515 534	knee throbbing with pain
+T10	Drug 581 586	Advil
+T12	ADR 697 701	pain
+T13	Drug 770 777	lipitor
+T14	ADR 865 869	pain
+T15	Drug 904 911	Lipitor
+T16	Drug 1195 1202	lipitor
+T17	Drug 1224 1231	lipitor
+T18	ADR 1281 1291	joint pain

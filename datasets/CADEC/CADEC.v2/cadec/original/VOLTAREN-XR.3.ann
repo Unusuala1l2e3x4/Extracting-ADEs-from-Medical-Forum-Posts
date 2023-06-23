@@ -1,0 +1,9 @@
+T1	Drug 50 58	Voltaren
+T2	ADR 207 215	diarrhea
+T3	ADR 401 417	chest discomfort
+T4	ADR 428 446	abdominal pressure
+T5	Drug 676 684	prilosec
+T6	Disease 622 626	GERD
+T7	Drug 896 904	Voltaren
+T8	Drug 96 98	RX
+T9	ADR 172 196	extreme abdominal issues

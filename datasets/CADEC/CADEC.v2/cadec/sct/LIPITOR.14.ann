@@ -1,0 +1,24 @@
+TT1	3877011000036101 | Lipitor | 20 27	Lipitor
+TT2	22253000 | Pain | 48 52	pain
+TT4	84017003 | Bursitis | 119 128;143 149	inflammed bursae
+TT5	443120002 | Inflammation of ligament | 119 128;129 138	inflammed ligaments
+TT3	16269008 | Neuralgia | 183 193	Nerve pain
+TT15	90673000 | Burning sensation | 241 251;266 272	burning of ankles
+TT6	90673000 | Burning sensation | 241 251;252 261	burning of shoulders
+TT7	3877011000036101 | Lipitor | 291 297	Liptor
+TT24	22253000 | Pain | 361 365	pain
+TT8	3877011000036101 | Lipitor | 498 505	Lipitor
+TT9	3877011000036101 | Lipitor | 517 524	Lipitor
+TT16	76948002 | Severe pain | 664 676	extreme pain
+TT17	45326000 | Shoulder pain | 780 789;847 851	shoulders hurt
+TT18	84017003 | Bursitis | 926 942	inflammed bursae
+TT19	22253000 | Pain | 971 975	pain
+TT20	21134002 | Disability | 980 990	disability
+TT11	CONCEPT_LESS 1016 1023	statins
+TT22	CONCEPT_LESS 1078 1092	Red Yeast Rice
+TT14	77424011000036100 | ubidecarenone | 1098 1103	COQ10
+TT10	77435011000036104 | ascorbic acid |  1150 1159	Vitamin C
+TT21	3877011000036101 | Lipitor | 1177 1184	Lipitor
+TT23	CONCEPT_LESS 1363 1377	Red Yeast Rice
+TT13	166830008 | Serum cholesterol raised | 1387 1407	elevated cholesterol
+TT12	3877011000036101 | Lipitor | 1499 1506	Lipitor

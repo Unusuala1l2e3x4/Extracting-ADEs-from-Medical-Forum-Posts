@@ -1,0 +1,13 @@
+TT1	278040002 | Loss of hair | 0 28	Hair loss (Diffuse Alopecia)
+TT2	278040002 | Loss of hair | 30 43	hair thinning
+TT3	46635009 | Type 1 diabetes mellitus | 56 71	type 1 diabetes
+TT4	3066011000036105 | Olmetec | 264 283	Olmetec(olmesartan)
+TT5	21322011000036108 | amlodipine | 285 302	Istin(amlodipine)
+TT6	3877011000036101 | Lipitor | 307 328	Lipitor(atorvastatin)
+TT7	3877011000036101 | Lipitor | 343 350	Lipitor
+TT8	278040002 | Loss of hair | 354 382	hair has started falling out
+TT9	278040002 | Loss of hair | 408 416;436 468	thinning at the back and sides of my head
+TT10	3877011000036101 | Lipitor | 517 524	Lipitor
+TT12	73595000 | Stress | 609 615	stress
+TT11	278040002 | Loss of hair | 626 640	losing my hair
+TT13	124054003 | Increased cholesterol esters | 695 711	high cholesterol

@@ -1,0 +1,14 @@
+TT1	3877011000036101 | Lipitor | 17 24	Lipitor
+TT2	68962001 | Myalgia | 55 76	leg muscle discomfort
+TT3	3877011000036101 | Lipitor | 387 394	Lipitor
+TT4	102480002 | Generalised acute body pains | 434 475	I feel like I've been run over by a truck
+TT5	76948002 | Severe pain | + 68962001 | Myalgia | 494 519	extreme muscle discomfort
+TT6	22253000 | Pain | 521 529	achiness
+TT7	55300003 | Muscle cramp | 531 537	cramps
+TT8	68962001 | Myalgia | 640 644	sore
+TT9	81680005 | Neck pain | 724 742;743 747	muscle aches in my neck
+TT10	45326000 | Shoulder pain | 724 742;752 761	muscle aches in my shoulders
+TT11	279039007 | Low back pain | 724 742;766 776	muscle aches in my lower back
+TT12	13791008 | Asthenia | 822 840	extremely fatigued
+TT13	419723007 | Mentally dull | 909 933	I feel like I'm in a fog
+TT14	228158008 | Walking disability | 938 970	it's a chore to just walk around

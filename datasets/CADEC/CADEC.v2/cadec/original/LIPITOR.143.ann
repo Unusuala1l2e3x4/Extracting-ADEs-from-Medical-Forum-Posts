@@ -1,0 +1,6 @@
+T1	ADR 0 15	Muscle cramping
+#1	AnnotatorNotes T1	muscle spasm
+T2	ADR 17 24	fatigue
+T3	ADR 29 39	depression
+#2	AnnotatorNotes T3	depression
+T4	ADR 82 92	depression

@@ -1,0 +1,9 @@
+T1	Drug 39 46	Lipitor
+T6	ADR 91 100;113 118	aching in knees
+T7	ADR 91 100;120 124	aching in hips
+T8	ADR 91 100;127 131	aching in toes
+T2	ADR 91 100;101 111	aching in my fingers
+T3	Disease 189 198	arthritis
+T9	Disease 221 230	arthritis
+T4	Drug 246 253	Lipitor
+T5	Disease 335 344	arthritis

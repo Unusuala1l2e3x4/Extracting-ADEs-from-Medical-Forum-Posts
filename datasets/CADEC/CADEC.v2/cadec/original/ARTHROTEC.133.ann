@@ -1,0 +1,21 @@
+T1	ADR 0 14	Stomach queasy
+T3	Drug 109 118	Meloxicam
+#2	AnnotatorNotes T3	previous drug
+T6	Disease 203 205	OA
+#5	AnnotatorNotes T6	osteoarthritis
+T7	Symptom 233 237	pain
+T8	Symptom 265 269	limp
+T9	Symptom 290 306	Spine & hip pain
+T10	Drug 406 414	Celebrex
+#6	AnnotatorNotes T10	previous drug
+T11	ADR 360 381	minor period bleeding
+#7	AnnotatorNotes T11	ADR she experienced with previous medication from same class
+T12	Disease 495 497	RA
+#8	AnnotatorNotes T12	rheumatoid arthritis
+T13	Drug 568 576	caffeine
+#9	AnnotatorNotes T13	drug she is not taking
+T14	Drug 751 755	Tums
+#10	AnnotatorNotes T14	other drug she takes to control nonspecific GI symptoms
+T15	Drug 81 95	Celebrex 200mg
+T2	ADR 327 337	Menopausal
+T16	Finding 636 651	irregular bowel

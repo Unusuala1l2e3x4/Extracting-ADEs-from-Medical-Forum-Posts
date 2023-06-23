@@ -1,0 +1,25 @@
+TT2	26544005 | Muscle weakness | 0 6;16 24	muscle weakness
+TT1	68962001 | Myalgia | 0 6;7 11	muscle pain
+TT3	25064002 | Headache | 26 35	headaches
+TT4	44186003 | Dyssomnia | 37 55	sleep disturbances
+TT5	129565002 | Myopathy | 142 171	problems with various muscles
+TT6	68962001 | Myalgia | 200 219;220 227	lots of pain in the muscles
+TT7	250069006 | Muscle tension | 220 227;235 245	muscles very tight
+TT8	161882006 | Stiff neck | 255 259;276 281	neck stiff
+TT9	250069006 | Muscle tension | 290 330	muscles are like boards they're so tight
+TT11	287045000 | Pain in left arm | 340 361;375 400	pain has gone into my upper arm on my left side
+TT10	45326000 | Shoulder pain | 340 361;362 370	pain has gone into my shoulder
+TT12	285397001 | Tightness in arm | 430 448	right arm is tight
+TT13	CONCEPT_LESS 457 487	can't sleep on either shoulder
+TT14	250069006 | Muscle tension | 496 520	lower back is also tight
+TT15	25064002 | Headache | 538 556	terrible headaches
+TT16	56731001 | Hypertonia | 566 584	tight neck muscles
+TT17	68962001 | Myalgia | 596 607	muscle pain
+TT18	3877011000036101 | Lipitor | 612 619	Lipitor
+TT19	166717003 | Serum creatinine raised | 802 819	elevated creatine
+TT20	3877011000036101 | Lipitor | 846 853	Lipitor
+TT21	3877011000036101 | Lipitor | 956 963	Lipitor
+TT22	247347003 | Discomfort | 989 999	discomfort
+TT23	77435011000036104 | ascorbic acid |  1086 1095	vitamin C
+TT24	22298006 | Myocardial infarction | 1198 1210	heart attack
+TT25	3877011000036101 | Lipitor | 1244 1251	Lipitor

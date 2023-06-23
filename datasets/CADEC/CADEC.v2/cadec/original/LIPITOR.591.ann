@@ -1,0 +1,7 @@
+T1	ADR 62 75	muscle cramps
+T2	ADR 80 91	tendon pain
+T3	ADR 183 208	tightened muscles in neck
+T4	ADR 304 314	acute pain
+T5	Drug 355 362	Lipitor
+T7	ADR 441 452;464 469	very severe pains
+T6	ADR 441 452;453 459	very severe cramps

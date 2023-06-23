@@ -1,0 +1,10 @@
+T1	ADR 143 158	hard to breathe
+T2	ADR 160 176	lungs feel heavy
+T3	ADR 197 204	sadness
+#1	AnnotatorNotes T3	decrease in mood
+T4	ADR 206 215	tiredness
+T5	ADR 217 255	wanting to quit everything and give up
+#2	AnnotatorNotes T5	suicidality
+T6	Drug 303 313	antibiotic
+T7	Drug 394 402	solaraze
+T8	Disease 546 552	eczema

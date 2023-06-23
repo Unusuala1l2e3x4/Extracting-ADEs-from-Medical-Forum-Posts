@@ -1,0 +1,11 @@
+T2	ADR 0 21;28 32	extremly bad pains in arms
+T3	ADR 0 21;33 42	extremly bad pains in shoulders
+T1	ADR 0 21;22 27	extremly bad pains in hands
+T4	Drug 51 58	lipitor
+T6	ADR 159 176;183 187	very bad pains in arms
+T7	ADR 159 176;192 201	very bad pains in shoulders
+T5	ADR 159 176;177 182	very bad pains in hands
+T8	ADR 219 294	freezing cold,like arms plunged into freezing water,then burning sensations
+T9	ADR 568 580	terribe pain
+T10	ADR 675 679	pain
+T11	ADR 806 810	pain

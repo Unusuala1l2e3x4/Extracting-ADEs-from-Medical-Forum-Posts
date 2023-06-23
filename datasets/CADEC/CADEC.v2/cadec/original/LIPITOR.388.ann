@@ -1,0 +1,19 @@
+T1	ADR 28 40	muscle pains
+T2	ADR 42 59	extreme tiredness
+T3	ADR 61 73	irritability
+T4	ADR 75 87	weird dreams
+T5	ADR 89 110	restless leg syndrome
+T6	ADR 112 121	hair loss
+T7	ADR 123 141	lack of enthusiasm
+T9	ADR 185 193;199 202	elevated BUN
+T10	ADR 185 193;204 214	elevated Creatinine
+T11	ADR 185 193;216 229	elevated urine albumin
+T8	ADR 185 193;194 197	elevated CRP
+T12	ADR 231 254	increased blood glucose
+T13	ADR 265 278	memory lapses
+T14	ADR 283 300	belly weight gain
+T15	Drug 361 366	CoQ10
+T16	ADR 429 442	losing muscle
+T19	ADR 641 646;666 672	heart damage
+T18	ADR 648 654;666 672	kidney damage
+T17	ADR 659 665;666 672	muscle damage

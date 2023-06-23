@@ -1,0 +1,20 @@
+T1	ADR 34 57	acute pancreatic attack
+T18	ADR 63 84	critical blood levels
+T19	ADR 124 148	body was "shutting" down
+T2	ADR 192 207	BP was very low
+T20	ADR 215 220	fever
+T3	ADR 239 250	weight loss
+T4	ADR 262 285	yellow color to my skin
+T5	ADR 287 309	couldn't walk straight
+T6	ADR 310 328	prostate infection
+T7	ADR 330 338	sweating
+T8	ADR 340 346	nausea
+T10	ADR 348 355;356 363	pain in stomach
+T9	ADR 348 355;366 370	pain in back
+T11	ADR 372 390	urination effected
+T12	ADR 392 411	hoarseness/coughing
+T13	ADR 413 425	heart racing
+T14	ADR 427 438	disoriented
+T15	Drug 659 667	Voltaren
+T16	Drug 735 743	Voltaren
+T17	ADR 963 984	remember the entire e

@@ -1,0 +1,14 @@
+T2	Disease 0 15	Thyroid disease
+T1	Drug 29 36	Lipitor
+T3	ADR 46 61	vision problems
+T4	ADR 89 94	hives
+T5	ADR 96 110;126 129	severe pain in arm
+T12	ADR 96 110;135 139	severe pain in hand
+T11	ADR 96 110;111 125	severe pain in left shoulder,
+T13	ADR 141 155	Muscle atrophy
+T7	ADR 212 215	gas
+T8	ADR 229 237	diarrhea
+T9	ADR 239 250	Memory loss
+T6	ADR 255 280	difficulty concentratiing
+T14	ADR 313 323	blind spot
+T10	Drug 369 376	Lipitor

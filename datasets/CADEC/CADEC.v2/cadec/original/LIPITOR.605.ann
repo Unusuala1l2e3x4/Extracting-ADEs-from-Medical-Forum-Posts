@@ -1,0 +1,8 @@
+T1	ADR 0 7	Malaise
+T2	ADR 9 19	exhaustion
+T3	ADR 21 39	severe muscle pain
+T4	ADR 41 58	severe depression
+T5	ADR 63 70	anxiety
+T6	Drug 323 330	Lipitor
+T7	ADR 341 350	depressed
+T8	ADR 360 382	thoughts about suicide

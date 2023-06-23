@@ -1,0 +1,6 @@
+T1	ADR 49 60	throat pain
+T2	ADR 125 141	esofogual uclers
+#1	AnnotatorNotes T2	oesophagea ulcers
+T3	ADR 148 169	couldn't eat or drink
+T4	ADR 238 254	can't eat normal
+T5	Symptom 267 271	sick

@@ -1,0 +1,18 @@
+T1	ADR 30 42	leg cramping
+T2	ADR 61 81;95 102	pain traveling to my stomach
+T3	ADR 61 81;82 90	pain traveling to my buddocks
+T17	ADR 116 120	pain
+T4	Drug 211 216	Advil
+T5	Drug 301 308	Lipitor
+T6	ADR 341 353	stomach pain
+T7	ADR 394 406	stomach pain
+T16	ADR 483 498	could not sleep
+T8	ADR 525 548	urinery tract infection
+T10	ADR 654 669	urge to urinate
+T11	Drug 927 934	Lipitor
+T12	ADR 973 985	stomach pain
+T13	ADR 989 996	urgency
+T14	ADR 1027 1041	lack of energy
+T18	Finding 1087 1093	stress
+T15	Drug 1150 1157	Lipitor
+T19	Drug 1237 1246	vitamin C

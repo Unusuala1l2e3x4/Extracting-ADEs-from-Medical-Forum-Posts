@@ -1,0 +1,23 @@
+T1	ADR 0 15	Aches and pains
+T2	ADR 17 39	breathing difficulties
+T3	ADR 41 54	panic attacks
+T4	ADR 56 85	stength and stamina destroyed
+T5	ADR 87 99	palpatations
+T6	ADR 101 128	strong tingling in one hand
+T7	ADR 135 144	tinititis
+T8	ADR 161 170	ear aches
+T9	Drug 248 255	zorloft
+T10	ADR 260 270	depression
+T11	ADR 275 282	anxiety
+T12	Drug 287 292	noten
+T13	ADR 297 315	heart palpatations
+T14	ADR 334 360	seriously upset my stomach
+T15	Drug 422 429	Lipitor
+T16	ADR 638 664	struggling walking too far
+T17	Drug 714 721	lipitor
+T18	Drug 755 762	lipitor
+T19	Drug 823 828	noten
+T20	Drug 833 840	zorloft
+T21	Drug 866 870	VitC
+T22	Drug 872 877	CoQ10
+T23	Drug 882 889	omega 3

@@ -1,0 +1,13 @@
+T1	Drug 12 19	Lipitor
+T2	ADR 78 104	severe pain in my left arm
+T3	ADR 194 208	pain in my arm
+T4	Drug 297 304	Lipitor
+T5	ADR 356 360	pain
+T6	ADR 409 428	tingling in my arms
+T7	ADR 518 522	pain
+T8	ADR 548 565	lost all strength
+T9	ADR 570 589	couldn't use my arm
+T10	Drug 643 650	Lipitor
+T11	Finding 799 807	myopathy
+T12	Finding 809 821	liver damage
+T13	Finding 825 831	cancer

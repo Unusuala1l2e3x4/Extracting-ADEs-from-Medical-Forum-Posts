@@ -1,0 +1,15 @@
+T10	Disease 0 12	Heart attack
+T1	Drug 95 102	Lipitor
+T2	Drug 109 114	Zocor
+T11	ADR 115 123	CRIPPLED
+T3	ADR 224 232	diarrhea
+T12	ADR 488 505	Could NOT HOLD IT
+T13	ADR 515 526	brown water
+T4	Drug 782 789	Lipitor
+T5	Drug 828 835	Lipitor
+T6	Drug 843 850	Crestor
+T14	ADR 860 866;872 876	muscle pain
+T7	ADR 860 866;867 871	muscle ache
+T15	Drug 891 896	ZOCOR
+T8	Drug 923 930	Lipitor
+T9	ADR 1011 1020	Diarrehea

@@ -1,0 +1,10 @@
+T1	ADR 9 23	cramps in legs
+T3	ADR 34 46;59 63	gas pains in back
+T2	ADR 34 46;47 54	gas pains in abdomen
+T4	Drug 199 206	Lipitor
+T6	ADR 532 541;567 571	gas pains back
+T7	ADR 532 541;542 559	gas pains around my abdomen
+T8	ADR 581 591	leg cramps
+T5	ADR 642 646	pain
+T9	Drug 805 812	Lipitor
+T10	Drug 996 1003	Crestor

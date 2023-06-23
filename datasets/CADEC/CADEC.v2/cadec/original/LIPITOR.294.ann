@@ -1,0 +1,11 @@
+T1	ADR 0 21	HORRIBLE muscle pains
+T2	ADR 23 43	horrible back spasms
+#1	AnnotatorNotes T2	muscle spasm
+T3	ADR 44 65	spasms in leg muscles
+#2	AnnotatorNotes T3	muscle spasm
+T4	ADR 67 73	nausea
+T5	ADR 75 83	vomiting
+T6	ADR 85 89	pain
+T7	ADR 130 141	chest pains
+T8	Drug 286 293	lipitor
+T9	ADR 104 128	could hardly walk or sit

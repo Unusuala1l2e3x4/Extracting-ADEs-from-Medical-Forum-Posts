@@ -1,0 +1,7 @@
+T1	ADR 29 39	joint pain
+T2	ADR 66 73	fatigue
+#1	AnnotatorNotes T2	muscle fatigue
+T3	Drug 212 219	lipitor
+T4	Drug 384 391	lipitor
+T5	ADR 406 410	pain
+T6	Drug 732 739	lipitor

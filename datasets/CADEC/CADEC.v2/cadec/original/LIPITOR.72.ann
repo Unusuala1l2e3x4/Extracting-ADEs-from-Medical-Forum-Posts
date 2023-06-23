@@ -1,0 +1,17 @@
+T1	ADR 0 10	Depression
+T2	ADR 12 20	bursitis
+T3	Drug 55 70	cortisone shots
+T4	ADR 76 85	toes hurt
+T5	ADR 106 124	MEMORY LOSS-severe
+T6	ADR 126 135	dizzyness
+T7	ADR 137 145	in a FOG
+T8	ADR 146 166	bottoms of feet hurt
+T9	ADR 168 190	felt like shin splints
+T10	ADR 191 199	tingling
+T11	ADR 383 389	tingle
+T12	Disease 413 425	nerve damage
+T13	ADR 597 607	Depression
+T14	Drug 651 658	LIPITOR
+T15	ADR 689 701	MMDepression
+T16	ADR 1322 1326	pain
+T17	ADR 1413 1426	muscle issues

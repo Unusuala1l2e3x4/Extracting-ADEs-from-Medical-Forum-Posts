@@ -1,0 +1,10 @@
+T1	ADR 0 14	Rhabdomyolysis
+T2	ADR 16 25	CPK spike
+T3	ADR 59 88	extreme pain in thigh muscles
+T4	ADR 105 127	not being able to walk
+T6	Finding 179 185;195 203	kidney problems
+T5	Finding 189 194;195 203	liver problems
+T7	ADR 238 242	pain
+T8	ADR 284 291;307 312	muscles stiff
+T9	ADR 284 291;317 330	muscles slightly sore
+T10	Drug 373 380	Lipitor

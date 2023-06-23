@@ -1,0 +1,6 @@
+T1	ADR 0 13	Upset stomach
+T2	ADR 49 57	throw up
+T3	ADR 145 163	deep constant pain
+T4	ADR 63 81	pain in my stomach
+T5	ADR 182 237	I may need to go to the restroom, but when I do I can't
+#1	AnnotatorNotes T5	Increased urinary urgency with hesitancy

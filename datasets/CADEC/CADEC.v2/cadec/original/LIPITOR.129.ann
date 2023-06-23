@@ -1,0 +1,11 @@
+T1	ADR 0 7	fatigue
+T2	ADR 9 19	depression
+#1	AnnotatorNotes T2	depression
+T3	ADR 35 46	joint pains
+T4	ADR 63 82	dysfunctional bowel
+#2	AnnotatorNotes T4	non specific changes to bowel motions
+T5	ADR 84 96	muscle aches
+#3	AnnotatorNotes T5	myalgia
+T6	ADR 98 107	no energy
+T7	Finding 151 179	block the mevalonate pathway
+T8	Drug 348 357	ubiquinol

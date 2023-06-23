@@ -1,0 +1,9 @@
+T1	ADR 0 21	Weakness in both legs
+T2	ADR 23 31	hip pain
+T3	ADR 33 42	knee pain
+T4	ADR 44 48;59 63	feet pain
+T5	ADR 53 58;59 63	ankle pain
+T6	ADR 65 80	Lower back pain
+T7	ADR 82 128	Muscle weakness from the pevis down to my toes
+T8	Drug 243 250	Lipitor
+T9	ADR 328 341	aches in legs

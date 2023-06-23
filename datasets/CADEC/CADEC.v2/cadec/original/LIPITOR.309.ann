@@ -1,0 +1,7 @@
+T1	ADR 0 6;17 22	muscle pains
+T2	ADR 11 16;17 22	joint pains
+T3	ADR 147 151	pain
+T4	ADR 253 258	pains
+T5	Drug 276 283	Lipitor
+T6	ADR 357 374	could barely walk
+T7	ADR 420 424	pain

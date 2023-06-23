@@ -1,0 +1,11 @@
+T1	ADR 0 12	blurr vision
+T2	ADR 14 27	slurpy speach
+T3	ADR 29 41	mussle spasm
+T4	ADR 74 83	tiredness
+T5	ADR 85 95	head aches
+T6	ADR 97 108	memory loss
+T7	ADR 110 122	thining hair
+T8	ADR 124 132	tingling
+T11	ADR 137 147;164 168	pinches in skin
+T10	ADR 137 147;148 159	pinches in the fingers
+T9	Drug 207 213	Liptor

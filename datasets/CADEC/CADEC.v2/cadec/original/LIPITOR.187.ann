@@ -1,0 +1,35 @@
+T1	ADR 7 17	Chest pain
+T2	ADR 27 35	weakness
+#1	AnnotatorNotes T2	weakness
+T3	ADR 37 47	depression
+#2	AnnotatorNotes T3	depression
+T4	ADR 49 56	anxiety
+#3	AnnotatorNotes T4	anxiety
+T5	ADR 76 84	insomnia
+#4	AnnotatorNotes T5	insomnia
+T6	ADR 86 93	fatigue
+T7	ADR 95 110	memory problems
+#5	AnnotatorNotes T7	amnesia
+T8	ADR 112 136	inability to concentrate
+#6	AnnotatorNotes T8	difficulty concentrating
+T9	Drug 174 181	Lipitor
+T10	Drug 367 374	Lipitor
+T12	Disease 454 456	MS
+#7	AnnotatorNotes T12	multiple sclerosis
+T13	Disease 457 462	Lupus
+#8	AnnotatorNotes T13	systemic lupus erythematous
+T14	Disease 463 475	Fibromyalgia
+#9	AnnotatorNotes T14	fibromyalgia
+T15	Drug 637 644	Lipitor
+T16	ADR 785 795	chest pain
+T17	ADR 891 898	fatigue
+T18	ADR 900 907	anxiety
+#10	AnnotatorNotes T18	anxiety
+T19	ADR 909 915	memory
+#11	AnnotatorNotes T19	amnesia
+T20	ADR 920 928	insomnia
+#12	AnnotatorNotes T20	insomnia
+T21	Disease 1137 1147	depression
+T23	ADR 274 286	feeling weak
+T24	ADR 331 335	weak
+T11	Drug 553 560	Lipitor

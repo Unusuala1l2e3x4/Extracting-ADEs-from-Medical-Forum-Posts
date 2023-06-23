@@ -1,0 +1,23 @@
+T2	ADR 229 233	numb
+#2	AnnotatorNotes T2	anaesthesia
+T3	ADR 251 255	weak
+#3	AnnotatorNotes T3	weakness
+T4	ADR 257 266	back pain
+T5	ADR 271 282	calves hurt
+T6	ADR 347 351	pain
+T7	ADR 401 408	painful
+T8	ADR 413 417	weak
+#4	AnnotatorNotes T8	weakness
+T9	Drug 640 647	lipitor
+T10	Drug 718 725	lipitor
+T11	Drug 1316 1323	lipitor
+T12	ADR 862 915	special feeling that all males experience in my organ
+#5	AnnotatorNotes T12	impotence
+T13	ADR 922 941	decreased sex drive
+#6	AnnotatorNotes T13	decreased libido
+T14	Finding 995 1009	male menopause
+T15	ADR 107 117	leg cramps
+T1	ADR 181 208	could barely stand and walk
+T16	Disease 1225 1227	MS
+T17	ADR 1245 1252	swaying
+T18	ADR 1280 1293	dragging legs

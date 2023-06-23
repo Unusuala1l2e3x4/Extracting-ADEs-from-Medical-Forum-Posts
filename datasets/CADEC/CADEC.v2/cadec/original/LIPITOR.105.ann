@@ -1,0 +1,13 @@
+T1	ADR 0 8	Numbness
+T2	ADR 33 39	cramps
+#1	AnnotatorNotes T2	myalgias
+T3	ADR 41 53	eyes running
+#2	AnnotatorNotes T3	epiphora
+T4	ADR 55 60	itchy
+T5	ADR 65 71	watery
+#3	AnnotatorNotes T5	epiphora... referring to eyes watering
+T6	ADR 116 123	itching
+T7	ADR 104 114	Depression
+T8	ADR 96 102	crying
+#4	AnnotatorNotes T8	epiphora or depression related. unclear
+T9	Drug 267 283	omega 3 fish oil

@@ -1,0 +1,11 @@
+T1	ADR 74 85	muscle pain
+#1	AnnotatorNotes T1	myalgia
+T2	ADR 90 113	restlessness in my legs
+#2	AnnotatorNotes T2	restless legs
+T3	ADR 220 239	Constant sleepiness
+T4	Drug 353 360	Lipitor
+T6	ADR 162 204	hot/cold fever-like sensations in the skin
+T7	ADR 213 218	fever
+T8	Disease 267 291	chronic fatigue syndrome
+T9	Disease 296 317	restless leg syndrome
+T10	Finding 657 678	cognitive impairments

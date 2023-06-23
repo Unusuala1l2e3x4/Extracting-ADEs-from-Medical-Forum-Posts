@@ -1,0 +1,12 @@
+T1	ADR 7 15	headache
+T2	ADR 17 28	muscle ache
+T3	ADR 30 38	diarrhea
+T4	ADR 40 51	indigestion
+T5	ADR 53 67	abdominal pain
+T6	ADR 69 78	back pain
+T7	ADR 80 100	eyesight has changed
+T8	ADR 101 115	sinus problems
+T9	ADR 117 127	joint pain
+T10	ADR 129 139	leg cramps
+T11	Disease 148 160	fibromyalgia
+T12	ADR 173 177	pain

@@ -1,0 +1,12 @@
+T1	ADR 63 80	flu like symptoms
+T2	ADR 86 94	headache
+T3	ADR 52 61	dizziness
+T4	ADR 36 50	charlie horses
+T5	ADR 124 135;164 172	Blood sugar elevated
+T6	ADR 140 154;164 172	blood pressure elevated
+T7	ADR 197 205	leg pain
+T8	ADR 209 215	spasms
+T9	ADR 224 232	headache
+T10	ADR 237 257	elevated blood sugar
+T11	ADR 265 275	Feel shaky
+T12	Drug 281 288	Lipitor

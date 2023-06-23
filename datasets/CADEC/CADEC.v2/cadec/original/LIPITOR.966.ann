@@ -1,0 +1,11 @@
+T1	ADR 0 9	leg pains
+T2	ADR 10 21	balance off
+T3	ADR 22 31;33 38	back pain Lower
+T4	ADR 22 31;43 48	back pain upper
+T5	ADR 50 73	finger pins and needles
+T6	ADR 74 85	brain vague
+T7	ADR 87 99	stomach pain
+T8	ADR 101 113	palpitations
+T9	ADR 118 147	feeling desperately miserable
+T10	ADR 226 229;239 243	leg pain
+T11	ADR 234 238;239 243	back pain

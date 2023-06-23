@@ -1,0 +1,9 @@
+T1	ADR 6 14	diarrhea
+T2	ADR 36 50	uterine cramps
+#1	AnnotatorNotes T2	Pubic region pain
+T3	ADR 63 87	heavy menstrual bleeding
+T4	ADR 115 126	Alot of gas
+T5	ADR 131 137	nausea
+T6	Symptom 160 164	pain
+T7	ADR 184 188	pain
+T8	Symptom 231 235	pain

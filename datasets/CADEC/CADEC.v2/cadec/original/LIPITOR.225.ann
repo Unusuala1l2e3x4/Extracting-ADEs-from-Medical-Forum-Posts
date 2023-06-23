@@ -1,0 +1,12 @@
+T1	ADR 34 48	stomach cramps
+T2	ADR 53 65	loose stools
+T3	ADR 79 87	bloating
+#1	AnnotatorNotes T3	bloating
+T4	ADR 92 99	fatigue
+T5	ADR 74 77	Gas
+#2	AnnotatorNotes T5	nonspecific eructation or flatus
+T6	Drug 324 331	Lipitor
+T7	ADR 132 156	Couldn't exercise or eat
+#3	AnnotatorNotes T7	decreased appetite
+T8	ADR 110 130	Just wanted to sleep
+T9	Disease 362 370	diabetes

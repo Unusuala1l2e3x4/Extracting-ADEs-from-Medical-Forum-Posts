@@ -1,0 +1,17 @@
+T1	Drug 26 33	Lipitor
+T2	ADR 88 105	Extreme headaches
+T3	ADR 107 123	severe neck pain
+T4	ADR 125 132	fatigue
+T6	ADR 134 138;151 157	sore joints
+T5	ADR 134 138;139 146	sore muscles
+T7	ADR 159 165	fevers
+T8	ADR 167 173	chills
+T9	ADR 175 183	sweating
+T10	ADR 185 195	dark urine
+T11	ADR 197 214	flu like symptoms
+T12	ADR 216 238	swelling of right knee
+T13	ADR 240 249	irritable
+T14	ADR 256 287	wanted to sleep all of the time
+T15	Drug 398 405	lipitor
+T16	Drug 473 480	lipitor
+T17	Disease 601 612	sore throat

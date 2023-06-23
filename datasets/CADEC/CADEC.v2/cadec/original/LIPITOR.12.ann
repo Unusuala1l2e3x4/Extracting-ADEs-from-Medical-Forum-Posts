@@ -1,0 +1,23 @@
+T1	ADR 0 10	Body aches
+T2	ADR 12 22	joint pain
+T3	ADR 24 42	decreased mobility
+T4	ADR 44 53;54 66	decreased testosterone
+T5	ADR 44 53;71 77	decreased libido
+T6	ADR 79 123	difficulty getting out of bed in the morning
+T7	ADR 125 133;144 149	tingling hands
+T8	ADR 138 143;144 149	itchy hands
+T9	ADR 154 182	decrease in overall strength
+T10	Drug 203 210	lipitor
+T11	ADR 371 401	strength decrease dramatically
+T12	Drug 419 431	testosterone
+T13	Drug 467 474	Lipitor
+T14	Finding 513 517;518 526	torn miniscus
+T15	Finding 513 517;531 534	torn ACL
+#1	AnnotatorNotes T15	Anterior cruciate ligament?
+T16	Drug 550 562	testosterone
+T17	Drug 821 828	Lipitor
+T18	Drug 931 938	Lipitor
+T19	Drug 1028 1037	vitimin c
+T20	Drug 1010 1018	Fish oil
+T21	Drug 1020 1026	niacin
+#2	AnnotatorNotes T21	nicotinic acid

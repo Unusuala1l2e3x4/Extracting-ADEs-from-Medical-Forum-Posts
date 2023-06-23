@@ -1,0 +1,12 @@
+T1	ADR 8 24	chronic backache
+T2	Disease 158 167	arthritis
+T3	Drug 376 383	Lipitor
+T4	ADR 436 460	severe muscle back cramp
+T5	ADR 603 623	severe muscle spasms
+T6	ADR 651 657	spasms
+T7	Finding 790 795	cramp
+T8	Finding 799 804	spasm
+T9	ADR 842 852	back aches
+T10	Drug 954 961	Lipitor
+T11	Drug 980 987	Lipitor
+#1	AnnotatorNotes T1	It is a suspected ADR, as it becomes clear later in the post.

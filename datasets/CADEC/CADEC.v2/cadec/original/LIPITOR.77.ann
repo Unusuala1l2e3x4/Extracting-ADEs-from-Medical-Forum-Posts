@@ -1,0 +1,14 @@
+T2	ADR 35 53	severe muscle aces
+T3	ADR 55 62	headace
+T4	ADR 64 87	collapades in the floor
+T5	ADR 228 236	blisters
+T6	ADR 306 314	blisters
+T7	ADR 366 371	bleed
+T8	Drug 431 438	lipitor
+T9	ADR 495 506	muscle aces
+T10	ADR 508 519	memory loss
+T11	ADR 679 694	severe headaces
+T12	ADR 806 832	forget things all the time
+T13	Drug 1040 1047	lipitor
+T14	ADR 27 33	direar
+#1	AnnotatorNotes T14	Diarrhea

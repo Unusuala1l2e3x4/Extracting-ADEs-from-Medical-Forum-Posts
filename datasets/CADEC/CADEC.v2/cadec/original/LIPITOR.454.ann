@@ -1,0 +1,8 @@
+T1	ADR 9 24	lightheadedness
+T2	ADR 26 42	Numbness in toes
+T3	ADR 44 60	Severe back pain
+T6	ADR 62 66;87 91	Neck pain
+T5	ADR 68 76;87 91	shoulder pain
+T4	ADR 81 86;87 91	elbow pain
+T7	ADR 93 105	Absentminded
+T8	Drug 241 248	lipitor

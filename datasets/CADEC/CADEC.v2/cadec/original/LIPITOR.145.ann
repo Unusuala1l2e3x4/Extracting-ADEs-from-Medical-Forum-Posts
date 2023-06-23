@@ -1,0 +1,7 @@
+T1	ADR 14 24	depression
+#1	AnnotatorNotes T1	depression
+T2	Drug 38 45	lipitor
+T3	Drug 93 100	lipitor
+T4	ADR 105 115	depression
+#2	AnnotatorNotes T4	depression
+T5	Drug 150 157	lipitor

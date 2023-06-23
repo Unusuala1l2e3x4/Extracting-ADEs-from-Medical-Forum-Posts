@@ -1,0 +1,19 @@
+TT1	45326000 | Shoulder pain | 0 8;29 33	Shoulder pain
+TT2	30989003 | Knee pain | 10 14;29 33	knee pain
+TT3	74323005 | Pain in elbow | 16 21;29 33	elbow pain
+TT4	386807006 | Memory impairment | 35 45	Memory fog
+TT5	48694002 | Anxiety | 47 54	Anxiety
+TT6	8357008 | Reduced libido | 56 66	Low Libido
+TT7	21343011000036103 | atorvastatin | 68 88	Atorvastatin generic
+TT8	419723007 | Mentally dull | 102 111	brain fog
+TT9	57676002 | Arthralgia | 207 217	joint pain
+TT10	53458011000036102 | Aleve | 327 333	alleve
+TT11	128139000 | Inflammatory disorder | 348 359	inflamation
+TT12	22253000 | Pain | 364 368	pain
+TT13	45326000 | Shoulder pain | 387 394;405 413	pain in shoulder
+TT14	74323005 | Pain in elbow | 387 394;415 420	pain in elbow
+TT15	30989003 | Knee pain | 387 394;426 430	pain in knee
+TT16	45326000 | Shoulder pain | 609 642	left shoulder is terribly painful
+TT19	124054003 | Increased cholesterol esters | 759 775	high cholesterol
+TT17	CONCEPT_LESS 844 852	crippled
+TT18	271873000 | Senility | 856 862	senile

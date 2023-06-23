@@ -1,0 +1,12 @@
+T1	Drug 34 41	Lipitor
+T2	Disease 118 128	Neuropathy
+T3	ADR 137 149	Burning feet
+T4	Disease 188 196	Diabetes
+T5	Drug 323 332	Capsacian
+T6	ADR 387 402	Frozen Shoulder
+T7	ADR 432 436	pain
+T8	ADR 461 469;480 487	shoulder painful
+T9	ADR 502 525	could not raise my arms
+T10	ADR 789 802	shoulder pain
+T11	Drug 828 835	Lipitor
+T12	ADR 920 931	Memory Loss

@@ -1,0 +1,16 @@
+T1	ADR 7 11	Pain
+T2	ADR 13 17	Pain
+T3	ADR 19 23	Pain
+T12	ADR 40 47;62 69	pain in muscles
+T4	ADR 40 47;48 57	pain in my joints
+T5	ADR 71 80	Hair loss
+T6	ADR 82 90	insomnia
+T7	ADR 92 100	tinnitus
+T8	ADR 102 111	dysphagia
+T13	Disease 143 145	MS
+T11	ADR 147 156	Feet hurt
+T9	Drug 256 263	Lipitor
+T14	Finding 283 287	coma
+T10	Drug 334 341	Lipitor
+T15	Drug 373 378	Zocor
+T16	Drug 402 407	Zocor

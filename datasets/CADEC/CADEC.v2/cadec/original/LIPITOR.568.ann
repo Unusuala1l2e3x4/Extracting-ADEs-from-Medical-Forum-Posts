@@ -1,0 +1,18 @@
+T1	ADR 0 19	Extremely dry mouth
+T2	ADR 21 39	severe joint aches
+T3	ADR 41 68	muscle cramps in lower legs
+T5	ADR 70 87;94 99	sever swelling of hands
+T6	ADR 70 87;104 110	sever swelling of ankles
+T4	ADR 70 87;88 92	sever swelling of feet
+T7	ADR 112 132	difficulty breathing
+T8	ADR 134 139	tired
+T9	ADR 141 152	memory loss
+T10	ADR 154 169	mild depression
+T11	ADR 171 190	diminished eyesight
+T12	ADR 360 373	forgetfulness
+T13	ADR 396 410	memory failure
+T14	Drug 460 467	Lipitor
+T15	ADR 525 533	swelling
+T16	ADR 559 571	muscle aches
+T17	ADR 576 586	joint pain
+T18	ADR 600 611	memory loss

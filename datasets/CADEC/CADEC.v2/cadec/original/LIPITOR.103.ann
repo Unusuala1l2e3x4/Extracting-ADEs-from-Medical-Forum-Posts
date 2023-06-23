@@ -1,0 +1,13 @@
+T1	ADR 0 12	Muscle aches
+#1	AnnotatorNotes T1	myalgia
+T2	ADR 37 43	Memory
+#2	AnnotatorNotes T2	amnesia
+T3	ADR 45 62	learning problems
+T4	ADR 64 73	brain fog
+#3	AnnotatorNotes T4	sedation
+T5	ADR 75 85	depression
+#4	AnnotatorNotes T5	depression
+T6	ADR 95 102	fatigue
+T7	ADR 116 120	pain
+T9	Disease 23 35	fibromyalgia
+T10	ADR 424 436	extreme pain

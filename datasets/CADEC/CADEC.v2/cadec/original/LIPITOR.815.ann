@@ -1,0 +1,13 @@
+T1	ADR 0 11	Weight gain
+T2	ADR 13 33	extreme muscle aches
+T3	ADR 38 45	fatigue
+T4	ADR 59 71	constipation
+T5	ADR 76 84	diarrhea
+T6	ADR 100 116	asthma flare-ups
+T7	ADR 118 126	insomnia
+T8	ADR 128 140	weird dreams
+T9	ADR 182 189	so weak
+T10	ADR 194 228	ached all over, especially in legs
+T11	Drug 345 352	Lipitor
+T12	Drug 474 481	LIPITOR
+T13	Drug 517 524	Lipitor

@@ -1,0 +1,11 @@
+T1	ADR 0 13	iritated eyes
+#1	AnnotatorNotes T1	eye irritation
+T2	ADR 25 49	painful inflammed joints
+T3	ADR 71 84	muscle cramps
+#2	AnnotatorNotes T3	muscle spasm
+T4	ADR 86 94	numbness
+#3	AnnotatorNotes T4	anaesthesia
+T5	ADR 99 107	tingling
+T6	ADR 129 160	muscle spasams in face and neck
+#4	AnnotatorNotes T6	muscle spasm in face
+T7	ADR 54 69	painful to walk

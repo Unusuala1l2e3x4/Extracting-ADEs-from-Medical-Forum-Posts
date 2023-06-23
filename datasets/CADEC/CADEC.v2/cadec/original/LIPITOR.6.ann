@@ -1,0 +1,19 @@
+T1	Drug 87 94	Lipitor
+T2	ADR 109 131	pain in the lower legs
+T3	ADR 184 207	muscles were very stiff
+T4	Drug 267 274	Lipitor
+T5	ADR 285 289	pain
+T6	ADR 333 337	pain
+T7	ADR 440 458;459 487	severe pain in the muscles in the shoulder area
+T8	ADR 440 458;489 499	severe pain in the upper back
+T9	ADR 440 458;504 508	severe pain in the neck
+T10	ADR 514 518;539 543	pain neck
+T11	ADR 523 532;539 543	stiffness neck
+T12	Finding 662 668	stress
+T13	Drug 786 793	Lipitor
+T14	ADR 838 842;866 870	pain neck
+T15	ADR 847 856;866 870	stiffness neck
+T16	ADR 875 886;887 895	pain in the shoulder
+T17	ADR 875 886;900 904	pain in the back
+T18	Drug 964 971	Lipitor
+T19	Drug 1000 1007	Lipitor

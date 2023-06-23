@@ -1,0 +1,10 @@
+T1	Drug 15 22	Lipitor
+T3	ADR 63 93;100 104	debilitating muscle pain in my legs
+T4	ADR 63 93;109 113	debilitating muscle pain in my back
+T2	ADR 63 93;94 98	debilitating muscle pain in my arms
+T6	ADR 148 169;179 183	severe cramping in my back
+T5	ADR 148 169;170 174	severe cramping in my legs
+T7	Drug 433 440	Lipitor
+T8	Drug 469 476	Niaspan
+T9	Drug 544 553	vitamin C
+T10	Drug 820 829	vitamin C

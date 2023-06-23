@@ -1,0 +1,7 @@
+T1	ADR 18 31	muscle cramps
+#1	AnnotatorNotes T1	muscle spasm
+T2	ADR 36 44	numbness
+#2	AnnotatorNotes T2	anaestesia
+T4	Drug 227 234	Lipitor
+T6	ADR 71 99	difficulty walking up stairs
+T7	ADR 104 127	swollen feet and ankles

@@ -1,0 +1,11 @@
+T1	ADR 10 13	gas
+#1	AnnotatorNotes T1	nonspecific eructation, flatus, bloating
+T2	ADR 55 63	painfull
+T3	ADR 65 72	Diarhea
+T4	ADR 74 82	headache
+T5	ADR 84 92	backache
+#2	AnnotatorNotes T5	back pain
+T6	ADR 94 104	runny nose
+#3	AnnotatorNotes T6	rhinorroea
+T7	ADR 265 268	gas
+T8	ADR 273 278	bloat

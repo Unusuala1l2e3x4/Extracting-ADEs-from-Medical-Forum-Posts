@@ -1,0 +1,7 @@
+T2	ADR 74 88;95 99	severe pain in hips
+T6	ADR 74 88;101 105	severe pain in legs
+T7	ADR 74 88;111 115	severe pain in feet
+T1	ADR 74 88;89 93	severe pain in back
+T3	ADR 117 140	Unable to walk or stand
+T4	Drug 218 225	Lipitor
+T5	Drug 304 311	Lipitor

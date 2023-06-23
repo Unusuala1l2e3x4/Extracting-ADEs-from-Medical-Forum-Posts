@@ -1,0 +1,11 @@
+T1	ADR 9 19	bit drowsy
+#1	AnnotatorNotes T1	Drowsy
+T2	ADR 29 50	little blurred vision
+#2	AnnotatorNotes T2	Blurred Vision
+T3	Drug 93 102	Arthrotec
+T5	Disease 179 188	arthritis
+T6	Symptom 260 265	agony
+T4	ADR 62 78	gastric problems
+T7	Symptom 412 417	pains
+T8	ADR 437 453	feel a bit weird
+#8	AnnotatorNotes T7	Implies a previous symptom of pain.

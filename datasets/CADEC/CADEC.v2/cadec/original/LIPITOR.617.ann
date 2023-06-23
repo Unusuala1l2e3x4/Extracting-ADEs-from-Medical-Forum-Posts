@@ -1,0 +1,12 @@
+T1	ADR 37 54;55 59	terrible pains in knee
+T2	ADR 37 54;61 66	terrible pains in ankle
+T3	ADR 37 54;68 75	terrible pains in big toe
+T4	ADR 105 116;77 85;86 90	comfortably Couldn't walk
+T5	ADR 105 116;77 85;99 104	comfortably Couldn't sleep
+T6	Finding 134 138	gout
+T7	Finding 186 190	gout
+T8	Drug 275 282	Lipitor
+T9	ADR 386 390	pain
+T10	ADR 401 432;433 437	weird symptoms (eg. popping) in knee
+T11	ADR 401 432;446 460	weird symptoms (eg. popping) in big toe joints
+T12	ADR 401 432;439 444	weird symptoms (eg. popping) in ankle

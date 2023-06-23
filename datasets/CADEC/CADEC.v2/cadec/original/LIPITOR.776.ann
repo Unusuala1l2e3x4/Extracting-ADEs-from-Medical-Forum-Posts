@@ -1,0 +1,8 @@
+T2	ADR 0 9;20 24	Eczema on feet
+T1	ADR 0 9;10 15	Eczema on hands
+T3	ADR 26 50	rash on upper left torso
+T4	ADR 52 62	depression
+T5	ADR 116 126	depression
+T6	ADR 169 175	eczema
+T7	Drug 308 315	lipitor
+T8	Drug 380 387	lipitor

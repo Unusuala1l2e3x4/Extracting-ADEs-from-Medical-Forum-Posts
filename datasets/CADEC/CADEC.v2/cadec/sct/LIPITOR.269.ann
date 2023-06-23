@@ -1,0 +1,45 @@
+TT1	35489007 | Depression | 0 11	deppression
+TT2	13791008 | Asthenia | 13 21	weakness
+TT3	84229001 | Fatigue | 23 30	fatigue
+TT4	68962001 | Myalgia | 32 43	muscle pain
+TT5	271587009 | Stiffness | 48 57	stiffness
+TT6	44077006 | Numbness | 66 74	numbness
+TT7	62507009 | Pins and needles | 79 87	tingling
+TT8	162076009 | Excessive upper gastrointestinal gas | 103 106	gas
+TT9	248490000 | Bloating symptom | 108 116	bloating
+TT10	162031009 | Indigestion | 117 128	indegestion
+TT11	68235000 | Nasal congestion | 129 140	stuffy nose
+TT12	103281005 | Blocked ears | 141 153	plugged ears
+TT13	387603000 | Impairment of balance | + 281016006 | Incoordination | 153 187	,lack of balance and cooridination
+TT14	95570007 | Renal calculus | 188 200	kidney stone
+TT15	32398004 | Bronchitis | 201 211	bronchitis
+TT16	49727002 | Cough | 223 228	cough
+TT17	235999009 | Intra-abdominal haematoma | 230 248	abdominal hematoma
+TT36	444312002 | Haemorrhage of abdominal cavity structure | 254 320	bleeding in my abdomen after coughing and rupturing a blood vessel
+TT18	38013005 | Immunosuppression | 322 345	decreased immune system
+TT37	165509000 | White blood cell count abnormal | 347 359	elevated wbc
+TT19	288939007 | Difficulty swallowing | 362 380	trouble swallowing
+TT20	50219008 | Hoarse | 381 393	hoarse voice
+TT21	29857009 | Chest pain | 394 404	chest pain
+TT22	267036007 | Dyspnoea | 405 424	shortness of breath
+TT24	36955009 | Loss of taste | 425 443;454 459	decreased sense of taste
+TT23	83156004 | Sense of smell impaired | 425 443;444 449	decreased sense of smell
+TT25	80182007 | Irregular menstruation | 460 477	irregular periods
+TT26	19155002 | Dysfunctional uterine bleeding | 478 503	abnormal uterine bleeding
+TT27	131053002 | Decreased progesterone level | 506 539	decreased progesterone production
+TT38	39575007 | Urine looks dark | 540 550	dark urine
+TT28	80967001 | Dental caries | 551 562	tooth decay
+TT29	48694002 | Anxiety | 563 570	anxiety
+TT30	271737000 | Anaemia | 571 577	anemia
+TT31	161891005 | Backache | 578 587	back pain
+TT32	3877011000036101 | Lipitor | 750 757	lipitor
+TT34	CONCEPT_LESS 856 888	constant vibrating down left leg
+TT35	68962001 | Myalgia | 890 896;907 911	muscle pain
+TT33	57676002 | Arthralgia | 901 906;907 911	joint pain
+TT39	42399005 | Renal failure | 1153 1167	kidney failure
+TT41	CONCEPT_LESS 1192 1214	increase in infections
+TT40	85828009 | Autoimmune disease | 1216 1236	auto immune diseases
+TT42	68962001 | Myalgia | 1305 1316	muscle pain
+TT43	13791008 | Asthenia | 1321 1329	weakness
+TT44	228158008 | Walking disability | 1330 1345	trouble walking
+TT45	CONCEPT_LESS 1346 1364	increased bleeding

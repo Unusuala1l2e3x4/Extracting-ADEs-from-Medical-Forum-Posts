@@ -1,0 +1,15 @@
+T1	ADR 55 59;60 68	body swelling
+#1	AnnotatorNotes T1	Oedema
+T2	ADR 152 179	forgetfulnes and confussion
+#2	AnnotatorNotes T2	Psychological side effect of confusion
+T3	ADR 282 294	loose stools
+T4	Drug 397 406	Arthrotec
+T5	ADR 121 129	Insomina
+#3	AnnotatorNotes T5	Existing insomnia made worse
+T6	ADR 223 246	"empty stomach" feeling
+#4	AnnotatorNotes T6	Abdominal discomfort more than pain.
+T7	Drug 365 385	HA (Hyaluronic Acid)
+T8	ADR 60 68;70 74	swelling face
+T9	ADR 60 68;76 82	swelling wrists
+T10	ADR 60 68;84 91	swelling abdomen
+T11	ADR 60 68;93 99	swelling thighs

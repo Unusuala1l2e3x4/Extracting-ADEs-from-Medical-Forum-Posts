@@ -1,0 +1,12 @@
+T1	ADR 0 15	General fatigue
+T2	ADR 17 32	aches and pains
+T3	Finding 59 68	menopause
+T4	ADR 84 130	severe swolen/inflamation of the fingers/hands
+T5	ADR 135 145	wrist pain
+T6	ADR 166 188	geneal aches and pains
+T7	ADR 312 357	severe swolen/inflamation of the fingers/hand
+T8	ADR 360 370	wrist pain
+T9	Finding 436 445	arthritis
+T10	Finding 598 607	arthritis
+T11	Drug 675 682	Lipitor
+T12	Drug 763 770	Lipitor

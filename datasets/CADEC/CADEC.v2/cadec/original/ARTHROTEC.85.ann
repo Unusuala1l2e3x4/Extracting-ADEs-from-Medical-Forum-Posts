@@ -1,0 +1,12 @@
+T1	ADR 91 100	Dizziness
+#1	AnnotatorNotes T1	Vertigo
+T2	ADR 139 148	faintness
+T3	ADR 200 218	Major stomach pain
+T4	ADR 220 238	massive gas cramps
+#2	AnnotatorNotes T4	Flatulence and bloating
+T5	ADR 281 303	bathroom with the runs
+T7	ADR 153 167	disorientation
+T8	ADR 243 251	bloating
+T9	ADR 466 470	sick
+T6	Finding 328 340	heart attack
+T10	Finding 344 350	stroke

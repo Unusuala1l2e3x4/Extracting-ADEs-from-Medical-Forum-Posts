@@ -1,0 +1,13 @@
+T1	ADR 0 28	Hair loss (Diffuse Alopecia)
+T2	ADR 30 43	hair thinning
+T3	Finding 56 71	type 1 diabetes
+T4	Drug 264 283	Olmetec(olmesartan)
+T5	Drug 285 302	Istin(amlodipine)
+T6	Drug 307 328	Lipitor(atorvastatin)
+T7	Drug 343 350	Lipitor
+T8	ADR 354 382	hair has started falling out
+T9	ADR 408 416;436 468	thinning at the back and sides of my head
+T10	Drug 517 524	Lipitor
+T11	ADR 626 640	losing my hair
+T12	Finding 609 615	stress
+T13	Finding 695 711	high cholesterol

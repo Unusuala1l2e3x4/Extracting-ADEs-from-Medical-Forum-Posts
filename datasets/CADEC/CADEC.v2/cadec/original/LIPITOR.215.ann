@@ -1,0 +1,11 @@
+T1	ADR 0 17	zombie like tired
+T2	ADR 18 27	depressed
+#1	AnnotatorNotes T2	depression
+T5	ADR 114 127	blured vision
+#2	AnnotatorNotes T5	vision changes
+T6	ADR 129 141	no sex drive
+#3	AnnotatorNotes T6	decreased libido
+T7	ADR 142 161	decrease in balance
+T9	ADR 34 55	severe pain in calves
+T3	ADR 78 92	unable to walk
+T10	ADR 93 112	vertigo like attack

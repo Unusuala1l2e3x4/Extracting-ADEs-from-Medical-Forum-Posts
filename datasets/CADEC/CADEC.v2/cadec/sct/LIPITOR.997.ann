@@ -1,0 +1,19 @@
+TT1	57676002 | Arthralgia | 0 7;8 14	Pain in joints
+TT2	68962001 | Myalgia | 0 7;19 26	Pain in muscles
+TT3	30989003 | Knee pain | 0 7;38 43	Pain in knees
+TT4	247373008 | Ankle pain | 0 7;45 51	Pain in ankles
+TT5	47933007 | Foot pain | 0 7;52 56	Pain in feet
+TT6	45326000 | Shoulder pain | 0 7;63 72	Pain in shoulders
+TT7	74323005 | Pain in elbow | 0 7;77 83	Pain in elbows
+TT8	56608008 | Pain in wrist | 0 7;57 62	Pain in wrist
+TT9	165247006 | Unable to climb stairs | 85 124	Unable to even climb 1 flight of stairs
+TT10	8943002 | Weight gain | 126 137	Weight gain
+TT11	22253000 | Pain | 163 167	pain
+TT12	25064002 | Headache | 170 179	Headaches
+TT13	84229001 | Fatigue | 181 188	fatigue
+TT14	40917007 | Confusion | 190 199	confusion
+TT15	48167000 | Amnesia | 204 215	memory loss
+TT16	267052005 | Flatulence/wind | 217 235	Uncontrollable gas
+TT17	62315008 | Diarrhoea | 240 248	diarrhea
+TT18	21005005 | Burning epigastric pain | 262 283	burning in my stomach
+TT19	22253000 | Pain | 351 355	pain

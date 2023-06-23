@@ -1,0 +1,10 @@
+T1	ADR 0 16	Muscle tightness
+#1	AnnotatorNotes T1	muscle spasm?
+T2	ADR 18 37	lower back weakness
+#2	AnnotatorNotes T2	weakness or pain?
+T3	ADR 39 64	body stiffed during sleep
+#3	AnnotatorNotes T3	muscle spasm...  strange non specific
+T4	ADR 194 205	muscle pain
+#4	AnnotatorNotes T4	myalgia
+T5	ADR 167 189	general body stiffness
+#5	AnnotatorNotes T5	rigidity, increased tone?

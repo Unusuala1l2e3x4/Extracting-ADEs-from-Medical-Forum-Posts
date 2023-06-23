@@ -1,0 +1,11 @@
+T11	ADR 0 3;27 32	Jaw pains
+T10	ADR 4 8;27 32	neck pains
+T8	ADR 10 18;27 32	low back pains
+T1	ADR 23 26;27 32	hip pains
+T2	ADR 34 42	Numbness
+T3	ADR 43 51	tingling
+T4	Drug 90 97	Vytorin
+T5	Drug 103 112	Pravachol
+T6	Drug 169 176	Vytorin
+T7	Drug 182 191	pravachol
+T9	ADR 204 209	pains

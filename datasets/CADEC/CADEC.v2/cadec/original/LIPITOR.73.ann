@@ -1,0 +1,9 @@
+T1	Drug 22 29	Lipitor
+T3	ADR 92 100;107 111	pains in legs
+T4	ADR 92 100;113 118	pains in hands
+T2	ADR 92 100;101 105	pains in hips
+T5	ADR 123 127;132 149	Lost muscular strength
+T6	ADR 155 178	difficulties to swallow
+T8	ADR 180 193;207 213	problems with memory
+T7	ADR 180 193;194 202	problems with tinnitus
+T9	Drug 428 435	Lipitor

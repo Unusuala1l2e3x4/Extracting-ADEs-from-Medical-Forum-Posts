@@ -1,0 +1,9 @@
+T1	ADR 24 31	fatigue
+T2	Disease 50 61	sinus colds
+T3	ADR 68 81	pressure pain
+T4	ADR 133 142	cant walk
+T5	ADR 157 196	feeling like I am having a heart attack
+T6	ADR 198 204	Nausea
+T7	Drug 215 222	Lipitor
+T8	ADR 267 277	chest pain
+T9	ADR 336 340	pain

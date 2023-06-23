@@ -1,0 +1,17 @@
+T1	ADR 0 31	Severe muscle pain in shoulders
+T3	ADR 61 72;87 93	cramping in calves
+T4	ADR 61 72;98 108	cramping in hamstrings
+T2	ADR 61 72;73 85	cramping in back muscles
+T5	Finding 110 128	Severe muscle pain
+T6	ADR 175 190	losing strength
+T7	ADR 192 214	Difficulty with memory
+T8	ADR 264 277	shoulder pain
+T9	ADR 323 335	inflammation
+T10	Disease 355 372	torn rotator cuff
+T11	ADR 452 456	pain
+T12	ADR 520 537	severe back spasm
+T13	ADR 538 543	cramp
+T14	ADR 632 645	shoulder pain
+T15	Symptom 697 705	blockage
+T16	Drug 752 759	Crestor
+T17	Drug 763 768	Zocar

@@ -1,0 +1,11 @@
+T1	ADR 0 14	Severe myalgia
+T2	Drug 101 108	Lipitor
+T3	Finding 173 192	muscle inflammation
+T4	Finding 202 224	connective tissue pain
+T5	Disease 233 253	rheumatoid arthritis
+T6	Disease 257 269	fibromyalgia
+T7	Disease 384 404	rheumatoid arthritis
+T8	Drug 448 455	Lipitor
+T9	Drug 484 493	Pravochol
+T10	Drug 556 575	time-release naicin
+T11	Drug 581 589	fish oil

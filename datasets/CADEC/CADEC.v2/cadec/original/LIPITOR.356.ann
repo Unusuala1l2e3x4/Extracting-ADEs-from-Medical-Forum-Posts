@@ -1,0 +1,11 @@
+T1	Drug 15 22	Lipitor
+T2	Drug 172 179	Lipitor
+T3	ADR 199 204	dizzy
+T4	ADR 205 212	vertigo
+T5	ADR 213 237	un-balanced-type feeling
+T6	ADR 452 476	frequent bowel movements
+T7	ADR 490 505	arthritic knees
+T8	ADR 507 512;522 526	hands numb
+T9	ADR 507 512;531 539	hands tingling
+T10	ADR 587 617	arms are always falling asleep
+T11	Drug 691 698	Lipitor

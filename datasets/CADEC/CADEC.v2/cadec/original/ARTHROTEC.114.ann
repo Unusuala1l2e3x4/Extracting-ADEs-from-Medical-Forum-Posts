@@ -1,0 +1,6 @@
+T1	ADR 40 63	severe stomach cramping
+T2	ADR 241 260	high blood pressure
+T3	ADR 265 279	ankle swelling
+#1	AnnotatorNotes T3	Oedema
+T4	Drug 82 90	celebrex
+T5	ADR 140 152	stomach pain

@@ -1,0 +1,8 @@
+T1	ADR 0 18	Severe muscle pain
+T8	ADR 20 31;41 45	Severe knee pain
+T7	ADR 36 40;41 45	back pain
+T2	Drug 98 105	Lipitor
+T3	ADR 126 137	muscle pain
+T4	ADR 287 298	severe pain
+T5	Disease 381 393	heart attack
+T6	ADR 414 418	pain

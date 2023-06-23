@@ -1,0 +1,11 @@
+T1	ADR 34 45	memory loss
+T2	ADR 47 68	tremors in right hand
+T3	ADR 70 101	symptoms of parkinson's disease
+T4	Drug 109 116	lipitor
+T5	Disease 277 296	parkinson's disease
+T6	Disease 355 366	parkinson's
+T7	Drug 382 389	lipitor
+T8	Drug 424 431	lipitor
+T9	Disease 435 446	Parkinson's
+T10	Disease 563 574	Parkinson's
+T11	Drug 642 649	Lipitor

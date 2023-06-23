@@ -1,0 +1,5 @@
+T1	Symptom 26 34	swelling
+T2	ADR 110 120	little gas
+#1	AnnotatorNotes T2	flatulence
+T3	Symptom 199 207	swelling
+T4	Finding 350 370	extreme stomach pain

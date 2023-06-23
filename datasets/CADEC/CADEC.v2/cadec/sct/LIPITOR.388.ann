@@ -1,0 +1,19 @@
+TT1	68962001 | Myalgia | 28 40	muscle pains
+TT2	84229001 | Fatigue | 42 59	extreme tiredness
+TT3	55929007 | Feeling irritable | 61 73	irritability
+TT4	419581008 | Bizarre dreams | 75 87	weird dreams
+TT5	32914008 | Restless legs | 89 110	restless leg syndrome
+TT6	278040002 | Loss of hair | 112 121	hair loss
+TT7	277521002 | Loss of motivation | 123 141	lack of enthusiasm
+TT9	CONCEPT_LESS 185 193;199 202	elevated BUN
+TT10	166717003 | Serum creatinine raised | 185 193;204 214	elevated Creatinine
+TT11	127354003 | Increased albumin | 185 193;216 229	elevated urine albumin
+TT8	166584001 | C-reactive protein abnormal | 185 193;194 197	elevated CRP
+TT12	166892002 | Random blood sugar raised | 231 254	increased blood glucose
+TT13	386807006 | Memory impairment | 265 278	memory lapses
+TT14	262286000 | Weight increased | 283 300	belly weight gain
+TT15	77424011000036100 | ubidecarenone | 361 366	CoQ10
+TT16	88092000 | Muscle atrophy | 429 442	losing muscle
+TT19	56265001 | Heart disease | 641 646;666 672	heart damage
+TT18	90708001 | Kidney disease | 648 654;666 672	kidney damage
+TT17	129565002 | Myopathy | 659 665;666 672	muscle damage

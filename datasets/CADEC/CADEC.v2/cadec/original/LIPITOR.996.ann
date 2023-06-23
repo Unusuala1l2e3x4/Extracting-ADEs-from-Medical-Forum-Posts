@@ -1,0 +1,5 @@
+T1	ADR 0 17	unexplained cough
+T2	ADR 118 123	cough
+T3	ADR 178 183	cough
+T4	Drug 223 230	Lipitor
+T5	ADR 243 256	cough heavily

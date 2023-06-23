@@ -1,0 +1,12 @@
+T1	Drug 20 27	Lipitor
+T2	Disease 32 48	high cholesterol
+T3	Drug 368 375	Lipitor
+T6	ADR 187 216	stage 1 diastolic dysfunction
+T7	ADR 246 282	right ventricular was mildly dilated
+T8	ADR 295 311	elevated calcium
+T4	ADR 389 410	diastolic dysfunction
+T5	Disease 493 516	coronary artery disease
+T9	Disease 529 537	diabetic
+T10	Drug 629 636	Lipitor
+T11	Drug 677 684	Lipitor
+T12	ADR 685 710	altered my heart function

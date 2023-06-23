@@ -1,0 +1,26 @@
+T2	ADR 19 24;25 29	joint pain
+T3	ADR 31 46	extreme fatigue
+T5	ADR 66 77;78 82	tingling in feet
+T6	ADR 356 361;362 367	joint pains
+T8	Drug 384 391	Lipitor
+T9	ADR 437 441	pain
+T10	Drug 680 687	Lipitor
+T11	Drug 835 842	Lipitor
+T14	Drug 1172 1179	Lipitor
+T15	Drug 1212 1219	Lipitor
+T1	ADR 25 29;8 14	pain muscle
+T16	ADR 48 64	muscle stiffness
+T4	ADR 66 77;84 89	tingling in hands
+T17	ADR 103 107;66 77	legs tingling in
+T18	ADR 112 116;66 77	arms tingling in
+T19	ADR 126 143	inability to walk
+T20	ADR 182 230	contact pain where weight presses against things
+T7	ADR 345 351;362 367	muscle pains
+T21	ADR 877 890	couldn't walk
+T22	ADR 892 913	couldn't lift my arms
+T12	ADR 933 939;940 944	muscle pain
+T23	ADR 924 928;940 944	neck pain
+T13	ADR 955 962;963 975;976 986	pain in every tendon in my body
+T24	ADR 1005 1020;955 962	Achilles tendon pain in
+T25	ADR 1031 1054;955 962;963 975	on the back of the head pain in every tendon
+T26	Drug 1254 1265	coenzymeQ10

@@ -1,0 +1,19 @@
+T1	Drug 49 60	SIMVISTATIN
+T2	Drug 82 89	LIPITOR
+T3	Drug 125 130	LIPEX
+T4	Drug 140 151	SIMVISTATIN
+T5	ADR 257 269	pain in hips
+T6	ADR 270 315	cannot walk even a short distance due to pain
+T7	ADR 317 355	Legs felt like they had run a marathon
+T8	ADR 357 370	Deep bruising
+T10	ADR 408 421;429 433	Joint pain in hips
+T11	ADR 408 421;438 444	Joint pain in elbows
+T9	ADR 408 421;422 427	Joint pain in spine
+T12	ADR 446 456	Exhaustion
+T13	Drug 658 663	LIPEX
+T14	ADR 728 736	hip pain
+T15	ADR 761 783	felt like an old woman
+T16	Finding 904 924	bursitis in the hips
+T17	ADR 970 985	severe hip pain
+T18	ADR 990 1019	cannot walk more than 5 yards
+T19	Drug 1157 1164	BEZALIP

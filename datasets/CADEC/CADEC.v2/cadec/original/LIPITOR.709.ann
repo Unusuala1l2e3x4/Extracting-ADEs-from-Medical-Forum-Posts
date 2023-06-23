@@ -1,0 +1,6 @@
+T1	ADR 0 19	feelings of fatigue
+T2	ADR 20 26;37 41	muscle pain
+T3	ADR 31 36;37 41	joint pain
+T4	ADR 42 50	insomnia
+T5	ADR 106 110	pain
+T6	Drug 125 133	provacal

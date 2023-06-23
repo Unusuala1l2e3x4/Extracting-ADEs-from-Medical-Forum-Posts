@@ -1,0 +1,21 @@
+T1	ADR 0 12	Muscle aches
+T4	ADR 17 28;35 39	weakness in arms
+T5	ADR 17 28;41 50	weakness in shoulders
+T6	ADR 17 28;52 62	weakness in upper back
+T7	ADR 17 28;64 68	weakness in legs
+T2	ADR 17 28;29 33	weakness in neck
+T3	ADR 70 81	Severe pain
+T8	ADR 122 126	Pain
+T9	ADR 131 139	weakness
+T10	ADR 305 309	pain
+T11	ADR 315 350	ball of my left foot was so painful
+T12	Drug 470 477	Lipitor
+T13	Drug 564 571	Lipitor
+T14	ADR 583 586;596 611	CPK mildly elevated
+T15	Drug 801 808	Lipitor
+T16	Disease 898 920	statin induced myalgia
+T17	ADR 961 982	slightly elevated CPK
+T18	Drug 1079 1086	Lipitor
+T19	ADR 1167 1171	pain
+T20	ADR 1176 1184	weakness
+T21	ADR 1216 1220;1237 1244	toes painful

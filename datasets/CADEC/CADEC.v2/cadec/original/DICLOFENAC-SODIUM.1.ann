@@ -1,0 +1,7 @@
+T1	ADR 5 11	drowsy
+T2	ADR 16 21	tired
+T3	Symptom 29 33	pain
+T4	Drug 93 98	Aleve
+T6	Drug 232 237	Aleve
+T7	Drug 397 402	Aleve
+T5	Symptom 131 135	pain

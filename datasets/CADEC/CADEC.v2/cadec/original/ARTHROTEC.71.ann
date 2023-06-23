@@ -1,0 +1,7 @@
+T1	ADR 43 49;60 67;68 76	severe uterine cramping
+T2	ADR 100 118	heart palpitations
+#1	AnnotatorNotes T2	Palpitations
+T3	ADR 78 88	Cold sweat
+#2	AnnotatorNotes T3	signs of shock
+T4	ADR 43 49;50 55;68 76	severe colon cramping
+T5	ADR 90 98	fainting

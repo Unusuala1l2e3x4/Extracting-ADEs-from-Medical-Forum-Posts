@@ -1,0 +1,23 @@
+T1	Drug 10 17	lipitor
+T2	ADR 34 53	soreness of muscles
+#1	AnnotatorNotes T2	myalgia
+T3	ADR 98 102	pain
+T4	ADR 107 120	muscle cramps
+#2	AnnotatorNotes T4	muscle spasm
+T5	ADR 197 205	numbness
+#3	AnnotatorNotes T5	anaesthesia
+T6	ADR 220 228	tingling
+T7	ADR 297 305	fatiqued
+T8	ADR 306 326	buzzing in both ears
+#4	AnnotatorNotes T8	tinnitis
+T9	ADR 328 334	nausia
+T10	ADR 336 349	sleeplessness
+#5	AnnotatorNotes T10	insomnia
+T11	ADR 351 354	gas
+#6	AnnotatorNotes T11	nonspecific eructation?, flatus?, bloating?
+T17	ADR 359 369	dark urine
+T12	Disease 546 555	Arthritis
+T13	Disease 556 566	Tendonitis
+T14	Disease 567 575	Sciatica
+T15	Drug 649 656	Lipitor
+T16	Drug 661 667	Tricor

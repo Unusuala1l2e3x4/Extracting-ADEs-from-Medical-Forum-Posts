@@ -1,0 +1,17 @@
+T1	Drug 19 26	lipitor
+T2	ADR 206 217	Memory loss
+T3	ADR 219 229	joint pain
+T5	ADR 231 238;248 253	swollen hands
+T4	ADR 231 238;239 243	swollen feet
+T6	ADR 255 264	sore ribs
+T7	ADR 266 289	inability to sleep well
+T8	ADR 291 303	no sex drive
+T9	ADR 305 314	moodiness
+T10	ADR 316 328	always tired
+T11	ADR 330 344	lack of energy
+T12	ADR 346 366	increased heart rate
+T13	ADR 368 387	headaches every day
+T14	ADR 393 403	dry joints
+T15	Drug 621 629	lecithin
+T16	Drug 636 643	Omega 3
+T17	Drug 649 654	Vit C

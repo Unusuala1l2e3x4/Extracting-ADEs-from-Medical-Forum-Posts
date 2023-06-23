@@ -1,0 +1,22 @@
+T1	ADR 160 172	eye problems
+#1	AnnotatorNotes T1	nonspecific
+T2	ADR 186 190	rash
+T3	ADR 208 216	insomnia
+#2	AnnotatorNotes T3	insomnia
+T4	ADR 229 235	sweats
+#3	AnnotatorNotes T4	diaphoresis 
+T5	ADR 249 269	difficulty breathing
+T6	ADR 333 349	weight increased
+#4	AnnotatorNotes T6	weight gain
+T7	ADR 357 376	bloating of stomach
+#5	AnnotatorNotes T7	bloating
+T8	ADR 381 401	difficulty breathing
+T9	ADR 403 409	Rashes
+T10	ADR 436 455	Tightness of throat
+#6	AnnotatorNotes T10	nonspecific pain? swelling?
+T11	Drug 521 530	Pravachol
+T12	ADR 592 615	muscles have diminished
+#7	AnnotatorNotes T12	muscle wasting
+T13	ADR 664 673	aggitated
+T14	ADR 466 473	choking
+T15	ADR 678 692	easily excited

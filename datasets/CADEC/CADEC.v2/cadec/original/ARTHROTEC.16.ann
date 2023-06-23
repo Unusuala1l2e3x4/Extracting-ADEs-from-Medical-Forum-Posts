@@ -1,0 +1,20 @@
+T1	ADR 494 502	headache
+T2	Symptom 80 94	abdominal pain
+T3	Symptom 96 111	lower back pain
+T4	Drug 231 240	Arthrotec
+T5	Drug 568 577	Arthrotec
+T6	ADR 665 687	heavy vaginal bleeding
+T8	Symptom 73 78	agony
+T9	Symptom 200 204	pain
+T10	Symptom 632 636	pain
+T11	Drug 255 266	Paracetamol
+T12	Drug 341 350	Ibuprofen
+T13	Drug 416 425	Arthrotec
+T14	Drug 432 443	Paracetamol
+T15	Drug 517 526	Ibuprofen
+T16	Drug 952 963	Paracetamol
+T18	Symptom 132 142	labor pain
+T19	Symptom 294 298	pain
+T20	Symptom 867 879	serious pain
+T21	Symptom 888 912	bleeding from the vagina
+T7	Drug 1000 1014;1022 1033	Diclofenac and Misoprostol

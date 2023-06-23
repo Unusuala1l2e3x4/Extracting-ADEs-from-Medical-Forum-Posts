@@ -1,0 +1,7 @@
+T1	ADR 0 6;17 25;26 30	Muscle aches in arms
+T3	ADR 0 6;17 25;32 38	Muscle aches in elbows
+T4	ADR 0 6;17 25;44 50	Muscle aches in calves
+T5	ADR 11 16;17 25;32 38	joint aches in elbows
+T6	ADR 11 16;17 25;44 50	joint aches in calves
+T2	ADR 11 16;17 25;26 30	joint aches in arms
+T7	ADR 108 119	Lots of gas

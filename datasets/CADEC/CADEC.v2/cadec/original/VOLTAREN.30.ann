@@ -1,0 +1,12 @@
+T1	ADR 228 240	pruritus ani
+T2	ADR 7 23	vaginal bleeding
+T3	ADR 31 49	vaginal skin burns
+T4	ADR 94 105	breast pain
+T5	ADR 129 137	erithema
+T6	ADR 142 156	skin is so dry
+T7	ADR 194 202	sweating
+T8	ADR 353 361	diarrhea
+T9	Symptom 504 508	pain
+T10	ADR 526 542	vaginal bleeding
+T11	ADR 553 561	pruritus
+T12	Drug 611 621	diclofenac

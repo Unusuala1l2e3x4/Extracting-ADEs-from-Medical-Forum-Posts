@@ -1,0 +1,14 @@
+T1	ADR 233 239	nausea
+T2	ADR 34 50	stomach cramping
+T3	ADR 124 136	extreme pain
+T4	ADR 141 171	uterus starting to have spasms
+#1	AnnotatorNotes T4	Cramping pain
+T5	ADR 405 445	bleeding and I was on day 12 of my cycle
+T6	Symptom 526 535	back pain
+T7	ADR 574 598	uterus pain and cramping
+#2	AnnotatorNotes T7	Cramping pain
+T8	Drug 644 653	arthrotec
+T9	Finding 64 77	period cramps
+T10	ADR 186 220	worst pain I have ever experienced
+T11	ADR 249 253	pain
+T12	ADR 370 374	pain

@@ -1,0 +1,14 @@
+TT2	45326000 | Shoulder pain | 0 16;26 35	Terrible pain in shoulders
+TT1	49218002 | Hip pain | 0 16;17 21	Terrible pain in hips
+TT3	3877011000036101 | Lipitor | 50 57	Lipitor
+TT4	49218002 | Hip pain | 87 101	pain in my hip
+TT5	45326000 | Shoulder pain | 191 211	pain in my shoulders
+TT6	22253000 | Pain | 217 221;228 231	pain bad
+TT14	CONCEPT_LESS 279 314	extremely limits the use of my arms
+TT7	34840004 | Tendonitis | 423 433	tendonitis
+TT8	609410002 | Necrosis of anatomical site | 437 455	avascular necrosis
+TT9	22253000 | Pain | 581 585	pain
+TT13	22253000 | Pain | 763 767	pain
+TT10	22298006 | Myocardial infarction | 881 893	heart attack
+TT12	124054003 | Increased cholesterol esters | 899 915	high cholesteral
+TT11	22253000 | Pain | 1003 1007	pain

@@ -1,0 +1,11 @@
+T1	Drug 34 41	Lipitor
+T2	Drug 84 91	Lipitor
+T3	ADR 215 237	spasms in upper thighs
+T4	ADR 331 355	right knee is so painful
+T6	ADR 381 389;413 431	hurts to get out of a chair
+T7	ADR 381 389;433 445	hurts to go up stairs
+T5	ADR 381 389;390 411	hurts to get up in the morning
+T8	ADR 481 491;520 525	right foot hurts
+T9	ADR 558 578;579 595	bottom of my foot is extremely tender
+T10	ADR 579 595;606 612	extremely tender calves
+T11	Drug 618 625	Lipitor

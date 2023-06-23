@@ -1,0 +1,10 @@
+T3	ADR 0 4;22 26	Back pain
+T2	ADR 6 15;22 26	hip thigh pain
+T1	ADR 17 21;22 26	knee pain
+T4	ADR 56 67	Memory loss
+T5	ADR 95 106	memory loss
+T6	ADR 110 117	fatigue
+T7	ADR 145 149	pain
+T8	Drug 179 186	Lipitor
+T9	ADR 326 333	fatigue
+T10	ADR 335 347	muscle aches

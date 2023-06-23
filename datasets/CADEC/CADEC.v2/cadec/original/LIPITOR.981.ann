@@ -1,0 +1,10 @@
+T1	ADR 0 9	Dizziness
+T2	ADR 10 15	falls
+T3	ADR 16 27	poor memory
+T4	ADR 28 53	loss of fine motor skills
+T5	ADR 54 71	stiffness in legs
+T6	ADR 73 82	sore feet
+T7	ADR 99 104	falls
+T8	Drug 128 135	lipitor
+T9	ADR 235 261	Frontal Lobe abnormalities
+T10	Drug 288 295	Lipitor

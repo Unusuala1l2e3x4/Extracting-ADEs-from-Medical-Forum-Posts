@@ -1,0 +1,8 @@
+T1	ADR 37 45	Headache
+T2	ADR 24 35	Tight chest
+T3	ADR 8 22	tummy bloating
+T4	ADR 70 81	tummy pains
+T6	ADR 66 69	gas
+#2	AnnotatorNotes T6	nonspecific eructation or flatus or bloating 
+T7	ADR 47 58	Mood swings
+T5	ADR 82 94	cold shivers

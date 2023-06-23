@@ -1,0 +1,23 @@
+TT1	48167000 | Amnesia | 0 14	Loss of memory
+TT2	87486003 | Aphasia | 16 23	aphasia
+TT3	26079004 | Tremor | 25 31	tremor
+TT4	192085004 | Anger reaction | 33 46	violent anger
+TT5	271951008 | Crying associated with mood | 48 59	tearfulness
+TT6	193462001 | Insomnia | 61 69	insomnia
+TT7	26544005 | Muscle weakness | 71 86	muscle weakness
+TT8	424131007 | Easy bruising | 88 101	easy bruising
+TT9	12441001 | Epistaxis | 107 117	nosebleeds
+TT10	131148009 | Bleeding | 119 127;139 147	Bleeding problems
+TT11	125667009 | Contusion | 130 138;139 147	bruising problems
+TT12	193462001 | Insomnia | 200 208	Insomnia
+TT13	46206005 | Mood disorder | 233 246	Mood problems
+TT14	161156004 | Language difficulty | 248 265	language problems
+TT15	386807006 | Memory impairment | 271 286	memory problems
+TT16	26079004 | Tremor | 314 320	Tremor
+TT17	26079004 | Tremor | 410 416	tremor
+TT18	13791008 | Asthenia | 679 694	extreme fatigue
+TT19	68962001 | Myalgia | 699 710	muscle pain
+TT20	22298006 | Myocardial infarction | 850 864	heart attackes
+TT21	77436011000036106 | fish oil natural | 916 924	fish oil
+TT22	CONCEPT_LESS 934 951	flush-free niacin
+TT23	3877011000036101 | Lipitor | 1007 1014	Lipitor

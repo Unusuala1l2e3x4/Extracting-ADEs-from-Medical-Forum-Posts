@@ -1,0 +1,8 @@
+T1	ADR 0 7	Anxiety
+#1	AnnotatorNotes T1	This could mean chest pain/ dyspnoea/ anything
+T2	ADR 30 45	bleeding inside
+#2	AnnotatorNotes T2	Given the context this is most likely what the person is referring to
+T3	ADR 66 71	cramp
+T4	ADR 117 133	'scared' feeling
+#3	AnnotatorNotes T4	Anxiety related
+T5	Symptom 207 211	pain

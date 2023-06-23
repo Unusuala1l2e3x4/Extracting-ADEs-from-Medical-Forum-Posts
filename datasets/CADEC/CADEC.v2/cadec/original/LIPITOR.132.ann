@@ -1,0 +1,5 @@
+T1	ADR 37 48	muscle pain
+#1	AnnotatorNotes T1	myalgia
+T2	Drug 89 96	lipitor
+T3	ADR 143 154	muscle pain
+#2	AnnotatorNotes T3	myalgia

@@ -1,0 +1,9 @@
+T1	ADR 0 21	Severe abdominal pain
+T2	ADR 22 30	bloating
+#1	AnnotatorNotes T2	bloating
+T3	ADR 31 34	gas
+#2	AnnotatorNotes T3	flatulance
+T4	ADR 35 43	nauseous
+T5	ADR 53 59	hunger
+#3	AnnotatorNotes T5	hunger
+T7	ADR 133 154	stomach is still sore

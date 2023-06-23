@@ -1,0 +1,22 @@
+T1	ADR 32 40	fatigued
+T2	ADR 76 80	pain
+T3	ADR 109 118	lethargic
+T4	ADR 135 149	Blurred vision
+T5	ADR 210 220	joint pain
+T6	Disease 237 245	diabetic
+#1	AnnotatorNotes T6	diabetes
+T7	Disease 222 228	Bypass
+#2	AnnotatorNotes T7	ischemic heart disease
+T8	Drug 258 265	lipitor
+T9	Disease 437 445	diabetes
+T10	Drug 482 489	Lipitor
+T12	ADR 552 563	muscle pain
+#4	AnnotatorNotes T12	myalgia
+T13	ADR 565 580	bone/joint pain
+T14	Disease 859 867	High LDL
+#5	AnnotatorNotes T14	hypercholesterolaemia
+T15	Drug 848 855	Lipitor
+T18	ADR 508 526	lack of enthusiasm
+T19	ADR 528 550	short term memory loss
+T11	Disease 653 671	Metabolic syndrome
+T16	Drug 1104 1111	Lipitor

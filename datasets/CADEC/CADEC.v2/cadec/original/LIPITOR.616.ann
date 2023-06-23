@@ -1,0 +1,14 @@
+T1	ADR 0 10	depression
+T2	ADR 12 27	general malaise
+T3	ADR 29 35	nausea
+T4	ADR 37 47	taste loss
+T5	ADR 49 57	insomnia
+T6	ADR 59 68	hair loss
+T7	ADR 70 80	bronchitis
+T8	Finding 88 91	flu
+T9	ADR 143 157	abdominal pain
+T11	ADR 159 176;186 194	muscle spasmns in left arm
+T10	ADR 159 176;177 181	muscle spasmns in legs
+T12	ADR 196 205	back pain
+T13	ADR 209 213;221 231;232 251	felt like I had a veil over my head
+T14	ADR 209 213;221 231;256 271	felt like I had lead in my legs

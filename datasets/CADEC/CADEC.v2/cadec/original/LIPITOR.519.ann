@@ -1,0 +1,11 @@
+T1	Disease 13 25	heart attack
+T2	Drug 59 66	Lipitor
+T3	ADR 83 102	leg and feet cramps
+T4	ADR 230 249	feet and leg cramps
+T5	ADR 311 328	feet are cramping
+T6	ADR 380 384;393 397	back pain
+T7	ADR 389 392;393 397	hip pain
+T8	ADR 413 418	tired
+T9	ADR 423 432	depressed
+T10	ADR 494 498	pain
+T11	Drug 538 545	Lipitor

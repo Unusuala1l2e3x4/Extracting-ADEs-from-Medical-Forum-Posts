@@ -1,0 +1,31 @@
+TT1	25064002 | Headache | 0 9	headaches
+TT2	274676007 | Tingling of skin | 11 34	face and scalp tingling
+TT3	275921007 | Scalp itchy | 36 49	scalp itching
+TT4	CONCEPT_LESS 51 72	vibrating under scalp
+TT5	60862001 | Tinnitus | 74 82	tinnitus
+TT6	249966004 | Spasmodic movement | 84 99	twitching mouth
+TT7	193462001 | Insomnia | 101 109	insomnia
+TT8	419581008 | Bizarre dreams | 111 123	vivid dreams
+TT9	288939007 | Difficulty swallowing | 125 145	difficult swallowing
+TT10	249489001 | Choking | 146 153	choking
+TT11	421262002 | Tongue swelling | 155 169	swollen tongue
+TT12	48167000 | Amnesia | 170 181	memory loss
+TT13	40917007 | Confusion | 183 192	confusion
+TT14	271681002 | Stomach ache | 193 205	stomach pain
+TT15	47933007 | Foot pain | 212 221	foot pain
+TT16	73211009 | Diabetes mellitus | 247 255	diabetes
+TT17	56265001 | Heart disease | 257 270	heart disease
+TT18	38341003 | Hypertension | 272 291	high blood pressure
+TT19	439953004 | Elevated cholesterol/high density lipoprotein ratio | 296 325	high cholestrol/triglycerides
+TT20	3877011000036101 | Lipitor | 411 418	Lipitor
+TT21	3904011000036106 | Zocor | 446 451	Zocor
+TT22	3848011000036104 | Pravachol | 453 462	Provachol
+TT23	21930011000036101 | ezetimibe | 464 469	Zetia
+TT24	4031011000036106 | Crestor | 474 481	Crestor
+TT25	3877011000036101 | Lipitor | 483 490	Lipitor
+TT26	56265001 | Heart disease | 573 587	heart problems
+TT27	3877011000036101 | Lipitor | 626 633	Lipitor
+TT28	118930001 | Disorder of face | + 238922006 | Disorder of scalp | 714 737	face and scalp problems
+TT29	31681005 | Trigeminal neuralgia | 751 771	trigeminal neuralgia
+TT30	24700007 | Multiple sclerosis | 801 803	MS
+TT31	3877011000036101 | Lipitor | 843 850	Liptior

@@ -1,0 +1,23 @@
+T1	ADR 0 16	Severe back pain
+T2	ADR 18 37	muscle degenerating
+T3	ADR 39 54	can barely walk
+T4	ADR 56 71	extreme fatique
+T5	ADR 72 82	depression
+T6	ADR 83 114	major gastrointestinal problems
+T7	ADR 116 136	feel like an old man
+T8	ADR 138 143	Fever
+T9	ADR 145 151	sweats
+T10	ADR 153 159	chills
+T11	ADR 161 169	Insomnia
+T12	ADR 170 183	fitfull sleep
+T13	ADR 185 194	Neck pain
+T14	ADR 195 227	cracking sensations in my joints
+T15	ADR 233 239;252 256	joints hurt
+T16	ADR 244 251;252 256	muscles hurt
+T17	Finding 402 411	arthritis
+T18	Drug 468 473	Zocor
+T19	ADR 612 632	terrible muscle pain
+T20	Drug 676 683	Lipitor
+T21	Finding 717 724	malaria
+T22	Finding 728 733	lupus
+T23	Drug 1101 1108	Lipitor

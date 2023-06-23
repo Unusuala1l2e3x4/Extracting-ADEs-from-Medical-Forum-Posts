@@ -1,0 +1,10 @@
+T1	ADR 8 17	hair loss
+#1	AnnotatorNotes T1	alopecia
+T2	ADR 27 42	joint stiffness
+T3	ADR 91 109	heart palpitations
+#2	AnnotatorNotes T3	heart palpitations
+T4	ADR 117 127	depression
+#3	AnnotatorNotes T4	depression
+T5	ADR 155 162	itching
+T6	ADR 143 150	swollen
+#4	AnnotatorNotes T6	oedema

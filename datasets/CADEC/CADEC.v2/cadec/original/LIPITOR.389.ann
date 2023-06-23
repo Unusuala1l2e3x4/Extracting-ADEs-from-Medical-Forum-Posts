@@ -1,0 +1,20 @@
+T1	ADR 24 35	memory loss
+T2	ADR 37 46	hair loss
+T3	ADR 48 61	muscle spasms
+T4	ADR 84 107	odd blood sugar pattern
+T5	ADR 109 121	sciatic pain
+T6	Disease 135 143	sciatica
+T7	ADR 154 158;167 171	back pain
+T8	ADR 163 166;167 171	hip pain
+T9	ADR 181 204	loss of feeling in toes
+T10	ADR 206 215	dizziness
+T11	ADR 217 232	vision problems
+T12	ADR 234 251	extreme tiredness
+T13	ADR 253 269	lack of appetite
+T14	ADR 275 288	no enthusaism
+T15	ADR 528 541	muscle cramps
+T16	ADR 554 563	dizziness
+T17	Drug 572 583	lipoic acid
+T18	Drug 585 590	vit C
+T19	Drug 606 611	CoQ10
+T20	Disease 735 741	stroke

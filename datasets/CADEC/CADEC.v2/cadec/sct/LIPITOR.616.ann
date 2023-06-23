@@ -1,0 +1,14 @@
+TT1	35489007 | Depression | 0 10	depression
+TT2	162076009 | Excessive upper gastrointestinal gas | 12 27	general malaise
+TT3	422587007 | Nausea | 29 35	nausea
+TT4	36955009 | Loss of taste | 37 47	taste loss
+TT5	193462001 | Insomnia | 49 57	insomnia
+TT6	278040002 | Loss of hair | 59 68	hair loss
+TT7	32398004 | Bronchitis | 70 80	bronchitis
+TT8	6142004 | Influenza | 88 91	flu
+TT9	21522001 | Abdominal pain | 143 157	abdominal pain
+TT11	424647005 | Cramp in limb | 159 176;186 194	muscle spasmns in left arm
+TT10	449917004 | Cramp in lower limb | 159 176;177 181	muscle spasmns in legs
+TT12	161891005 | Backache | 196 205	back pain
+TT13	CONCEPT_LESS 209 213;221 231;232 251	felt like I had a veil over my head
+TT14	161873000 | Heavy legs | 209 213;221 231;256 271	felt like I had lead in my legs

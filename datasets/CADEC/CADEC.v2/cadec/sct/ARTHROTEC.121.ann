@@ -1,0 +1,9 @@
+TT1	404640003 | Dizziness | 0 8	dizzines
+TT2	62315008 | Diarrhoea | 9 16	dioreah
+TT3	51197009 | Stomach cramps | 17 31	stomach cramps
+TT4	62476001 | Disorientated | 32 46	disorientation
+TT7	397825006 | Gastric ulcer | 60 73;93 100	ulceration of stomach
+TT5	30811009 | Ulcer of oesophagus | 60 73;74 88	ulceration of the osophragus
+TT6	236620008 | Infective cystitis | 133 143;155 168	infections of the blader
+TT9	272022009 | C/O - feeling depressed | 385 392;407 416	feeling depressed
+TT8	84229001 | Fatigue | 385 392;393 401	feeling exausted

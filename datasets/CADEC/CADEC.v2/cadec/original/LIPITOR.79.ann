@@ -1,0 +1,14 @@
+T1	ADR 0 24	Severe B/L shoulder pain
+T2	ADR 34 42	weakness
+T3	ADR 44 51	malaise
+T4	ADR 64 75	memory loss
+T5	ADR 194 211	B/L shoulder pain
+T6	ADR 298 311	shoulder pain
+T7	Drug 402 409	Lipitor
+T8	Disease 415 419	pain
+T9	Drug 480 493	Steroid shots
+T10	ADR 524 528	pain
+T11	Symptom 622 640	slight linear tear
+T12	Drug 855 862	Lipitor
+T13	Drug 902 914	Sinivastatin
+T14	ADR 962 975	shoulder pain

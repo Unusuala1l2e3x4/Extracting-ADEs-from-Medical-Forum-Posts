@@ -1,0 +1,21 @@
+TT1	68962001 | Myalgia | 0 12	Muscle aches
+TT4	309774006 | Weakness of limb | 17 28;35 39	weakness in arms
+TT5	249940002 | Shoulder girdle weakness | 17 28;41 50	weakness in shoulders
+TT6	249938007 | Weakness of back | 17 28;52 62	weakness in upper back
+TT7	309774006 | Weakness of limb | 17 28;64 68	weakness in legs
+TT2	249931001 | Weakness of neck | 17 28;29 33	weakness in neck
+TT3	76948002 | Severe pain | 70 81	Severe pain
+TT8	22253000 | Pain | 122 126	Pain
+TT9	13791008 | Asthenia | 131 139	weakness
+TT10	22253000 | Pain | 305 309	pain
+TT11	47933007 | Foot pain | 315 350	ball of my left foot was so painful
+TT12	3877011000036101 | Lipitor | 470 477	Lipitor
+TT13	3877011000036101 | Lipitor | 564 571	Lipitor
+TT14	166717003 | Serum creatinine raised | 583 586;596 611	CPK mildly elevated
+TT15	3877011000036101 | Lipitor | 801 808	Lipitor
+TT16	CONCEPT_LESS 898 920	statin induced myalgia
+TT17	166717003 | Serum creatinine raised | 961 982	slightly elevated CPK
+TT18	3877011000036101 | Lipitor | 1079 1086	Lipitor
+TT19	22253000 | Pain | 1167 1171	pain
+TT20	13791008 | Asthenia | 1176 1184	weakness
+TT21	285365001 | Pain in toe | 1216 1220;1237 1244	toes painful

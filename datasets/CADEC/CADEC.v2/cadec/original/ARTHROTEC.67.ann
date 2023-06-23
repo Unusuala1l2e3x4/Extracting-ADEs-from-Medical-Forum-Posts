@@ -1,0 +1,7 @@
+T1	ADR 33 60	crankiness and irritability
+#1	AnnotatorNotes T1	Psychological symptoms
+T2	ADR 62 74	Increased BP
+#2	AnnotatorNotes T2	Hypertension
+T3	ADR 85 104	visual disturbances
+#3	AnnotatorNotes T3	Blurry vision
+T4	Symptom 115 119	pain

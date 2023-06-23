@@ -1,0 +1,12 @@
+T1	Drug 166 175	arthrotec
+T2	ADR 0 15	Disorentatation
+#1	AnnotatorNotes T2	Disorientation
+T3	ADR 16 32	trouble brathing
+T4	ADR 34 45	extreme hot
+#2	AnnotatorNotes T4	Pyrexia
+T5	ADR 47 67	redness and swelling
+T6	ADR 69 76	itching
+T7	ADR 84 99	abominal cramps
+T8	Symptom 190 199	knee pain
+T9	Drug 281 295	cortisone shot
+T10	Symptom 303 312	knee pain

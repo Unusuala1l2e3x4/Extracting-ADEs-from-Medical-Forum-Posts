@@ -1,0 +1,26 @@
+TT2	22253000 | Pain | 29 33	pain
+TT3	386033004 | Neuropathy | 35 45	Neuropathy
+TT1	22253000 | Pain | 64 68	pain
+TT6	248274002 | Lack of energy | 70 84	Loss of energy
+TT14	47004009 | Dysphonia | 86 96;110 118	Difficulty speaking
+TT15	247640008 | Unable to think clearly | 86 96;97 105	Difficulty thinking
+TT5	26677001 | Sleep pattern disturbance | 138 162	Disturbed sleep patterns
+TT4	267064002 | Urinary retention | 164 184	Difficulty urinating
+TT16	24184005 | Finding of increased blood pressure | 186 212	Increase in blood pressure
+TT7	248096004 | Lack of libido | 257 278	lack of sexual desire
+TT8	88092000 | Muscle atrophy | 280 296	Less muscle mass
+TT9	248274002 | Lack of energy | 382 398	Decreased energy
+TT10	214264003 | Lethargy | 403 420	constant lethargy
+TT26	13791008 | Asthenia | 506 518	debilitating
+TT11	3877011000036101 | Lipitor | 605 612	lipitor
+TT17	22298006 | Myocardial infarction | 630 642	heart attack
+TT18	77435011000036104 | ascorbic acid |  679 688	vitamin c
+TT19	77436011000036106 | fish oil natural | 690 707	fish oil capsules
+TT20	77424011000036100 | ubidecarenone | 709 716	CO Q 10
+TT21	CONCEPT_LESS 903 914	astaxanthan
+TT22	CONCEPT_LESS 916 919	MSM
+TT23	CONCEPT_LESS 921 938	alpha lipoid acid
+TT24	76000011000036107 | B Complex (Cenovis) | 940 954	vit. B complex
+TT25	CONCEPT_LESS 978 984	Niacin
+TT12	3877011000036101 | Lipitor | 1179 1186	Lipitor
+TT13	22253000 | Pain | 1238 1242	pain

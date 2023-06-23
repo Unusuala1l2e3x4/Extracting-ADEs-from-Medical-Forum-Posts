@@ -1,0 +1,22 @@
+TT1	25064002 | Headache | 0 8	headache
+TT2	29857009 | Chest pain | 10 19	chestpain
+TT3	698247007 | Cardiac arrhythmia | 21 30	arrythmia
+TT4	62315008 | Diarrhoea | 32 40	diarrhea
+TT5	367391008 | Malaise | 42 50	malaisse
+TT6	55533009 | Forgetful | 52 65	forgetfulness
+TT7	40917007 | Confusion | 67 76	confusion
+TT8	161891005 | Backache | 78 87	back pain
+TT9	61599003 | Phlebitis | 126 135	phlebitis
+TT11	248493003 | Distention of blood vessel | 154 183	vein in my one leg is bulging
+TT10	CONCEPT_LESS 188 198	veins hurt
+TT12	449917004 | Cramp in lower limb | 200 217	severe leg cramps
+TT13	309537005 | Numbness of lower limb | 219 246	numbness in ankles and toes
+TT14	4216011000036104 | Norvasc | 418 425	norvasc
+TT15	3877011000036101 | Lipitor | 498 505	lipitor
+TT16	CONCEPT_LESS 586 591	vioxx
+TT17	61599003 | Phlebitis | 727 736	phlebitis
+TT18	21930011000036101 | ezetimibe | 939 944	zetia
+TT19	3877011000036101 | Lipitor | 1014 1021	lipitor
+TT20	21930011000036101 | ezetimibe | 1034 1039	zetia
+TT21	23924001 | Tight chest | 1048 1063	chest tightness
+TT22	25064002 | Headache | 1065 1073	headache

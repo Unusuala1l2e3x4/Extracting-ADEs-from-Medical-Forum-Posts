@@ -1,0 +1,29 @@
+T1	Drug 7 14	Lipitor
+T2	ADR 63 90	chronic and acute back pain
+T3	ADR 251 261	leg cramps
+T4	Drug 278 284	Baycol
+T5	Drug 286 292	Baycol
+T6	Drug 344 351	Lipitor
+T7	ADR 448 452;461 467	Hand cramps
+T8	ADR 457 460;461 467	leg cramps
+T9	Finding 497 519	carpal tunnel syndrome
+T11	ADR 625 643;661 667	inflammation of my joints
+T10	ADR 625 643;644 656	inflammation of my foot muscles
+T12	ADR 685 718	plantar fasciitis of my left foot
+T13	Drug 742 748	Motrin
+T14	ADR 761 774	foot problems
+T16	ADR 789 811;818 824	General weakness in my calves
+T17	ADR 789 811;830 835	General weakness in my hands
+T15	ADR 789 811;812 816	General weakness in my feet
+T18	ADR 840 848;861 884	tingling in the soles of my feet
+T19	ADR 853 860;861 884	burning in the soles of my feet
+T20	ADR 886 896	Depression
+T21	Drug 983 990	Lipitor
+T29	Finding 998 1014	high cholesterol
+T22	Drug 1045 1052	Lipitor
+T23	Finding 1231 1244	heart disease
+T24	Drug 1465 1472	Lipitor
+T25	ADR 1858 1876	difficulty walking
+T26	ADR 1881 1905	problems with my balance
+T27	Drug 1996 2003	Lipitor
+T28	Drug 2132 2139	Lipitor

@@ -1,0 +1,11 @@
+TT1	300954003 | Pain in calf | + 78514002 | Thigh pain | 51 81	pain in both calves and thighs
+TT5	444899003 | Pain in forearm | 114 121;134 142	Pain in forearms
+TT6	45326000 | Shoulder pain | 114 121;152 160	Pain in shoulder
+TT2	279039007 | Low back pain | 114 121;122 132	Pain in lower back
+TT7	CONCEPT_LESS 186 189	PAD
+TT9	228158008 | Walking disability | 193 201;218 222	couldn't walk
+TT8	282180007 | Unable to walk up step | 193 201;202 214	couldn't climb stairs
+TT10	84229001 | Fatigue | 254 286	needed to rest every few minutes
+TT11	124054003 | Increased cholesterol esters | 306 322	high cholesterol
+TT3	3877011000036101 | Lipitor | 361 368	Lipitor
+TT4	22253000 | Pain | 471 475	pain

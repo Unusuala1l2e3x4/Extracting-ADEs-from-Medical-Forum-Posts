@@ -1,0 +1,13 @@
+TT1	68962001 | Myalgia | 0 16	Mild muscle pain
+TT2	90673000 | Burning sensation | 21 28	burning
+TT3	21417011000036105 | fenofibrate | 79 85	Tricor
+TT4	3877011000036101 | Lipitor | 121 128	Lipitor
+TT5	21417011000036105 | fenofibrate | 215 221	Tricor
+TT6	21417011000036105 | fenofibrate | 398 404	tricor
+TT7	21417011000036105 | fenofibrate | 436 442	tricor
+TT8	76948002 | Severe pain | + 68962001 | Myalgia | 560 578	severe muscle pain
+TT9	90673000 | Burning sensation | 580 587	burning
+TT10	55300003 | Muscle cramp | 589 595	cramps
+TT11	60119000 | Exhaustion | 597 607	exhaustion
+TT12	422587007 | Nausea | 609 620	mild nausea
+TT13	60032008 | Unable to concentrate | 622 646	inability to concentrate

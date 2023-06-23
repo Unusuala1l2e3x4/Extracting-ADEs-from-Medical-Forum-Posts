@@ -1,0 +1,15 @@
+T1	ADR 0 10	Joint pain
+T3	ADR 12 16;30 34	back pain
+T2	ADR 21 29;30 34	shoulder pain
+T4	ADR 36 44	arm pain
+T5	ADR 46 54	numbness
+T6	ADR 59 80	tingling in the hands
+T8	ADR 82 90;101 107	Edema of ankles
+T7	ADR 82 90;91 96	Edema of hands
+T9	ADR 109 123	Blurred vision
+T10	ADR 128 139	memory loss
+T11	ADR 141 174	Arthritic type pain in all joints
+T13	ADR 178 190;224 238	could barely walk up stairs
+T12	ADR 178 190;191 220	could barely get out of bed in the morning
+T14	ADR 246 255	depressed
+T15	Drug 349 356	Lipitor

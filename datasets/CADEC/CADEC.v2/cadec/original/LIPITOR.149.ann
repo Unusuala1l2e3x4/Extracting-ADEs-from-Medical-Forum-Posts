@@ -1,0 +1,12 @@
+T1	ADR 36 40	pain
+T2	ADR 75 84	headaches
+T4	ADR 261 270	headaches
+T5	ADR 275 289	stomache aches
+T6	ADR 390 397	anxiety
+#1	AnnotatorNotes T6	anxiety
+T7	Drug 458 465	lipitor
+T8	Drug 530 537	Lipitor
+T9	ADR 114 126	servere pain
+T3	ADR 306 321	extremely tired
+T10	ADR 214 218	pain
+T11	ADR 345 360	unable to sleep

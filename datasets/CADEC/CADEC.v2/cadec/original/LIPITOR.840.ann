@@ -1,0 +1,22 @@
+T1	ADR 0 11	Muscle pain
+T3	ADR 13 37;52 57	Severe joint pain in the knees
+T2	ADR 13 37;38 47	Severe joint pain in the shoulders
+T4	ADR 59 63;77 82;83 88	Pain in my hands
+T6	ADR 59 63;77 82;93 103	Pain in my lower legs
+T7	ADR 68 76;77 82;93 103	cramping in my lower legs
+T5	ADR 68 76;77 82;83 88	cramping in my hands
+T9	ADR 105 126;143 147	Numbness in all of my toes
+T8	ADR 105 126;127 138	Numbness in all of my finger tips
+T10	ADR 149 182	Wake up on and off all night long
+T11	ADR 190 210	numbness in my hands
+T12	ADR 215 232	pain in shoulders
+T13	Drug 278 285	lipitor
+T14	ADR 307 318	muscle pain
+T15	ADR 379 413	shoulders are still very messed up
+T16	ADR 420 442	constint shoulder pain
+T17	ADR 487 493;503 511	finger numbness
+T18	ADR 498 502;503 511	hand numbness
+T19	ADR 573 578	pains
+T20	Drug 622 629	lipitor
+T21	Drug 701 708	lipitor
+T22	Drug 806 813	lipitor

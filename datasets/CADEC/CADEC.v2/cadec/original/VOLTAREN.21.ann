@@ -1,0 +1,8 @@
+T1	Drug 509 516	aspirin
+T2	Drug 9 17	Voltaren
+T3	Symptom 57 66	infection
+T4	ADR 152 170	pain in my stomach
+T5	ADR 232 242;249 257	sharp pain shoulder
+T6	Drug 346 354	MORPHINE
+T7	Disease 403 418	acute gastritis
+T8	Drug 386 394	Voltaren

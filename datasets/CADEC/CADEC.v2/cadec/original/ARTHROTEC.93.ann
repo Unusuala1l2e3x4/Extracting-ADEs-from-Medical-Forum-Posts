@@ -1,0 +1,8 @@
+T1	ADR 10 31	heavy menstral cycles
+#1	AnnotatorNotes T1	Menorrhagia, excessive menstrual bleeding in time 
+T2	ADR 33 40	fatigue
+T3	ADR 42 54	slow healing
+#2	AnnotatorNotes T3	Abnormal wound healing
+T4	Symptom 188 192	pain
+T5	Symptom 84 93	headaches
+T6	ADR 57 65	clotting

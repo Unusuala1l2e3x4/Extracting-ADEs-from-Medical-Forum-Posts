@@ -1,0 +1,6 @@
+T1	ADR 135 150	SEVERE diarrhea
+T2	Disease 30 40	heel spurs
+T3	ADR 123 130	bad gas
+#1	AnnotatorNotes T3	Excessive Flatulence
+T4	ADR 162 176	stomach cramps
+T5	ADR 181 187	nausea

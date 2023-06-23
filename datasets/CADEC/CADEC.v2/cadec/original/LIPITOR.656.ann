@@ -1,0 +1,12 @@
+T1	Drug 24 31	Lipitor
+T2	ADR 75 81;97 105	speech problems
+T3	ADR 86 96;97 105	swallowing problems
+T5	ADR 202 208;229 235	speech so bad
+T6	ADR 213 223;229 235	swallowing so bad
+T4	Drug 255 262	Lipitor
+T7	Finding 323 326	ALS
+T8	Drug 502 509	Lipitor
+T9	ADR 523 541	affected my memory
+T10	Drug 595 602	Lipitor
+T11	ADR 620 626;642 650	speech problems
+T12	ADR 631 641;642 650	swallowing problems

@@ -1,0 +1,14 @@
+T1	ADR 0 7	fatigue
+T2	ADR 22 44	high sleep requirement
+#1	AnnotatorNotes T2	somnolescence
+T3	ADR 54 85	loss of support in calf musells
+#2	AnnotatorNotes T3	weakness
+T6	Drug 257 264	lipitor
+T7	ADR 335 342	fatique
+T10	ADR 432 439	vertigo
+T11	ADR 45 49	pain
+T12	ADR 87 101	unable to walk
+T4	ADR 102 122	vertigo like attacks
+T5	ADR 146 167	loss of any sex drive
+T8	ADR 343 359	leg support weak
+T13	ADR 385 400	mussel weakness

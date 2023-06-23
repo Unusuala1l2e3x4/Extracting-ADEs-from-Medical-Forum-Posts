@@ -1,0 +1,11 @@
+TT1	55145008 | Stabbing pain |+ 279038004 | Thoracic back pain | 0 37	Stabbing pain between shoulder blades
+TT2	CONCEPT_LESS 39 58	I am 52 and feel 82
+TT3	248274002 | Lack of energy | 60 69	no energy
+TT4	398152000 | Poor muscle tone | 71 92	muscle tone depletion
+TT5	26544005 | Muscle weakness | 94 112	strength depletion
+TT6	309537005 | Numbness of lower limb | 114 155	numbness in upper legs from knee to thigh
+TT7	47933007 | Foot pain | 157 161;175 187	pain in left foot
+TT8	309538000 | Numbness of foot | 166 174;175 187	numbness in left foot
+TT9	CONCEPT_LESS 189 232	left foot larger than right now by one size
+TT10	47933007 | Foot pain | 234 246	pain in feet
+TT11	4031011000036106 | Crestor | 656 663	Crestor

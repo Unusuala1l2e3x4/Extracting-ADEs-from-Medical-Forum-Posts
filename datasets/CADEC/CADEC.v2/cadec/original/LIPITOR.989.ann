@@ -1,0 +1,14 @@
+T1	ADR 0 15	Severe leg pain
+T2	ADR 20 28	weakness
+T3	ADR 30 46;47 51	muscle cramps in legs
+T4	ADR 30 46;53 57	muscle cramps in feet
+T5	ADR 30 46;59 63	muscle cramps in arms
+T6	ADR 30 46;65 69	muscle cramps in ribs
+T7	ADR 30 46;71 75	muscle cramps in face
+T8	Drug 185 192	Lipitor
+T9	ADR 259 274	muscle problems
+T10	ADR 345 356;376 383	severe pain muscles
+T11	ADR 361 372;376 383	weakness in muscles
+T12	ADR 345 356;400 404	severe pain legs
+T13	ADR 361 372;400 404	weakness in legs
+T14	ADR 408 450	can barely make it up one flight of stairs

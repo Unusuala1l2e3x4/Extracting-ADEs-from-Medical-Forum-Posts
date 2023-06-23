@@ -1,0 +1,21 @@
+T1	Symptom 6 13	anxiety
+#1	AnnotatorNotes T1	anxiety
+T2	ADR 18 26	paranoia
+#2	AnnotatorNotes T2	paranoia
+T3	Drug 258 265	Norvasc
+T4	Drug 75 82	Norvasc
+T5	Drug 473 480	Lipitor
+T6	ADR 331 338	anxiety
+T7	ADR 343 351	paranoia
+T8	Drug 669 676	Lipitor
+T13	Drug 922 929	Lipitor
+T9	Drug 550 557	Norvasc
+T10	Drug 566 577	amlodiphine
+T11	Drug 155 162	Norvasc
+T12	Drug 186 192	Diovan
+T14	Symptom 87 101	blood pressure
+T15	ADR 596 607	psychiatric
+T16	Drug 830 833	Q10
+T17	Drug 835 844	Omega III
+T18	Drug 846 854	Nosterol
+T19	Drug 859 876	Vitamin E (200IU)

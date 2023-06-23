@@ -1,0 +1,18 @@
+T1	ADR 7 23	vaginal bleeding
+T2	ADR 31 49	vaginal skin burns
+T3	ADR 94 105	breast pain
+T4	ADR 129 137	erithema
+T5	ADR 142 156	skin is so dry
+#1	AnnotatorNotes T5	skin dryness
+T6	ADR 194 208	sweating a lot
+#2	AnnotatorNotes T6	diaphoresis
+T7	ADR 228 236	pruritus
+T8	ADR 353 361	diarrhea
+T9	Symptom 504 508	pain
+T10	ADR 526 542	vaginal bleeding
+T11	ADR 553 561	pruritus
+T12	ADR 569 585	skin was all red
+T13	Drug 611 620	arthrotec
+T14	Drug 869 878	Arthrotec
+T15	ADR 60 74	cycle was back
+T16	ADR 171 187	cuts on my hands

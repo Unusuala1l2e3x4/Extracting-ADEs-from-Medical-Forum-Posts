@@ -1,0 +1,11 @@
+TT1	300888008 | Swelling of body region | 55 59;60 68	body swelling
+TT8	278528006 | Facial swelling | 60 68;70 74	swelling face
+TT9	298941006 | Swelling of wrist joint | 60 68;76 82	swelling wrists
+TT10	60728008 | Abdominal swelling | 60 68;84 91	swelling abdomen
+TT11	449614009 | Swelling of lower limb | 60 68;93 99	swelling thighs
+TT5	193462001 | Insomnia | 121 129	Insomina
+TT2	55533009 | Forgetful | + 40917007|Confusion| 152 179	forgetfulnes and confussion
+TT6	225014007 | Feeling empty | 223 246	"empty stomach" feeling
+TT3	398032003 | Loose stool | 282 294	loose stools
+TT7	CONCEPT_LESS 365 385	HA (Hyaluronic Acid)
+TT4	3384011000036100 | Arthrotec | 397 406	Arthrotec

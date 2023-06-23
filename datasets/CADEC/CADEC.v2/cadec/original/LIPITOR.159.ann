@@ -1,0 +1,10 @@
+T1	Drug 13 20	Lipitor
+T2	ADR 109 117	fatigued
+T3	ADR 170 174	pain
+T4	ADR 200 204	sore
+T5	ADR 282 289	painful
+T6	ADR 397 403	tingly
+T7	ADR 425 437	constipation
+#1	AnnotatorNotes T7	constipation
+T8	ADR 469 476	painful
+T9	ADR 293 309	can hardly sleep

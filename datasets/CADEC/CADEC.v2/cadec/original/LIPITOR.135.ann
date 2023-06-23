@@ -1,0 +1,13 @@
+T1	ADR 0 8	headache
+T2	ADR 10 13	gas
+T3	ADR 15 23	bloating
+T4	ADR 25 36	mood swings
+T5	ADR 38 49	ill feeling
+T6	ADR 51 59	paranoid
+T7	ADR 61 68	anxious
+T8	Disease 84 109	cholesterol was very high
+T9	Drug 128 135	Lipitor
+T11	ADR 196 205;211 216	Could not sleep
+T10	ADR 196 205;206 209	Could not eat
+T12	ADR 226 231	gassy
+T13	ADR 239 252	belly blew up

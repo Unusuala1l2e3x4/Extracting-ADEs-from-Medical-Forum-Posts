@@ -1,0 +1,11 @@
+T1	ADR 0 3;18 22	Hip pain
+T2	ADR 5 8;18 22	leg pain
+T3	ADR 9 17;18 22	shoulder pain
+T4	ADR 34 38	limp
+T5	ADR 53 62	Stiffness
+T6	ADR 93 108	Extreme fatigue
+T7	ADR 110 120	Depression
+T8	ADR 122 141	Difficulty sleeping
+T9	Drug 272 279	Lipitor
+T10	ADR 325 329	pain
+T11	ADR 334 343	stiffness

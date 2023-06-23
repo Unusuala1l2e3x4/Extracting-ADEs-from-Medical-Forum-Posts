@@ -1,0 +1,10 @@
+T1	ADR 0 15	Muscle weakness
+T2	ADR 16 37	lack of concentration
+T3	ADR 38 48	joint pain
+T4	ADR 49 72	abnormal liver function
+T5	ADR 88 102	skin condition
+T7	ADR 186 196;214 219	fingertips scaly
+T6	ADR 186 196;197 206	fingertips got puffy
+T8	ADR 243 265	skin began to come off
+T9	Drug 357 364	lipitor
+T10	Drug 449 456	lipitor

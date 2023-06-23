@@ -1,0 +1,7 @@
+TT1	102551008 | Cramp in foot | 0 21	Severe cramps in toes
+TT2	47933007 | Foot pain | 23 32	Feet sore
+TT3	62507009 | Pins and needles | 45 53;63 79	Tingling in toes and feet
+TT4	285365001 | Pain in toe |+ 47933007 | Foot pain | 58 62;63 79	pain in toes and feet
+TT5	297142003 | Foot swelling | 81 93	Swollen feet
+TT6	193462001 | Insomnia | 95 103	Insomnia
+TT7	14760008 | Constipation | 105 117	Constipation

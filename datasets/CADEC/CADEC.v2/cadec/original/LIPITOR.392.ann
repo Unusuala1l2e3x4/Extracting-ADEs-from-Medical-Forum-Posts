@@ -1,0 +1,9 @@
+T1	ADR 0 22	Severe lower back pain
+T2	Drug 40 47	Lipitor
+T4	ADR 65 73;92 96	couldn't walk
+T3	ADR 65 73;74 88	couldn't get out of bed
+T5	ADR 164 171;181 184	pain in leg
+T6	ADR 226 238	hard to walk
+T7	Disease 275 278	flu
+T8	ADR 376 385	back pain
+T9	Disease 436 439	flu

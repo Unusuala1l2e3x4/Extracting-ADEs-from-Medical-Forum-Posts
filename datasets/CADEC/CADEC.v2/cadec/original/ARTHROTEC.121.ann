@@ -1,0 +1,9 @@
+T1	ADR 0 8	dizzines
+T2	ADR 9 16	dioreah
+T3	ADR 17 31	stomach cramps
+T4	ADR 32 46	disorientation
+T7	ADR 60 73;93 100	ulceration of stomach
+T5	ADR 60 73;74 88	ulceration of the osophragus
+T6	Finding 133 143;155 168	infections of the blader
+T9	ADR 385 392;407 416	feeling depressed
+T8	ADR 385 392;393 401	feeling exausted

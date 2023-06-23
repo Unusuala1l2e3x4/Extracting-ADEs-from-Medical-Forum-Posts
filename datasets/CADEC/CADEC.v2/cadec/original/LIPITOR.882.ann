@@ -1,0 +1,7 @@
+T1	ADR 44 53	weak legs
+T2	ADR 55 61;71 79	muscle soreness
+T3	ADR 66 70;71 79	back soreness
+T4	ADR 81 93	ears ringing
+T5	ADR 95 103	feel bad
+T6	Drug 308 313	Zocor
+T7	Drug 345 352	Lipitor

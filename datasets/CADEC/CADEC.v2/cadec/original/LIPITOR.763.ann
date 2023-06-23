@@ -1,0 +1,8 @@
+T1	ADR 56 59;71 75	hip pain
+T2	ADR 60 64;71 75	knee pain
+T3	ADR 65 70;71 75	ankle pain
+T4	ADR 81 90	back pain
+T5	Drug 105 112	Lipitor
+T6	ADR 146 150	pain
+T7	Drug 190 197	Lipitor
+T8	ADR 260 264	pain

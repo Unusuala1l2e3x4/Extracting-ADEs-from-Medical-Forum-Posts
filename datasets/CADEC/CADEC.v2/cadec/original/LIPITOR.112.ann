@@ -1,0 +1,16 @@
+T1	ADR 0 7	Anxiety
+#1	AnnotatorNotes T1	anxiety
+T2	ADR 9 17	paranoia
+#2	AnnotatorNotes T2	paranoia
+T3	Drug 236 243	Lipitor
+T4	Drug 176 185	Lipitor's
+T5	Drug 537 544	Lipitor
+T6	Drug 351 357	Niacin
+T7	Drug 297 304	Crestor
+T8	Finding 186 197	psychiatric
+T9	Drug 837 843	Niacin
+T10	Drug 920 927	Crestor
+T11	Drug 972 979	Lipitor
+T12	Drug 1043 1054	Phytosterol
+T13	Drug 1150 1156	Niacin
+T14	Disease 1239 1248	diabetics

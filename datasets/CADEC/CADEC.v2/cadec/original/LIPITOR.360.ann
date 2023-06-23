@@ -1,0 +1,15 @@
+T1	Drug 35 42	Lipitor
+T2	ADR 105 117	head hurting
+T3	ADR 137 150	very confused
+T4	ADR 167 176	exhausted
+T5	ADR 178 205	falling asleep all the time
+T6	ADR 228 257	legs always feeling like lead
+T7	ADR 378 391;401 410	constant pain shoulders
+T8	ADR 378 391;412 417	constant pain knees
+T9	ADR 442 458	whole body hurts
+T10	Disease 485 495	Parkinsons
+T11	Drug 574 581	Lipitor
+T12	Drug 724 731	Lipitor
+T13	ADR 764 768	pain
+T14	ADR 773 780	fatigue
+T15	ADR 785 800	muscle problems

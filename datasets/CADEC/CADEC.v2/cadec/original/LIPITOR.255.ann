@@ -1,0 +1,7 @@
+T3	ADR 88 110	abdominal flu symptoms
+#1	AnnotatorNotes T3	nonspecific abdominal pain, GI disturbance
+T4	Drug 138 145	Lipitor
+T5	Disease 225 239	osteoarthritis
+T6	ADR 0 34	Intermittent temperature elevation
+T7	ADR 58 76	severe joint aches
+T8	ADR 36 52	chronic diarrhea

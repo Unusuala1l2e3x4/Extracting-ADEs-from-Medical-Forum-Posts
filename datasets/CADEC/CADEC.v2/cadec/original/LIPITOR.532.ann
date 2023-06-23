@@ -1,0 +1,6 @@
+T1	ADR 0 12	Stomach pain
+T2	ADR 14 17	Gas
+T3	ADR 19 26	Burping
+T4	ADR 28 35	Diarhea
+T5	Drug 155 162	Lipitor
+T6	ADR 168 180	stomach pain

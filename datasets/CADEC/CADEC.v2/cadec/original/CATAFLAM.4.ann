@@ -1,0 +1,9 @@
+T1	ADR 22 32	drowsiness
+T2	ADR 42 51	dry mouth
+#1	AnnotatorNotes T2	xerostomia
+T3	ADR 106 116	drowsiness
+T5	Symptom 292 296	pain
+T6	Symptom 421 426	aches
+T7	Symptom 431 436	pains
+T8	Drug 462 467	Vioxx
+T4	Symptom 376 380	pain

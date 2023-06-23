@@ -1,0 +1,18 @@
+TT1	36349006 | Burning pain | + 287045000 | Pain in left arm |  0 24;25 30;41 49	Severe (burning) pain in upper left arm
+TT2	36349006 | Burning pain | + 287045000 | Pain in left arm |  0 24;35 40;41 49	Severe (burning) pain in lower left arm
+TT3	36349006 | Burning pain | + 53057004 | Hand pain | 0 24;54 63	Severe (burning) pain in left hand
+TT4	249913002 | Knee stiff | 65 74;84 97	stiffness in both knees
+TT5	30989003 | Knee pain | 79 83;84 97	pain in both knees
+TT6	279038004 | Thoracic back pain | 99 144	pain in upper back (over left shoulder blade)
+TT7	74323005 | Pain in elbow | 146 165	Pain in both elbows
+TT8	287045000 | Pain in left arm | 167 183	Pain in left arm
+TT9	76948002 | Severe pain | 340 358	Pain is so intense
+TT10	95891005 | Influenza-like illness | 475 492	flu-like symptoms
+TT11	30989003 | Knee pain | 531 552	pains in my left knee
+TT12	3723001 | Arthritis | 586 595	arthritus
+TT13	3723001 | Arthritis | 624 633	arthritus
+TT14	76948002 | Severe pain | 669 693	pain has been so intense
+TT15	3877011000036101 | Lipitor | 752 758	Liptor
+TT16	3877011000036101 | Lipitor | 826 832	Liptor
+TT17	22298006 | Myocardial infarction | 1060 1072	heart attack
+TT18	76948002 | Severe pain | 1115 1127	intense pain

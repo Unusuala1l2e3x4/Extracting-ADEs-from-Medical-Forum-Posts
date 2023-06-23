@@ -1,0 +1,33 @@
+TT1	76948002 | Severe pain | 0 11	Severe pain
+TT2	55300003 | Muscle cramp | 14 22	cramping
+TT3	26544005 | Muscle weakness | 54 69	Muscle weakness
+TT4	88092000 | Muscle atrophy | 72 79	atrophy
+TT6	309774006 | Weakness of limb | 100 114;123 128	Weak & wobbley knees
+TT7	13791008 | Asthenia | 100 114;131 137	Weak & wobbley wrists
+TT5	309774006 | Weakness of limb | 100 114;115 121	Weak & wobbley ankles
+TT8	250082003 | Hand cramps | 139 165	Cramping in wrists & hands
+TT9	CONCEPT_LESS 167 185	Rib cage tightness
+TT10	84229001 | Fatigue | 187 203	Constant fatigue
+TT11	193462001 | Insomnia | 205 213	Insomnia
+TT12	193462001 | Insomnia | 271 279	insomnia
+TT13	419723007 | Mentally dull | 282 298	Mental fogginess
+TT14	55533009 | Forgetful | 301 314	forgetfulness
+TT15	75694006 | Pancreatitis | 316 328	Pancreatitis
+TT16	166643006 | Liver enzymes abnormal | 356 378	Elevated liver enzymes
+TT17	197321007 | Steatosis of liver | 393 404	fatty liver
+TT18	23924001 | Tight chest | 405 420	Chest tightness
+TT19	267036007 | Dyspnoea | 423 437	breathlessness
+TT20	288939007 | Difficulty swallowing | 532 553	Difficulty swallowing
+TT21	102617004 | Congestion of throat | 556 574	swelling in throat
+TT22	277223000 | Swollen nasal mucosa | 812 834	Swollen nasal passages
+TT23	77424011000036100 | ubidecarenone | 906 913	Co Q 10
+TT24	CONCEPT_LESS 964 984	steroid nasal sprays
+TT25	53458011000036102 | Aleve | 986 993	allegra
+TT26	2929011000036108 | Nexium | 1035 1041	nexium
+TT27	193462001 | Insomnia | 1433 1441	insomnia
+TT28	161891005 | Backache | 1444 1453	back pain
+TT29	3877011000036101 | Lipitor | 1961 1968	Lipitor
+TT30	3848011000036104 | Pravachol | 2091 2100	pravachol
+TT31	3877011000036101 | Lipitor | 2119 2126	lipitor
+TT33	309774006 | Weakness of limb | 2232 2243;2254 2258	weakness in back
+TT32	309774006 | Weakness of limb | 2232 2243;2244 2251	weakness in my legs

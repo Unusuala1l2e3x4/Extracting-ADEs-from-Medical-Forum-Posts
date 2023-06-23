@@ -1,0 +1,11 @@
+T1	ADR 0 16	vaginal bleeding
+T2	ADR 21 29	cramping
+T3	Symptom 87 97	joint pain
+T4	ADR 135 154	return of my period
+T5	Symptom 415 419	pain
+T6	Drug 369 377	Cymbalta
+T7	Disease 183 196	endometriosis
+T8	Disease 201 212	adenomyosis
+T9	Disease 271 274	EDS
+T10	Symptom 235 263	impairment in blood clotting
+T12	Finding 44 53	menopause

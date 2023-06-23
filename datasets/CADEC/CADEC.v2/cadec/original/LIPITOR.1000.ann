@@ -1,0 +1,19 @@
+T1	ADR 0 8;29 33	Shoulder pain
+T2	ADR 10 14;29 33	knee pain
+T3	ADR 16 21;29 33	elbow pain
+T4	ADR 35 45	Memory fog
+T5	ADR 47 54	Anxiety
+T6	ADR 56 66	Low Libido
+T7	Drug 68 88	Atorvastatin generic
+T8	ADR 102 111	brain fog
+T9	ADR 207 217	joint pain
+T10	Drug 327 333	alleve
+T11	ADR 348 359	inflamation
+T12	ADR 364 368	pain
+T13	Symptom 387 394;405 413	pain in shoulder
+T14	Symptom 387 394;415 420	pain in elbow
+T15	Symptom 387 394;426 430	pain in knee
+T16	ADR 609 642	left shoulder is terribly painful
+T17	Finding 844 852	crippled
+T18	Finding 856 862	senile
+T19	Finding 759 775	high cholesterol

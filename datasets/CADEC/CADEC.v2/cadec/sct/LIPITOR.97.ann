@@ -1,0 +1,17 @@
+TT1	55533009 | Forgetful | 9 30	extreme forgetfulness
+TT2	76948002 | Severe pain | + 68962001 | Myalgia | 32 51	extreme muscle pain
+TT3	193462001 | Insomnia | 53 61	insomnia
+TT4	26079004 | Tremor | 63 70	tremors
+TT5	193031009 | Cluster headache | 72 89	cluster headaches
+TT6	274279008 | Renal pain | 90 101	kidney pain
+TT7	CONCEPT_LESS 103 119	urinary problems
+TT8	282145008 | Unable to walk | 128 142	unable to walk
+TT9	248255005 | Cannot sleep at all | 159 174	unable to sleep
+TT10	90708001 | Kidney disease | 176 191	kidney problems
+TT11	167232003 | Urine: dark/concentrated | 193 213	urine like root beer
+TT12	247640008 | Unable to think clearly | 275 305	inability to think fast enough
+TT13	286381004 | Unable to find words | 419 438	Couldn't find words
+TT14	62476001 | Disorientated | 440 455	got lost on way
+TT15	68962001 | Myalgia | 722 733	muscle pain
+TT16	84229001 | Fatigue | 738 745	fatigue
+TT17	84229001 | Fatigue | 806 813	fatigue

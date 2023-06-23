@@ -1,0 +1,18 @@
+T1	ADR 0 16	legs feel leaden
+T2	ADR 29 44	lower back pain
+T3	ADR 73 89	cramps in thighs
+T4	ADR 91 100	achy legs
+T5	ADR 102 116	lack of energy
+T6	ADR 118 147	More problems with my sinuses
+T7	ADR 162 176	severe vertigo
+T8	Finding 201 211	cold virus
+T9	Finding 254 258	cold
+T10	ADR 260 270	Severe gas
+T11	ADR 276 297	intestinal distention
+T12	ADR 299 311	Constipation
+T13	Drug 475 482	Lipitor
+T14	ADR 500 515	lower back pain
+T15	ADR 522 557	pain in my thighs (muscle cramping)
+T16	ADR 616 626	distention
+T17	ADR 631 634	gas
+T18	Finding 1217 1226	menopause

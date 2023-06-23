@@ -1,0 +1,11 @@
+T1	ADR 9 17	diarrhea
+T2	ADR 151 159	diarrhea
+T3	ADR 22 34	stomach pain
+T4	Drug 95 105	antibiotic
+T5	ADR 164 170	nausea
+T6	Symptom 311 315	pain
+T7	Drug 357 365	Voltaren
+T8	Symptom 384 399	pain in my knee
+T9	Disease 412 429	strained meniscus
+T10	Symptom 475 479	pain
+T11	Disease 112 127	sinus infection

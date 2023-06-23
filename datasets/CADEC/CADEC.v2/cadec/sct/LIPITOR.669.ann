@@ -1,0 +1,21 @@
+TT1	57676002 | Arthralgia | 0 10	jointaches
+TT2	10601006 | Pain in lower limb | 11 24	pains in legs
+TT3	68962001 | Myalgia | 25 39	musclesoreness
+TT4	47933007 | Foot pain | 41 45;46 51	feet pains
+TT5	49218002 | Hip pain | 46 51;52 56	pains hips
+TT6	81680005 | Neck pain | 46 51;57 61	pains neck
+TT7	161891005 | Backache | 62 70	backpain
+TT8	18876004 | Pain in finger | 71 78;100 104	fingers hurt
+TT9	285365001 | Pain in toe | 79 83;100 104	toes hurt
+TT10	25064002 | Headache | 84 88;100 104	head hurt
+TT11	29857009 | Chest pain | 89 94;100 104	chest hurt
+TT12	297217002 | Rib pain | 95 99;100 104	ribs hurt
+TT13	271807003 | Rash | 106 112	rashes
+TT14	418290006 | Itching | 113 119	itches
+TT15	3877011000036101 | Lipitor | 134 141	lipitor
+TT16	44054006 | Type 2 diabetes mellitus | 159 173	type2 diabetes
+TT17	3934011000036103 | Capoten | 394 401	capiten
+TT18	21747011000036106 | glipizide | 402 410	glcotrol
+TT19	32970011000036103 | Toprol-XL | 411 417	toprol
+TT20	26171000168109 | Lasix | 418 423	lasix
+TT21	21486011000036105 | tramadol | 425 431	ultram

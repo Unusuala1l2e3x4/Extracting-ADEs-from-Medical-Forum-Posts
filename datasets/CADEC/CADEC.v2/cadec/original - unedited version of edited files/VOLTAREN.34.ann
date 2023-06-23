@@ -1,0 +1,7 @@
+T1	ADR 307 313	nausea
+T2	ADR 119 137	heart was thumping
+T3	ADR 170 181	chest pains
+T4	ADR 215 237	pain in my kidney area
+T5	ADR 215 221;249 256	pain in stomach
+T6	ADR 318 333	skin irritation
+T7	Drug 375 383	Volteren

@@ -1,0 +1,12 @@
+T1	ADR 26 51	edema of fingers and face
+T2	ADR 98 117	shortness of breath
+T3	ADR 144 152	cramping
+T4	ADR 175 183	spotting
+T5	Drug 226 234	Voltaren
+T6	Symptom 342 354	muscle spasm
+T7	ADR 524 539	short of breath
+T8	ADR 541 549	cramping
+T9	ADR 554 561	bloated
+T10	ADR 129 139	crabbiness
+T11	ADR 185 213	Timing off for a true period
+T12	ADR 486 514	face and fingers are swollen

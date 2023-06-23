@@ -1,0 +1,9 @@
+T1	ADR 0 17;18 21	shrinking muscels leg
+T2	ADR 0 17;22 26	shrinking muscels arms
+T4	ADR 0 17;27 31	shrinking muscels neck
+T3	ADR 32 38	vertgo
+T5	ADR 44 66	convusing neck muscels
+T6	ADR 68 92	unable to get out of bed
+T8	ADR 93 100;110 116	loss of memory
+T7	ADR 93 100;101 109	loss of strength
+T9	ADR 117 130	halucinations

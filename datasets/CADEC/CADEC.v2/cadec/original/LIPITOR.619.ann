@@ -1,0 +1,14 @@
+T2	ADR 0 16;26 35	Terrible pain in shoulders
+T1	ADR 0 16;17 21	Terrible pain in hips
+T3	Drug 50 57	Lipitor
+T4	ADR 87 101	pain in my hip
+T5	ADR 191 211	pain in my shoulders
+T6	ADR 217 221;228 231	pain bad
+T14	ADR 279 314	extremely limits the use of my arms
+T7	Finding 423 433	tendonitis
+T8	Finding 437 455	avascular necrosis
+T9	ADR 581 585	pain
+T13	ADR 763 767	pain
+T10	Finding 881 893	heart attack
+T12	Finding 899 915	high cholesteral
+T11	Finding 1003 1007	pain

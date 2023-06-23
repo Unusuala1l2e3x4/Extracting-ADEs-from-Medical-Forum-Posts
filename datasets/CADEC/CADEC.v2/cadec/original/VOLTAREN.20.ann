@@ -1,0 +1,9 @@
+T1	Drug 84 92	Voltaren
+T2	Symptom 110 114	pain
+T3	Disease 401 420	High blood pressure
+T4	Disease 422 425	IBS
+T5	Disease 440 455	stomache ulcers
+T6	Disease 466 472	reflux
+T7	Symptom 474 484	heart burn
+T8	Disease 495 504	asthmatic
+T9	ADR 778 838	effectiveness of the pain relief can also wear off over time

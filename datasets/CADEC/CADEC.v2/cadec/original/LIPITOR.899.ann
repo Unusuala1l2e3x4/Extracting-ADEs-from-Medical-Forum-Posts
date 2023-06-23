@@ -1,0 +1,19 @@
+T1	Drug 24 31	lipitor
+T2	Drug 131 138	lipitor
+T3	Drug 276 283	lipitor
+T4	ADR 401 418	loss body balance
+T5	ADR 420 430	joint pain
+T6	ADR 432 444	muscle aches
+T7	ADR 446 455	weak legs
+T8	ADR 466 477	memory loss
+T9	ADR 529 551	lost some body balance
+T10	Drug 575 582	lipitor
+T11	Drug 786 793	lipitor
+T12	ADR 814 820;831 835	muscle pain
+T13	ADR 825 830;831 835	joint pain
+T14	ADR 860 876	lost some memory
+T15	Drug 941 948	lipitor
+T16	Drug 987 994	lipitor
+T17	Drug 1237 1239	B3
+T18	Drug 1243 1250	Niaspan
+T19	Drug 1262 1269	lipitor

@@ -1,0 +1,5 @@
+T1	ADR 131 142	acid reflux
+#1	AnnotatorNotes T1	Acid reflux is most often experienced as chest pain but they could be referring to the oral taste or sore throat
+T2	ADR 304 327	acidic bile in my mouth
+#2	AnnotatorNotes T2	Reflux
+T4	Symptom 80 84;94 100	pain severe

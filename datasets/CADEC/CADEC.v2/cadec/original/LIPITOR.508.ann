@@ -1,0 +1,8 @@
+T1	ADR 0 11	Muscle pain
+T2	ADR 71 79	Hip pain
+T3	ADR 123 139	cause me to limp
+T4	ADR 143 163;179 182	buzzing sensation in leg
+T5	ADR 239 252	muscle cramps
+T6	ADR 288 297	Knee pain
+T7	ADR 352 365	constant pain
+T8	Drug 415 422	Lipitor

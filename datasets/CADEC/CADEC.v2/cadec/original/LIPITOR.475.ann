@@ -1,0 +1,8 @@
+T1	ADR 0 23	inflamatory muscle pain
+T2	ADR 28 50	soreness in upper back
+T4	ADR 52 56;66 74	head pressure
+T3	ADR 52 56;57 61	head pain
+T5	ADR 83 108	feeling of being in a fog
+T6	Drug 184 191	Lipitor
+T7	ADR 277 281	pain
+T8	Drug 405 412	Lipitor

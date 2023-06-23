@@ -1,0 +1,6 @@
+T1	ADR 0 23	Severe numbness in hand
+T2	ADR 63 79	Tingling in feet
+T3	ADR 81 105	soreness in calf muscles
+T4	ADR 119 148	sharp shock like pain in head
+T5	Drug 285 292	lipitor
+T6	Disease 305 321	coronary disease

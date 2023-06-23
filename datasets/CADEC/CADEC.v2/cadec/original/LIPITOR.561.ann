@@ -1,0 +1,10 @@
+T1	ADR 0 8	Cramping
+T3	ADR 9 26;36 40	aching muscles in back
+T2	ADR 9 26;27 31	aching muscles in legs
+T4	ADR 42 59	Flu-like symptoms
+T5	ADR 64 71	fatigue
+T6	ADR 73 78	Foggy
+T7	ADR 80 101	out-of-touch feelings
+T8	ADR 106 127	unable to concentrate
+T9	Drug 148 153	zocor
+T10	Drug 274 281	lipitor

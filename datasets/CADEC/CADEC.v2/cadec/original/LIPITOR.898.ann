@@ -1,0 +1,11 @@
+T1	ADR 0 10	Joint pain
+T2	ADR 12 71	SEVERE muscle pain - especially in lower calfs of both legs
+T3	ADR 95 112	hard time walking
+T4	Drug 295 300	Zocor
+T5	Finding 356 368	heart attack
+T6	ADR 453 470	weak heart muscle
+T7	Drug 489 496	Lipitor
+T8	ADR 498 526	Lower legs have been hurting
+T9	ADR 607 617;632 640	leg muscle inflamed
+T10	ADR 688 700	much fatigue
+T11	Drug 764 768	CQ10

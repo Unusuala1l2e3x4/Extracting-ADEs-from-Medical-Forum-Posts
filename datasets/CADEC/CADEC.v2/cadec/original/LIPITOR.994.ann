@@ -1,0 +1,15 @@
+T1	ADR 46 54;68 73;74 78	tingling in my feet
+T2	ADR 46 54;68 73;83 88	tingling in my shins
+T3	ADR 59 67;68 73;74 78	numbness in my feet
+T4	ADR 59 67;68 73;83 88	numbness in my shins
+T5	ADR 136 149	my toes ached
+T6	ADR 154 166	my feet hurt
+T7	Drug 179 190	simvastatin
+T8	Drug 192 203	provastatin
+T9	Drug 209 219	lovastatin
+T10	ADR 258 283	can't even sleep at night
+T11	ADR 299 327;328 332	sensations of tingling in my legs
+T12	ADR 299 327;337 341	sensations of tingling in my feet
+T13	Finding 393 406;407 411	pain in their toes
+T14	Finding 393 406;413 417	pain in their feet
+T15	Finding 393 406;422 427	pain in their shins

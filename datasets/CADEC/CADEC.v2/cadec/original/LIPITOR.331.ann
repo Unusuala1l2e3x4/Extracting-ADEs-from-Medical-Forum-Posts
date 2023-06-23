@@ -1,0 +1,19 @@
+T1	Disease 7 27	Rhuematoid Arthritis
+T2	Disease 61 70	arthritis
+T3	Drug 95 102	Relefen
+T4	Drug 120 130	Prednisone
+T5	Symptom 107 118	inflamation
+T6	Drug 156 173	Enbrel injections
+T7	Drug 264 271	Lipitor
+T8	ADR 401 423	aching pain in my arms
+T9	ADR 508 528	could not sleep well
+T10	ADR 539 574	lost all the strength in my muscles
+T11	ADR 583 591	fatigued
+T12	Disease 623 632	arthritis
+T13	ADR 640 644	pain
+T14	Drug 691 698	Relefen
+T15	Drug 703 713	Prednisone
+T16	ADR 746 771	could hardly lift a glass
+T17	ADR 815 840	weak in my arms and hands
+T18	Drug 881 888	Lipitor
+T19	Drug 1060 1067	Lipitor

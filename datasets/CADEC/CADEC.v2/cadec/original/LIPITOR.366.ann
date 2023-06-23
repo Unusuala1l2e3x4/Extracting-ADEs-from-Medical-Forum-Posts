@@ -1,0 +1,13 @@
+T1	Drug 25 32	Lexapro
+T2	Drug 59 66	LIPITOR
+T3	Drug 122 129	Lipitor
+T4	ADR 202 215	MUSCLES ACHED
+T5	ADR 230 241	JOINTS HURT
+T6	ADR 295 313	EXTREME EXHAUSTION
+T7	Drug 365 372	LIPITOR
+T8	Drug 781 788	Lexapro
+T9	Drug 789 796	Lipitor
+T10	Disease 817 830	hypochondriac
+T11	ADR 846 861	bone deep aches
+T12	Drug 956 963	Lexapro
+T13	ADR 981 1003	joints that bark at me

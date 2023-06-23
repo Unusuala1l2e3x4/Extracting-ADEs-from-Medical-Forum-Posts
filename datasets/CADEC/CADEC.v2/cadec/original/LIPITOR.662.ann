@@ -1,0 +1,7 @@
+T1	ADR 63 69;76 80;89 91;92 96	muscle pain in legs
+T2	ADR 70 75;76 80;89 91;92 96	joint pain in legs
+T3	ADR 63 69;76 80;89 91;98 104	muscle pain in thighs
+T4	ADR 106 112;63 69;76 80;89 91	calves muscle pain in
+T5	ADR 70 75;76 80;89 91;98 104	joint pain in thighs
+T6	ADR 106 112;70 75;76 80;89 91	calves joint pain in
+T7	ADR 137 148	pain so bad

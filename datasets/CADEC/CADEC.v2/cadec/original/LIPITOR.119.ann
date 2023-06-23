@@ -1,0 +1,7 @@
+T1	ADR 13 21	sciatica
+#1	AnnotatorNotes T1	neurological pain
+T3	ADR 122 134	extreme pain
+T2	ADR 81 89	tingling
+T4	ADR 94 98	numb
+#2	AnnotatorNotes T4	anaesthesia
+T5	ADR 140 155	can barely walk

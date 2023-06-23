@@ -1,0 +1,26 @@
+T1	Drug 84 91	Mevacor
+T2	Drug 93 98	Zocor
+T3	Drug 100 107	Lipitor
+T4	Drug 112 117	Zetia
+T5	Drug 202 209	Lipitor
+T6	Drug 214 219	Zetia
+T8	ADR 344 359	pain in my neck
+T9	ADR 442 461	high blood pressure
+#1	AnnotatorNotes T9	hypertension
+T10	ADR 463 471	insomina
+#2	AnnotatorNotes T10	insomnia
+T11	ADR 473 489	blurred thinking
+#3	AnnotatorNotes T11	confusion?
+T12	ADR 430 440	sinus pain
+T13	Drug 732 739	Lipitor
+T14	Drug 852 859	Lipitor
+T15	ADR 921 925	pain
+T16	ADR 927 946	high blood pressure
+#4	AnnotatorNotes T16	hypertension
+T17	ADR 948 959	memory loss
+#5	AnnotatorNotes T17	amnesia
+T18	ADR 961 969	dizzines
+T19	Drug 161 168	Lipitor
+T20	ADR 287 294;304 308	pain in neck
+T7	ADR 287 294;298 302	pain in back
+T21	Disease 797 808;824 828	cholesterol high

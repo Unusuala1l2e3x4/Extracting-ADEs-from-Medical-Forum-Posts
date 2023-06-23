@@ -1,0 +1,6 @@
+T1	ADR 5 13	sedation
+#1	AnnotatorNotes T1	drowsiness
+T2	Drug 98 106	Voltaren
+T3	Symptom 127 131	pain
+T4	Finding 200 216	stomach problems
+T5	Finding 229 243	mellows me out

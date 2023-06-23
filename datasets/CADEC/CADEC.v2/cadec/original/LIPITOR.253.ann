@@ -1,0 +1,28 @@
+T1	ADR 8 15	fatigue
+T2	ADR 17 30	muscle aches,
+#1	AnnotatorNotes T2	myalgia
+T3	ADR 31 37	cramps
+#2	AnnotatorNotes T3	muscle spasm
+T4	ADR 39 54	MEMORY problems
+#3	AnnotatorNotes T4	amnesia
+T5	ADR 56 72	balance problems
+#4	AnnotatorNotes T5	nonspecific weakness or dizziness or vertigo
+T6	ADR 159 173	slurred speech
+#5	AnnotatorNotes T6	dysphasia
+T7	ADR 136 157	dry throat/hoarseness
+#6	AnnotatorNotes T7	hoarseness
+T8	Drug 175 182	Lipitor
+T9	Drug 362 369	Lipitor
+T10	Disease 467 476	arthritis
+T11	Disease 498 516	sorgren's syndrome
+#7	AnnotatorNotes T11	sjorgren syndrome
+T12	Drug 676 683	lipitor
+T13	ADR 615 629	slurred speech
+#8	AnnotatorNotes T13	dysphasia
+T14	ADR 595 610	memory problems
+#9	AnnotatorNotes T14	amnesia
+T15	ADR 74 92	cold toes and feet
+T16	Finding 102 122	circulatory problems
+T17	ADR 124 134	cold hands
+T18	Disease 553 563	alzheimers
+T19	Drug 810 815	CoQ10

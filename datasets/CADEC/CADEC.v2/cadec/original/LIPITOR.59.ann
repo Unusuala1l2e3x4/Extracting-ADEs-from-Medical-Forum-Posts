@@ -1,0 +1,33 @@
+T1	ADR 0 11	Severe pain
+T2	ADR 14 22	cramping
+T3	ADR 54 69	Muscle weakness
+T4	ADR 72 79	atrophy
+T6	ADR 100 114;123 128	Weak & wobbley knees
+T7	ADR 100 114;131 137	Weak & wobbley wrists
+T5	ADR 100 114;115 121	Weak & wobbley ankles
+T8	ADR 139 165	Cramping in wrists & hands
+T9	ADR 167 185	Rib cage tightness
+T10	ADR 187 203	Constant fatigue
+T11	ADR 205 213	Insomnia
+T12	Disease 271 279	insomnia
+T13	ADR 282 298	Mental fogginess
+T14	ADR 301 314	forgetfulness
+T15	ADR 316 328	Pancreatitis
+T16	ADR 356 378	Elevated liver enzymes
+T17	Disease 393 404	fatty liver
+T18	ADR 405 420	Chest tightness
+T19	ADR 423 437	breathlessness
+T20	ADR 532 553	Difficulty swallowing
+T21	ADR 556 574	swelling in throat
+T22	ADR 812 834	Swollen nasal passages
+T23	Drug 906 913	Co Q 10
+T24	Drug 964 984	steroid nasal sprays
+T25	Drug 986 993	allegra
+T26	Drug 1035 1041	nexium
+T27	Disease 1433 1441	insomnia
+T28	ADR 1444 1453	back pain
+T29	Drug 1961 1968	Lipitor
+T30	Drug 2091 2100	pravachol
+T31	Drug 2119 2126	lipitor
+T33	ADR 2232 2243;2254 2258	weakness in back
+T32	ADR 2232 2243;2244 2251	weakness in my legs

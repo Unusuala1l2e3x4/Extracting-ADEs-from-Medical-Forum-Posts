@@ -1,0 +1,29 @@
+TT1	3877011000036101 | Lipitor | 7 14	Lipitor
+TT2	134407002 | Chronic back pain | 63 90	chronic and acute back pain
+TT3	449917004 | Cramp in lower limb | 251 261	leg cramps
+TT4	CONCEPT_LESS 278 284	Baycol
+TT5	CONCEPT_LESS 286 292	Baycol
+TT6	3877011000036101 | Lipitor | 344 351	Lipitor
+TT7	250082003 | Hand cramps | 448 452;461 467	Hand cramps
+TT8	449917004 | Cramp in lower limb | 457 460;461 467	leg cramps
+TT9	57406009 | Carpal tunnel syndrome | 497 519	carpal tunnel syndrome
+TT11	3723001 | Arthritis | 625 643;661 667	inflammation of my joints
+TT10	26889001 | Myositis | 625 643;644 656	inflammation of my foot muscles
+TT12	202882003 | Plantar fasciitis | 685 718	plantar fasciitis of my left foot
+TT13	21885011000036105 | ibuprofen | 742 748	Motrin
+TT14	118932009 | Disorder of foot | 761 774	foot problems
+TT16	162076009 | Excessive upper gastrointestinal gas | 789 811;818 824	General weakness in my calves
+TT17	162076009 | Excessive upper gastrointestinal gas | 789 811;830 835	General weakness in my hands
+TT15	162076009 | Excessive upper gastrointestinal gas | 789 811;812 816	General weakness in my feet
+TT18	62507009 | Pins and needles | 840 848;861 884	tingling in the soles of my feet
+TT19	36031001 | Burning feet | 853 860;861 884	burning in the soles of my feet
+TT20	35489007 | Depression | 886 896	Depression
+TT21	3877011000036101 | Lipitor | 983 990	Lipitor
+TT29	124054003 | Increased cholesterol esters | 998 1014	high cholesterol
+TT22	3877011000036101 | Lipitor | 1045 1052	Lipitor
+TT23	56265001 | Heart disease | 1231 1244	heart disease
+TT24	3877011000036101 | Lipitor | 1465 1472	Lipitor
+TT25	228158008 | Walking disability | 1858 1876	difficulty walking
+TT26	387603000 | Impairment of balance | 1881 1905	problems with my balance
+TT27	3877011000036101 | Lipitor | 1996 2003	Lipitor
+TT28	3877011000036101 | Lipitor | 2132 2139	Lipitor

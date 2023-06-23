@@ -1,0 +1,21 @@
+T1	ADR 0 7;18 23	Swollen knees
+T3	ADR 0 7;28 34	Swollen elbows
+T4	ADR 12 17;28 34	stiff elbows
+T2	ADR 12 17;18 23	stiff knees
+T5	ADR 36 51	mental distress
+T6	Drug 161 168	Lipitor
+T7	ADR 184 189;227 232	knees stiff
+T9	ADR 184 189;237 241	knees sore
+T8	ADR 194 200;227 232	elbows stiff
+T10	ADR 194 200;237 241	elbows sore
+T11	Finding 318 344	Repetitive stress syndrome
+T12	Finding 384 393	arthritis
+T13	ADR 441 469	felt like an old (older) man
+T14	Drug 597 604	lipitor
+T15	ADR 827 839	stiff joints
+T16	ADR 876 885	stiffness
+T17	ADR 912 921	stiffness
+T18	Drug 1212 1219	lipitor
+T19	Finding 1243 1257	swollen joints
+T20	Finding 1302 1314	Sore muscles
+T21	Finding 1320 1340	stiff swollen joints

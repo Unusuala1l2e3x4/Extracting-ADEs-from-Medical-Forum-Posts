@@ -1,0 +1,13 @@
+TT1	22253000 | Pain | 0 20	Constant aching/pain
+TT2	13791008 | Asthenia | 25 33	weakness
+TT4	279039007 | Low back pain | 80 87;103 113	Pain in lower back
+TT3	300954003 | Pain in calf | 80 87;88 98	Pain in lower legs
+TT5	162076009 | Excessive upper gastrointestinal gas | 153 156	Gas
+TT6	62315008 | Diarrhoea | 170 178	diarrhea
+TT7	59050008 | Initial insomnia | 180 207	Difficulty getting to sleep
+TT8	68962001 | Myalgia | 215 229	aching muscles
+TT9	21499005|Feeling agitated 232 249	Severe aggitation
+TT10	225005002 | Unable to control anger | 255 268	quick to snap
+TT11	24199005 | Feeling agitated | 399 409	aggitation
+TT12	224960004 | Tired | 468 473	tired
+TT13	3877011000036101 | Lipitor | 617 624	Lipitor

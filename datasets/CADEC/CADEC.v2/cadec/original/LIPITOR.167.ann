@@ -1,0 +1,21 @@
+T2	ADR 109 115	rashes
+T3	ADR 133 148	sun sensitivity
+#2	AnnotatorNotes T3	photosensitivity
+T4	ADR 163 170	itching
+T5	Drug 352 359	Lipitor
+T7	Drug 399 408	Pravachol
+T8	Drug 450 456	Lopids
+T9	Drug 567 574	Lipitor
+T10	ADR 528 533	fever
+#3	AnnotatorNotes T10	fever
+T11	ADR 645 649	sick
+#4	AnnotatorNotes T11	nonspecific malaise
+T12	ADR 0 21	heaviness in the legs
+T13	ADR 23 42	foot and leg cramps
+T1	ADR 175 180	scabs
+T14	Disease 212 222	depression
+T15	ADR 241 256	sun sensitivity
+T16	Drug 193 207	St John's Wort
+T17	ADR 299 327	I'm up all night in bathroom
+T6	ADR 432 448	my skin in boils
+T18	ADR 481 505	coming down with the flu

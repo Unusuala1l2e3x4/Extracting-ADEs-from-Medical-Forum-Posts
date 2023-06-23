@@ -1,0 +1,13 @@
+TT1	10033371 + 10033473 0 15	Severe leg pain
+TT2	10003549 20 28	weakness
+TT3	10011301 30 46;47 51	muscle cramps in legs
+TT4	10016964 30 46;53 57	muscle cramps in feet
+TT5	10011292 30 46;59 63	muscle cramps in arms
+TT6	10067893 30 46;65 69	muscle cramps in ribs
+TT7	10063006 30 46;71 75	muscle cramps in face
+TT9	10028641 259 274	muscle problems
+TT10	10033371 + 10028411 345 356;376 383	severe pain muscles
+TT12	10033371 + 10033473 345 356;400 404	severe pain legs
+TT11	10028350 361 372;376 383	weakness in muscles
+TT13	10047868 361 372;400 404	weakness in legs
+TT14	CONCEPT_LESS 408 450	can barely make it up one flight of stairs

@@ -1,0 +1,10 @@
+T1	ADR 201 208	Fatigue
+T2	ADR 310 316;327 331	muscle pain
+T3	ADR 321 326;327 331	joint pain
+T4	ADR 345 371	felt much older than I was
+T5	ADR 395 417	short term memory loss
+T6	ADR 468 488;489 493	blisterey rash on my arms
+T7	ADR 468 488;498 502	blisterey rash on my legs
+T8	ADR 611 631	vision became blurry
+T9	Drug 704 711	Lipitor
+T10	Drug 793 805	Simivastatin

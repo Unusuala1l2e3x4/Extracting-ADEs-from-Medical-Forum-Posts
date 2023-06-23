@@ -1,0 +1,5 @@
+T1	ADR 0 13	Stomach pains
+T2	ADR 21 30	dry mouth
+#1	AnnotatorNotes T2	xerostomia
+T3	ADR 35 45	drowsiness
+T4	ADR 15 19	gass

@@ -1,0 +1,24 @@
+T1	ADR 10 28	severn calf cramps
+#1	AnnotatorNotes T1	muscle spasm
+T2	Drug 56 63	Lipitor
+T3	Drug 149 156	Lipitor
+T4	Drug 231 238	Lipitor
+T5	Drug 352 359	Lipitor
+T6	Drug 886 893	Liptior
+T7	Drug 1042 1049	Liptior
+T8	Drug 1105 1112	Lipitor
+T9	ADR 731 749	right knee swelled
+#2	AnnotatorNotes T9	arthritis
+T10	ADR 78 89	bearly walk
+T11	ADR 175 185	leg cramps
+T12	ADR 252 262	leg cramps
+T13	ADR 310 320	leg cramps
+T14	ADR 445 462	severn leg cramps
+T15	Drug 539 546	Lipitor
+T16	ADR 571 577	cramps
+T17	ADR 612 618	cramps
+T18	Finding 636 649	muscle enemze
+T19	ADR 717 727	leg cramps
+T20	ADR 810 820	leg cramps
+T21	ADR 911 921	leg cramps
+T22	ADR 987 993	cramps

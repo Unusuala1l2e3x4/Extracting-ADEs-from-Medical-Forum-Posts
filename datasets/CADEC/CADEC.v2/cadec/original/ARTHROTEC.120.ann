@@ -1,0 +1,13 @@
+T1	ADR 58 74	uterine cramping
+#1	AnnotatorNotes T1	Cramping pain
+T2	ADR 164 173	nauseated
+T3	ADR 175 198	several bowel movements
+T4	ADR 373 425	vaginal bleeding and I am only 11 days into my cycle
+T5	ADR 128 162	cold sweat, shaking uncontrollably
+#2	AnnotatorNotes T5	Feeling symptoms of shock
+T6	ADR 76 108	It felt like I was having a baby
+T7	ADR 200 235	I felt like I was going to pass out
+T8	ADR 300 304	pain
+T9	ADR 481 499	gut wrenching pain
+T10	ADR 504 520	going into shock
+T11	Drug 560 569	Ibuprofen

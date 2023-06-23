@@ -1,0 +1,17 @@
+T1	ADR 17 24	fatigue
+T2	ADR 25 35	depression
+#1	AnnotatorNotes T2	depression
+T3	Disease 59 70	fibromalgia
+T4	ADR 94 103	knee pain
+T5	ADR 116 124	hip pain
+T6	ADR 151 155	pain
+T7	ADR 178 193	irritable colon
+#2	AnnotatorNotes T7	nonspecific GI disturbance
+T8	ADR 223 231	diarrhea
+T9	ADR 301 309	swelling
+#3	AnnotatorNotes T9	oedema
+T10	ADR 314 318	pain
+T11	Drug 372 379	Lipitor
+T13	Disease 254 261	colitis
+T14	ADR 436 444	swelling
+T15	ADR 453 457	pain

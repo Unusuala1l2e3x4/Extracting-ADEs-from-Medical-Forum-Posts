@@ -1,0 +1,8 @@
+T1	ADR 0 12	Muscle aches
+#1	AnnotatorNotes T1	myalgia
+T2	ADR 14 38	Vision severe impairment
+#2	AnnotatorNotes T2	vision changes
+T3	ADR 51 55	pain
+T4	ADR 210 218	eye pain
+#3	AnnotatorNotes T4	ocular pain
+T5	ADR 60 77	heaviness in eyes

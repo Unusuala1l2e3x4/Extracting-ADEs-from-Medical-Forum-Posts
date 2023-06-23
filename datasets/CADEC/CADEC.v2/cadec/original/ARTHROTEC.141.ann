@@ -1,0 +1,14 @@
+T1	ADR 77 86	dizziness
+T2	ADR 88 94	nausea
+T3	ADR 100 112	stomach pain
+T4	ADR 157 177	pain in major joints
+T5	ADR 219 242	Elevated blood pressure
+#1	AnnotatorNotes T5	hypertension
+T6	ADR 247 265	heart palpitations
+#2	AnnotatorNotes T6	palpitations
+T7	ADR 287 292	dizzy
+T8	ADR 316 353	Extreme gas in stomach and intestines
+#3	AnnotatorNotes T8	bloating
+T9	ADR 386 411	acid reflux-type symptoms
+#4	AnnotatorNotes T9	dyspepsia
+T10	ADR 452 458	reflux

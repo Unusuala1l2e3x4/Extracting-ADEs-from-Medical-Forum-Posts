@@ -1,0 +1,13 @@
+TT1	88092000 | Muscle atrophy | 0 21;22 31	muscle wasting in the shoulders
+TT2	88092000 | Muscle atrophy | 0 21;36 40	muscle wasting in the arms
+TT3	386033004 | Neuropathy | 41 67	nerve problems in shoulder
+TT4	84229001 | Fatigue | 70 77	fatigue
+TT5	80585000 | Intolerant of cold | 82 108	very sensative to the cold
+TT6	77436011000036106 | fish oil natural | 261 269	fish oil
+TT7	77424011000036100 | ubidecarenone | 270 280	coenzyme10
+TT8	77435011000036104 | ascorbic acid |  281 286	vit c
+TT9	CONCEPT_LESS 291 308	alpha lipoic acid
+TT10	3877011000036101 | Lipitor | 400 407	lipitor
+TT11	21395011000036107 | ramipril | 409 417	ramipril
+TT12	21662011000036107 | metoprolol | 422 432	metoptolol
+TT13	90560007 | Gout | 452 456	gout

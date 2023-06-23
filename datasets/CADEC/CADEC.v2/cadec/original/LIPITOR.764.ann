@@ -1,0 +1,9 @@
+T1	ADR 0 20	Minor joint soreness
+T2	ADR 22 29	fatigue
+T3	ADR 113 130;140 147	Right knee always swollen
+T4	ADR 113 130;131 135	Right knee always sore
+T5	Drug 217 224	Lipitor
+T6	Drug 239 244	Lopid
+T7	Drug 277 288	Glucosamine
+T8	Drug 293 304	Chondroitin
+T9	Finding 315 329	joint soreness

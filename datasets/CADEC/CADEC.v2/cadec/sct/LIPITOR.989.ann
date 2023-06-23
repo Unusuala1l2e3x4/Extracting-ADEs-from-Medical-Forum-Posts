@@ -1,0 +1,14 @@
+TT1	76948002 | Severe pain | + 10601006 | Pain in lower limb | 0 15	Severe leg pain
+TT2	13791008 | Asthenia | 20 28	weakness
+TT3	449917004 | Cramp in lower limb | 30 46;47 51	muscle cramps in legs
+TT4	102551008 | Cramp in foot | 30 46;53 57	muscle cramps in feet
+TT5	424647005 | Cramp in limb | 30 46;59 63	muscle cramps in arms
+TT6	203095000 | Spasm of back muscles | 30 46;65 69	muscle cramps in ribs
+TT7	32402008 | Facial spasm | 30 46;71 75	muscle cramps in face
+TT8	3877011000036101 | Lipitor | 185 192	Lipitor
+TT9	129565002 | Myopathy | 259 274	muscle problems
+TT10	76948002 | Severe pain |+ 68962001 | Myalgia |  345 356;376 383	severe pain muscles
+TT12	76948002 | Severe pain |+ 10601006 | Pain in lower limb | 345 356;400 404	severe pain legs
+TT11	26544005 | Muscle weakness | 361 372;376 383	weakness in muscles
+TT13	309774006 | Weakness of limb | 361 372;400 404	weakness in legs
+TT14	282195009 | Difficulty walking up stairs | 408 450	can barely make it up one flight of stairs

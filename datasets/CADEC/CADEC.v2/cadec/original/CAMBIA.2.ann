@@ -1,0 +1,4 @@
+T1	ADR 15 21	nausea
+T2	ADR 72 89	bleeding problems
+#1	AnnotatorNotes T2	haemorrhage
+T3	Disease 97 105	migraine

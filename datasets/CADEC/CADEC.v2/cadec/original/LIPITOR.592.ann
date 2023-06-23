@@ -1,0 +1,19 @@
+T1	Drug 13 20	lipitor
+T2	ADR 70 74;102 106	foot pain
+T3	ADR 76 80;102 106	shin pain
+T4	ADR 82 86;102 106	knee pain
+T5	ADR 88 93;102 106	thigh pain
+T6	ADR 98 101;102 106	hip pain
+T7	ADR 108 116;131 135	shoulder pain
+T8	ADR 118 121;131 135	arm pain
+T9	ADR 126 130;131 135	hand pain
+T10	ADR 148 164	balance problems
+T11	ADR 166 176	clumsiness
+T12	ADR 186 197	memory loss
+T13	ADR 223 231	bloating
+T14	ADR 236 246	flatulence
+T15	Drug 277 284	Lipitor
+T16	Drug 289 296	Effexor
+T17	Finding 396 414	Multiple Sclerosis
+T18	Finding 422 436	brain problems
+T19	Drug 478 485	Lipitor

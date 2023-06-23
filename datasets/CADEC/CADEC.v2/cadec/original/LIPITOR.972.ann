@@ -1,0 +1,13 @@
+T1	Finding 108 120	brain cancer
+T2	ADR 326 366	brain cancer (glial cell related cancer)
+T3	ADR 373 379	cancer
+T4	Drug 428 435	Lipitor
+T5	ADR 474 480	cancer
+T6	Drug 828 835	Lipitor
+T7	Drug 1049 1056	Lipitor
+T8	ADR 1443 1455	brain cancer
+T9	ADR 1546 1565	neurological damage
+T10	ADR 1583 1595	brain cancer
+T11	ADR 1599 1608	bedridden
+T13	ADR 1610 1619;1627 1639	unable to feed himself
+T12	ADR 1610 1619;1620 1625	unable to speak

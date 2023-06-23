@@ -1,0 +1,9 @@
+T1	Drug 22 31	Arthrotec
+T2	ADR 67 89	severe mentrual cramps
+T3	Drug 103 121	birth control pill
+T4	Drug 230 235	Advil
+T5	Symptom 503 512	endo pain
+T6	ADR 181 193	so much pain
+T9	Symptom 331 339	abortion
+T11	Finding 444 453	menopause
+#1	AnnotatorNotes T3	I am not sure if this can be mapped to anything in AMT or SCT.

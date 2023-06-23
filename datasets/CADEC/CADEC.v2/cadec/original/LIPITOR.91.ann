@@ -1,0 +1,10 @@
+T1	ADR 0 16	Severe back pain
+T2	ADR 17 29	muscles pain
+T3	ADR 30 44	loss of energy
+T4	ADR 46 56	depression
+T5	ADR 112 117	pains
+T6	Drug 140 149	trazadone
+T7	Drug 128 138	testonrone
+T8	Drug 119 126	thyroid
+T9	Drug 195 202	Lipitor
+T10	Drug 219 226	lipitor
