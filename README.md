@@ -14,14 +14,11 @@
 
 
 ## processed dataset versions
-### v1 settings:
+### v1 settings (bad):
 - BIOE
-- no finetuning
 
 ### v2 settings:
 - BIOES
-- no finetuning
 
 ### v3 settings:
 - BIO
-- no finetuning
