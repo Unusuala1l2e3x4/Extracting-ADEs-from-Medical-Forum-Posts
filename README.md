@@ -1,7 +1,7 @@
 
 
 # Project Report pdf:
-- project final report/SI630_Project_Final_Report.pdf
+- [project final report/SI630_Project_Final_Report.pdf](https://github.com/Unusuala1l2e3x4/Extracting-ADEs-from-Medical-Forum-Posts/blob/main/project%20final%20report/SI630_Project_Final_Report.pdf)
 
 ## Resume Entry
 Extracting Adverse Drug Events (ADEs) from Medical Forum Posts\
