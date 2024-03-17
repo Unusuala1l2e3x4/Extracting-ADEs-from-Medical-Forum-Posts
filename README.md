@@ -6,9 +6,10 @@ Project Report: [project final report/SI630_Project_Final_Report.pdf](https://gi
 Extracting Adverse Drug Events (ADEs) from Medical Forum Posts\
 February 2023 – April 2023\
 SI 630 – NLP: Algorithms and People
--	Identified ADEs and associated terms in an annotated corpus with Named Entity Recognition (NER) modeling with Flair and PyTorch.
--	Conducted few-shot learning on pre-trained transformer models such as XLM-RoBERTa, SpanBERT, and Bio_ClinicalBERT.
--	Achieved F1 scores of 0.73 and 0.77 for BIOES and BIO tagging models, respectively, performing comparatively to models in related studies.
+-	Applied NER modeling using Flair and PyTorch libraries to identify ADEs and associated drugs, symptoms, and diseases in an annotated corpus of 1,250 forum posts.
+-	Conducted fine-tuning of pre-trained transformer models from Hugging Face, such as XLM-RoBERTa, SpanBERT, and Bio_ClinicalBERT, to enhance model accuracy.
+-	Achieved F1 scores of 0.73 and 0.77 for BIOES and BIO tagging schemes, respectively, performing similarly to models in related studies.
+
 
 
 ## dataset info
