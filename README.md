@@ -5,7 +5,7 @@ Project Report: [project final report/SI630_Project_Final_Report.pdf](https://gi
 
 
 ## dataset info
-- https://www.sciencedirect.com/science/article/pii/S1532046415000532
+- original paper: https://www.sciencedirect.com/science/article/pii/S1532046415000532
 - 1250 forum posts
 - 2.5 MB when combined with metadata
 
