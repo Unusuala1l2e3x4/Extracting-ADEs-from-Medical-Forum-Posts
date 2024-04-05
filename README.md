@@ -14,6 +14,8 @@ SI 630 – NLP: Algorithms and People
 
 ## dataset info
 - https://www.sciencedirect.com/science/article/pii/S1532046415000532
+- 1250 forum posts
+- 2.5 MB when combined with metadata
 
 
 ## flair version
