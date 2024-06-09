@@ -1,3 +1,0 @@
-No side effects.
-lowered LDl by over 50%.
-itis now under 70.
